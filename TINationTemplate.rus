@@ -12,7 +12,7 @@ TINationTemplate.nationAdjective.AKA=Аляскинский
 TINationTemplate.displayNameWithArticlePrep.AKA=на Аляске
 TINationTemplate.displayName.ALN=Инопланетная администрация
 TINationTemplate.displayNameWithArticle.ALN=Инопланетная администрация
-TINationTemplate.nationAdjective.ALN=Чужой
+TINationTemplate.nationAdjective.ALN=Пришелец
 TINationTemplate.displayNameWithArticlePrep.ALN=в инопланетной нации
 TINationTemplate.displayName.ALP=Альпийские штаты
 TINationTemplate.displayNameWithArticle.ALP=альпийские штаты
@@ -97,7 +97,7 @@ TINationTemplate.nationAdjective.AKA=Аляскинский
 TINationTemplate.displayNameWithArticlePrep.AKA=на Аляске
 TINationTemplate.displayName.ALN=Инопланетная администрация
 TINationTemplate.displayNameWithArticle.ALN=Инопланетная администрация
-TINationTemplate.nationAdjective.ALN=Чужой
+TINationTemplate.nationAdjective.ALN=Пришелец
 TINationTemplate.displayNameWithArticlePrep.ALN=в инопланетной нации
 TINationTemplate.displayName.ALP=Альпийские штаты
 TINationTemplate.displayNameWithArticle.ALP=альпийские штаты
@@ -823,7 +823,7 @@ TINationTemplate.unionDisplayNameWithArticlePrep.AGO=в Великом своб�
 
 TINationTemplate.unionDisplayName.ALN=Инопланетная Федерация
 TINationTemplate.unionDisplayNameWithArticle.ALN=Инопланетная Федерация
-TINationTemplate.unionAdjective.ALN=Чужой
+TINationTemplate.unionAdjective.ALN=Пришелец
 TINationTemplate.unionDisplayNameWithArticlePrep.ALN=в Федерации пришельцев
 
 TINationTemplate.unionDisplayName.AUS=Республика Южного Креста
