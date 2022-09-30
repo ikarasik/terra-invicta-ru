@@ -1,5 +1,5 @@
 UI.Council.RecruitButton=Нанять
-UI.Council.CouncilNameCouncil={0} Советник // Название совета
+UI.Council.CouncilNameCouncil={0} Совет // Название совета
 UI.Council.ReservedForTurned=В этом слоте будет показан вражеский советник, которого мы повернули на нашу сторону.
 UI.Council.CouncilSize5=Мы должны разработать проект "Тайные ячейки", чтобы нанять пятого советника.
 UI.Council.CouncilSize6=Мы должны разработать проект «Скрытые операции», чтобы нанять шестого советника.

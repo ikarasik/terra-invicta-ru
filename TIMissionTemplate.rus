@@ -19,7 +19,7 @@ TIMissionTemplate.Success.Propaganda=Я усилил поддержку {myFacti
 TIMissionTemplate.Failure.Propaganda=Моя миссия {missionName} {targetNationNameWithPrep} не оказала влияния на поддержку населения.
 TIMissionTemplate.CriticalFailure.Propaganda=Моя миссия {missionName} {targetNationNameWithPrep} провалилась! {returnedValue}
 
-TIMissionTemplate.displayName.Purge=Очистить
+TIMissionTemplate.displayName.Purge=Зачистка
 TIMissionTemplate.description.Purge=Заберите контрольную точку у вражеской фракции.
 TIMissionTemplate.CriticalSuccess.Purge=Мы взяли контрольную точку для {myFactionName} {targetNationNameWithPrep} у {returnedValue} и получили некоторую общественную поддержку для этого.
 TIMissionTemplate.Success.Purge=Мы удалили сторонников {returnedValue} и взяли контрольную точку для {myFactionName} {targetNationNameWithPrep}.
@@ -47,7 +47,7 @@ TIMissionTemplate.Failure.AssaultAlienAsset=Мы были отброшены з�
 TIMissionTemplate.CriticalFailure.AssaultAlienAsset=Наша атака не нанесла никакого ущерба цели.
 TIMissionTemplate.CouncilorKilled.AssaultAlienAsset={0} был убит во время операции!
 
-TIMissionTemplate.displayName.AssumeControl=Предоставить контроль над пришельцами
+TIMissionTemplate.displayName.AssumeControl=Предоставить контроль инопланетянам
 TIMissionTemplate.description.AssumeControl=Мы передаем подконтрольную нам страну в управление Инопланетян. Мы должны были построить там объект. Эта миссия создаст новую инопланетную нацию, если таковой не существует. Взамен они предоставят нам ресурсы.
 TIMissionTemplate.Success.AssumeControl=Мы предоставили {targetNationNameWithArticle} нашим благотворителям.
 
@@ -59,7 +59,7 @@ TIMissionTemplate.displayName.SetNationalPolicy=Установить нацио�
 TIMissionTemplate.description.SetNationalPolicy=Установите основную политику для целевой нации, например, начало войны. Вы выберете политику, когда миссия разрешится. Требует исполнительного контроля.
 TIMissionTemplate.Success.SetNationalPolicy=Я выполнил задание по установке национальной политики {targetNationNameWithPrep}.
 
-TIMissionTemplate.displayName.Contact=Контакт
+TIMissionTemplate.displayName.Contact=Переговоры
 TIMissionTemplate.description.Contact=Свяжитесь с идентифицированным советником из другой фракции, чтобы начать дипломатический обмен.
 TIMissionTemplate.Success.Contact=Я связался с {targetDisplayName} из {targetFactionName} для дипломатического обмена.
 
@@ -77,7 +77,7 @@ TIMissionTemplate.Success.Coup=Моя попытка государственн�
 TIMissionTemplate.Failure.Coup=Я провалил свою миссию {missionName} {targetNationNameWithPrep}.
 TIMissionTemplate.CriticalFailure.Coup=Катастрофа! Мне не удалось свергнуть правительство {targetNationNameWithPrep}! {returnedValue}
 
-TIMissionTemplate.displayName.Crackdown=Разгром
+TIMissionTemplate.displayName.Crackdown=Подавление
 TIMissionTemplate.description.Crackdown=Временно отключает преимущества контрольной точки, снимая любую защиту и облегчая Очищение другой фракции.
 TIMissionTemplate.CriticalSuccess.Crackdown=Мы провели успешное подавление {targetFactionName} {targetNationNameWithPrep}. Их контрольная точка {controlPointTypeDisplayName} будет отключена до {returnedValue}.
 TIMissionTemplate.Success.Crackdown=Мы провели успешное подавление {targetFactionName} {targetNationNameWithPrep}. Их контрольная точка {controlPointTypeDisplayName} будет отключена до {returnedValue}.
@@ -124,7 +124,7 @@ TIMissionTemplate.Failure.EnthrallOrg=Нам не удалось получит�
 TIMissionTemplate.CriticalFailure.EnthrallOrg=Нам не удалось захватить организацию, принадлежащую {targetDisplayName} из {targetFactionName}, и, возможно, наши враги определили, что я руководил операцией.
 TIMissionTemplate.Prompt.EnthrallOrg=Выберите организацию для кражи у {0}...
 
-TIMissionTemplate.displayName.EnthrallUnalignedElites=Поработить неприсоединившихся элит
+TIMissionTemplate.displayName.EnthrallUnalignedElites=Подчинить неприсоединившиеся элиты
 TIMissionTemplate.description.EnthrallUnalignedElites=Пришельцы получают контрольную точку без союзников для своих сторонников-людей в целевой стране.
 TIMissionTemplate.CriticalSuccess.EnthrallUnalignedElites=Наши союзники-люди получили контрольную точку {targetNationNameWithPrep}, и общественная поддержка переместилась в их пользу.
 TIMissionTemplate.Success.EnthrallUnalignedElites=Наши союзники-люди получили контрольную точку {targetNationNameWithPrep}.
@@ -150,7 +150,7 @@ TIMissionTemplate.Failure.HostileTakeover=Нам не удалось захва�
 TIMissionTemplate.CriticalFailure.HostileTakeover=Нам не удалось захватить организацию, принадлежащую {targetDisplayName} из {targetFactionName}, и, вероятно, наши враги определили, что я руководил операцией.
 TIMissionTemplate.Prompt.HostileTakeover=Выберите организацию для кражи у {0}...
 
-TIMissionTemplate.displayName.Inspire=Вдохновение
+TIMissionTemplate.displayName.Inspire=Воодушевить
 TIMissionTemplate.description.Inspire=Повысить лояльность другого советника, сделав его более устойчивым к допросам и попыткам обратить его. Также может вернуть на нашу сторону бывшего советника.
 TIMissionTemplate.CriticalSuccess.Inspire=После того, как мы поговорили, наш советник {targetDisplayNameSent}, кажется, с большим энтузиазмом относится к нашим усилиям. {returnedValue}
 TIMissionTemplate.Success.Inspire=Наш советник {targetDisplayNameSent}, кажется, больше воодушевлен этим делом. {returnedValue}
@@ -175,11 +175,11 @@ TIMissionTemplate.Success.InvestigateCouncilor=Мы улучшили наши з
 TIMissionTemplate.Failure.InvestigateCouncilor=Мне не удалось узнать ничего нового о {targetDisplayNameSent}. {returnedValue}
 TIMissionTemplate.CriticalFailure.InvestigateCouncilor=Мне не удалось ничего узнать о {targetDisplayNameSent}, и, возможно, меня обнаружили наши враги. {returnedValue}
 
-TIMissionTemplate.displayName.Orbit=Орбита
+TIMissionTemplate.displayName.Orbit=На орбиту
 TIMissionTemplate.description.Orbit=Переместиться с поверхности Земли на любую орбиту в системе Земля-Луна или с поверхности любого космического тела на станцию ​​или корабль на орбите интерфейса. Черта «Под прикрытием», необходимая для путешествий к вражеским аванпостам, платформам и кораблям.
 TIMissionTemplate.Success.Orbit=Я прибыл на борт {targetLocationStrSentence}.
 
-TIMissionTemplate.displayName.Deorbit=Отклонение от орбиты
+TIMissionTemplate.displayName.Deorbit=Вернуться с орбиты
 TIMissionTemplate.description.Deorbit=Переместиться из хаба или корабля на интерфейсной орбите на поверхность космического тела или из любого места в системе Земля-Луна на поверхность Земли.
 TIMissionTemplate.Success.Deorbit=Я твердо стою на ногах.
 
@@ -191,7 +191,7 @@ TIMissionTemplate.displayName.Protect=Защитить цель
 TIMissionTemplate.description.Protect=Применить мой атрибут "Безопасность" или "Командование" для защиты целевого советника, региона или хаба от физических атак или других операций. Также предотвратит смерть советника в неудачных штурмовых миссиях.
 TIMissionTemplate.Success.Protect=Теперь я защищаю {targetDisplayName} от вражеских операций.
 
-TIMissionTemplate.displayName.SabotageFacilities=Саботаж объектов
+TIMissionTemplate.displayName.SabotageFacilities=Саботаж объекта
 TIMissionTemplate.description.SabotageFacilities=Саботировать выбранный космический объект в регионе.
 TIMissionTemplate.CriticalSuccess.SabotageFacilities=Мои бомбы нанесли значительный ущерб {targetDisplayName}. Маловероятно, что наша причастность будет обнаружена.
 TIMissionTemplate.Success.SabotageFacilities=Мне удалось саботировать {targetDisplayName}.
@@ -262,8 +262,8 @@ TIMissionTemplate.Success.Turn=Мы обратились {targetDisplayName} к 
 TIMissionTemplate.Failure.Turn=Нам не удалось обратить {targetDisplayName} в нашу пользу.
 TIMissionTemplate.CriticalFailure.Turn=Мне не удалось привлечь {targetDisplayName} к нашему делу, и похоже, что мое местонахождение известно {targetFactionName}.
 
-TIMissionTemplate.displayName.Unrest=Увеличить беспорядки
-TIMissionTemplate.description.Unrest=Увеличить беспорядки в нации целевого региона, нанося ущерб экономике и повышая вероятность переворотов, революций и отделений. Успех в регионе с движением за независимость может спровоцировать отделение там.
+TIMissionTemplate.displayName.Unrest=Подстрекать беспорядки
+TIMissionTemplate.description.Unrest=Подстрекать беспорядки в нации целевого региона, нанося ущерб экономике и повышая вероятность переворотов, революций и отделений. Успех в регионе с движением за независимость может спровоцировать отделение там.
 TIMissionTemplate.CriticalSuccess.Unrest=Мои усилия увеличили беспорядки {targetNationNameWithPrep} на {returnedValue} до {targetNationUnrestWithString}. Теперь у нас есть некоторая поддержка среди повстанческих движений здесь, если они когда-нибудь свергнут правительство.
 TIMissionTemplate.Success.Unrest=Мои усилия увеличили беспорядки {targetNationNameWithPrep} на {returnedValue} до {targetNationUnrestWithString}. Теперь у нас есть некоторая поддержка среди повстанческих движений здесь, если они когда-нибудь свергнут правительство.
 TIMissionTemplate.Failure.Unrest=Мне не удалось увеличить беспорядки {targetNationNameWithPrep}.
@@ -296,7 +296,7 @@ TIMissionTemplate.displayName.ExploitWin=Приручить врага
 TIMissionTemplate.description.ExploitWin=Отправить пакет неофероцитов через червоточину. Мы должны атаковать базу пришельцев и приземлиться первыми. Требуется, чтобы мы выполнили наши цели победы.
 TIMissionTemplate.Success.ExploitWin=Мы покорили империю Гидры.
 
-TIMissionTemplate.displayName.ResistWin=Закрыть ворота
+TIMissionTemplate.displayName.ResistWin=Закрыть врата
 TIMissionTemplate.description.ResistWin=Активируйте устройство, чтобы отключить инопланетную червоточину. Мы должны атаковать базу пришельцев и приземлиться первыми. Требуется, чтобы мы выполнили наши цели победы.
 TIMissionTemplate.Success.ResistWin=Врата врага закрыты.
 
