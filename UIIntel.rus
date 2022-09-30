@@ -9,7 +9,7 @@ UI.Intel.Objectives=Цели
 UI.Intel.Tech=Технология
 UI.Intel.Penetrated=Проникновение
 UI.Intel.PublicOpinionHeader=Общественное мнение
-UI.Intel.EnvironmentHeader=Среда
+UI.Intel.EnvironmentHeader=Окружающая среда
 UI.Intel.CommodityPricesHeader=Товары
 UI.Intel.AlienTabText=Пришельцы
 UI.Intel.FactionTabText=Фракции
@@ -51,18 +51,18 @@ UI.Intel.LeaderAgenda=Повестка дня: {0}
 UI.Intel.NonSellableResource={0}{1}<rcol>{2}{3}</rcol>
 UI.Intel.NonBuyableResource={0}{1}<rcol>Продать за {2}{3}.</rcol>
 UI.Intel.SellableResource={0}{1}<rcol>{2}{3}. Продать за {2}{4}.</rcol>
-UI.Intel.GlobalTemperatureAnomaly=Аномалия глобальной температуры<rcol>{0}°C ({1}°F)</rcol>
-UI.Intel.GlobalSeaLevelAnomaly=Глобальная аномалия уровня моря<rcol>{0} см</rcol>
+UI.Intel.GlobalTemperatureAnomaly=Аномалное изменение глобальной температуры <rcol>{0}°C ({1}°F)</rcol>
+UI.Intel.GlobalSeaLevelAnomaly=Аномальное изменение уровня моря <rcol>{0} см</rcol>
 UI.Intel.MeanAnnualGDPImpact=Среднее годовое влияние на ВВП<rcol>{0}</rcol>
-UI.Intel.GlobalCarbonDioxide=<align="center">Углекислый газ в атмосфере</align>
-UI.Intel.GlobalMethane=<align="center">Атмосферный метан</align>
-UI.Intel.GlobalNitrousOxide=<align="center">Атмосферный закись азота</align>
+UI.Intel.GlobalCarbonDioxide=<align="center">Кол-во углекислого газа в атмосфере</align>
+UI.Intel.GlobalMethane=<align="center">Кол-во метана в атмосфере</align>
+UI.Intel.GlobalNitrousOxide=<align="center">Кол-во закиси азота в атмосфере</align>
 UI.Intel.StratosphericAerosols=<align="center">Избыточные стратосферные аэрозоли</align>
-UI.Intel.CurrentTemperatureImpact=Current<rcol>{0} ppm ({1}° C)</rcol>
+UI.Intel.CurrentTemperatureImpact=Текущий<rcol>{0} ppm ({1}° C)</rcol>
 UI.Intel.PreviousTemperatureImpact=Год назад<rcol>{0} ppm</rcol>
-UI.Intel.SafeGreenhouseGasLevel=Safe<rcol>{0} ppm</rcol>
+UI.Intel.SafeGreenhouseGasLevel=Безопасный уровень<rcol>{0} ppm</rcol>
 UI.Intel.GlobalDataHeader=Мировые данные
-UI.Intel.GlobalDataData=Население Земли<rcol>{0}</rcol><br/>Население космоса<rcol>{1}</rcol><br/>ВВП<rcol>${2}</rcol> <br/>ВВП на душу населения<rcol>${3}</rcol>
+UI.Intel.GlobalDataData=Население Земли <rcol>{0}</rcol> <br/>Население космоса <rcol>{1}</rcol><br/>ВВП <rcol>${2}</rcol> <br/>ВВП на душу населения <rcol>${3}</rcol>
 UI.Intel.LaunchWindowText={0}{1}{2}
 UI.Intel.ProspectTipText=Запустить зонд Prospector<br/>{0}
 UI.Intel.AtrocitiesHeader=Зверства
