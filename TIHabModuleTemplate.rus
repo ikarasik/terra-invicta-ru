@@ -1,6 +1,6 @@
 TIHabModuleTemplate.displayName.AntimatterTrap=Ловушка антиматерии
 TIHabModuleTemplate.description.AntimatterTrap=Магнитный коллектор антиматерии естественного происхождения в магнитных полях вокруг больших планет.
-TIHabModuleTemplate.displayName.AutomatedFissionPile=Автоматизированная куча деления
+TIHabModuleTemplate.displayName.AutomatedFissionPile=Автоматизированный ядерный реактор
 TIHabModuleTemplate.description.AutomatedFissionPile=Самодействующий реактор деления для наших автоматических хабов.
 TIHabModuleTemplate.displayName.AutomatedMiningComplex=Автоматизированный горный комплекс
 TIHabModuleTemplate.description.AutomatedMiningComplex=Роботизированная шахта, нефтеперерабатывающий завод и электромагнитная катапульта.
@@ -18,7 +18,7 @@ TIHabModuleTemplate.displayName.ConstructionModule=Строительный мо
 TIHabModuleTemplate.description.ConstructionModule=Ускоряет строительство модулей хабов первого уровня в этом хабе и позволяет основывать дополнительные платформы и аванпосты в этой планетарной/астероидной системе.
 TIHabModuleTemplate.displayName.EnergyLab=Энергетическая лаборатория
 TIHabModuleTemplate.description.EnergyLab= Небольшая лаборатория для проведения экспериментов по физике высоких энергий.
-TIHabModuleTemplate.displayName.FissionPile=Куча деления
+TIHabModuleTemplate.displayName.FissionPile=Ядерный реактор
 TIHabModuleTemplate.description.FissionPile= Небольшой реактор деления, который обеспечивает стабильное электричество для нашей квартиры.
 TIHabModuleTemplate.displayName.FusionPile=Куча синтеза
 TIHabModuleTemplate.description.FusionPile=Базовый термоядерный реактор, который обеспечивает чистую, безопасную энергию для нашей хабы.

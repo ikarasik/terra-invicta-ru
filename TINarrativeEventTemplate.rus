@@ -733,7 +733,7 @@ TINarrativeEventTemplate.event_MissileTests.optionResult1={targetNationNameWithA
 TINarrativeEventTemplate.event_MissileTests.option1.outcome0.Summary={targetNationNameWithArticleCap} испытали новую баллистическую ракету, повысив напряженность с {secondaryTargetNationNameWithArticle}.
 TINarrativeEventTemplate.event_MissileTests.option1.outcome0.Detail={targetNationNameWithArticleCap} провела испытания ракеты без заминок, получив множество технических данных. Ответ от {secondaryTargetNationNameWithArticle} можно ожидать в ближайшее время.
 
-TINarrativeEventTemplate.displayName.event_PunitiveSanctions=Пунитивные санкции
+TINarrativeEventTemplate.displayName.event_PunitiveSanctions=Карательные санкции
 TINarrativeEventTemplate.event_PunitiveSanctions.summary={targetNationNameWithArticleCap} глубоко обеспокоен недавними провокационными действиями {secondaryTargetNationNameWithArticle}.
 TINarrativeEventTemplate.event_PunitiveSanctions.query=Политики {targetNationNameWithArticleAndPlacePrep} предложили ввести экономические санкции против {secondaryTargetNationNameWithArticle}, чтобы наложить взыскание за ее последние провокации.
 TINarrativeEventTemplate.event_PunitiveSanctions.option0=Послать строгое письмо с выражением неодобрения.
