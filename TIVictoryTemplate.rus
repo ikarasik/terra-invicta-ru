@@ -1,0 +1,16 @@
+TIVictoryCondition.description.GlobalControlPointProportion=Значения контрольных точек нашей фракции должны быть не менее {0} всех значений контрольных точек на Земле.
+TIVictoryCondition.description.GlobalRegionProportion=Наша фракция должна контролировать {0} всех регионов Земли. Мы контролируем регион, когда у нас есть исполнительная контрольная точка в его нации и более половины всех контрольных точек в этой нации.
+TIVictoryCondition.description.GlobalEcoProportion=Наша фракция должна контролировать {0} всех основных экономических регионов Земли. Мы контролируем регион, когда у нас есть исполнительная контрольная точка в его нации и более половины всех контрольных точек в этой нации.
+TIVictoryCondition.description.GlobalPopulationProportion=Наша фракция должна контролировать регионы с {0} населением Земли. Мы контролируем регион, когда у нас есть точка исполнительного контроля в стране и более половины всех точек контроля в этой стране.
+TIVictoryCondition.description.AlienNationMaxRegionProportion_special=Инопланетяне не должны контролировать никакие регионы на Земле.
+TIVictoryCondition.description.AlienNationMaxRegionProportion=Инопланетяне должны контролировать не более {0} регионов Земли.
+TIVictoryCondition.description.AlienNationMinRegionProportion=Инопланетяне должны контролировать как минимум {0} регионов Земли.
+TIVictoryCondition.description.AlienNationMaxPopulationProportion=Инопланетяне должны контролировать регионы, в которых проживает не более {0} населения Земли.
+TIVictoryCondition.description.AlienNationMinPopulationProportion=Инопланетяне должны контролировать регионы, в которых проживает не менее {0} населения Земли.
+TIVictoryCondition.description.ProAlienMaxRegionProportion=Инопланетяне и сторонники пришельцев должны контролировать не более {0} регионов Земли. Фракция контролирует регион, если у нее есть контрольная точка исполнительной власти в нации региона и более половины всех контрольных точек в этой нации.
+TIVictoryCondition.description.ProAlienMinRegionProportion=Инопланетяне и фракции, выступающие за пришельцев, должны контролировать не менее {0} регионов Земли. Фракция контролирует регион, если у нее есть исполнительный контрольный пункт в стране и более половины всех контрольных пунктов в этой стране.
+TIVictoryCondition.description.MinProAlienFleetPower=Совокупная мощность флота пришельцев и сторонников пришельцев должна составлять не менее {0} от общей мощности флота всех фракций в Солнечной системе.
+TIVictoryCondition.description.MaxProAlienFleetPower=Совокупная мощность флота пришельцев и сторонников пришельцев не должна превышать {0} от общей мощности флота всех фракций Солнечной системы.
+TIVictoryCondition.description.MaxOtherFactionsFleetPower=Общая мощь флота всех вражеских фракций не должна превышать {0} от общей мощи флота всех фракций в Солнечной системе.
+TIVictoryCondition.Status=Текущее значение: {0}/{1} ({2})
+TIVictoryCondition.None=Нет дополнительных условий

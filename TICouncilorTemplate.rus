@@ -1,0 +1,12 @@
+TICouncilorTemplate.maleSubjectivePronoun=он
+TICouncilorTemplate.femaleSubjectivePronoun=она
+TICouncilorTemplate.nonBinarySubjectivePronoun=они
+TICouncilorTemplate.maleObjectivePronoun=ему
+TICouncilorTemplate.femaleObjectivePronoun=ей
+TICouncilorTemplate.nonBinaryObjectivePronoun=им
+TICouncilorTemplate.malePossessivePronoun=его
+TICouncilorTemplate.femalePossessivePronoun=её
+TICouncilorTemplate.nonBinaryPossessivePronoun=их
+TICouncilorTemplate.age=лет
+TICouncilorTemplate.alienName1=Ксеноморф
+TICouncilorTemplate.alienName2=Альфа-{0}

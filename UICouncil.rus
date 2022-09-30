@@ -1,0 +1,16 @@
+UI.Council.RecruitButton=Нанять
+UI.Council.CouncilNameCouncil={0} Советник // Название совета
+UI.Council.ReservedForTurned=В этом слоте будет показан вражеский советник, которого мы повернули на нашу сторону.
+UI.Council.CouncilSize5=Мы должны разработать проект "Тайные ячейки", чтобы нанять пятого советника.
+UI.Council.CouncilSize6=Мы должны разработать проект «Скрытые операции», чтобы нанять шестого советника.
+UI.CouncilRecruiting.ConfirmRecruitDialog=Нанять {0} для {1}? // Имя советника, стоимость
+UI.Council.RecruitingHeader=Вербовка
+UI.CouncilView.UnknownObjective=Неизвестная цель
+UI.CouncilView.UndefinedVictoryCondition=Пока неизвестна фракции
+UI.Council.LeaderFullName={0} {1} // титул лидера, полное имя лидера
+UI.Council.Candidates=Кандидаты
+UI.Council.RecruitCandidateButton=Нанять
+UI.Council.SellOrg=Продать организацию
+UI.Council.PurchaseOrg=Купить организацию
+UI.Council.EquipOrg=Взять организацию
+UI.Council.UnequipOrg=Убрать организацию

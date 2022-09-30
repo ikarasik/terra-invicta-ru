@@ -1,0 +1,172 @@
+[
+  {
+    "dataName": "en",
+    "friendlyName": "English",
+    "active": true,
+    "core": false,
+    "requiresFontChange": null,
+    "headlineFontPath": "CODE Bold SDF -HEADER",
+    "bodyTextFontPath": "Arcon-Regular SDF",
+    "nameListOffset": 0
+  },
+   {
+    "dataName": "rus",
+    "friendlyName": "Russian",
+    "active": true,
+    "core": true,
+    "requiresFontChange": true,
+    "headlineFontPath": "Oswald-Medium SDF -HEADER",
+    "bodyTextFontPath": "Oswald-Light SDF",
+    "nameListOffset": 1
+  },
+ {
+    "dataName": "deu",
+    "friendlyName": "German",
+    "active": true,
+    "core": false,
+    "requiresFontChange": null,
+    "headlineFontPath": "",
+    "bodyTextFontPath": "",
+    "nameListOffset": 3
+  },
+  {
+    "dataName": "fr",
+    "friendlyName": "French",
+    "active": true,
+    "core": false,
+    "requiresFontChange": null,
+    "headlineFontPath": "",
+    "bodyTextFontPath": "",
+    "nameListOffset": 4
+  },
+  {
+    "dataName": "esp",
+    "friendlyName": "Spanish",
+    "active": true,
+    "core": false,
+    "requiresFontChange": null,
+    "headlineFontPath": "",
+    "bodyTextFontPath": "",
+    "nameListOffset": 5
+  },
+  {
+    "dataName": "cht",
+    "friendlyName": "Chinese Traditional",
+    "active": true,
+    "core": false,
+    "requiresFontChange": true,
+    "headlineFontPath": "NotoSansTC-Bold SDF",
+    "bodyTextFontPath": "NotoSansTC-Regular SDF",
+    "nameListOffset": 6
+  },
+  {
+    "dataName": "chs",
+    "friendlyName": "Chinese Simplified",
+    "active": true,
+    "core": false,
+    "requiresFontChange": true,
+    "headlineFontPath": "NotoSansSC-Bold SDF_0",
+    "bodyTextFontPath": "NotoSansSC-Regular SDF_0",
+    "nameListOffset": 7
+  },
+  {
+    "dataName": "jpn",
+    "friendlyName": "Japanese",
+    "active": true,
+    "core": false,
+    "requiresFontChange": true,
+    "headlineFontPath": "NotoSansJP-Bold SDF",
+    "bodyTextFontPath": "NotoSansJP-Regular SDF",
+    "nameListOffset": 8
+  },
+  {
+    "dataName": "kor",
+    "friendlyName": "Korean",
+    "active": false,
+    "core": false,
+    "requiresFontChange": true,
+    "headlineFontPath": "BlackHanSans-Regular SDF-Header",
+    "bodyTextFontPath": "DoHyeon-Regular SDF",
+    "nameListOffset": 9
+  },
+  {
+    "dataName": "ita",
+    "friendlyName": "Italian",
+    "active": false,
+    "core": false,
+    "requiresFontChange": null,
+    "headlineFontPath": "",
+    "bodyTextFontPath": "",
+    "nameListOffset": 10
+  },
+  {
+    "dataName": "pol",
+    "friendlyName": "Polish",
+    "active": false,
+    "core": false,
+    "requiresFontChange": null,
+    "headlineFontPath": "",
+    "bodyTextFontPath": "",
+    "nameListOffset": 11
+  },
+  {
+    "dataName": "por",
+    "friendlyName": "Portuguese",
+    "active": false,
+    "core": false,
+    "requiresFontChange": null,
+    "headlineFontPath": "",
+    "bodyTextFontPath": "",
+    "nameListOffset": 12
+  },
+  {
+    "dataName": "nld",
+    "friendlyName": "Dutch",
+    "active": false,
+    "core": false,
+    "requiresFontChange": null,
+    "headlineFontPath": "",
+    "bodyTextFontPath": "",
+    "nameListOffset": 13
+  },
+  {
+    "dataName": "cze",
+    "friendlyName": "Czech",
+    "active": false,
+    "core": false,
+    "requiresFontChange": true,
+    "headlineFontPath": "",
+    "bodyTextFontPath": "",
+    "nameListOffset": 14
+  },
+  {
+    "dataName": "ukr",
+    "friendlyName": "Ukrainian",
+    "active": false,
+    "core": false,
+    "requiresFontChange": true,
+    "headlineFontPath": "",
+    "bodyTextFontPath": "",
+    "nameListOffset": 15
+  },
+  {
+    "dataName": "ara",
+    "friendlyName": "Arabic",
+    "active": false,
+    "core": false,
+    "requiresFontChange": true,
+    "headlineFontPath": "",
+    "bodyTextFontPath": "",
+    "nameListOffset": null
+  },
+  {
+    "dataName": "tur",
+    "friendlyName": "Turkish",
+    "active": false,
+    "core": false,
+    "requiresFontChange": false,
+    "headlineFontPath": "",
+    "bodyTextFontPath": "",
+    "nameListOffset": null
+  }
+]
