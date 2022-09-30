@@ -240,7 +240,7 @@ UI.Objectives.IntelScreenCanvas.SpacebodyLaunchWindow.Desc=Это значени
 UI.Objectives.IntelScreenCanvas.SpacebodyGoto.Name=Перейти к объекту
 UI.Objectives.IntelScreenCanvas.SpacebodyGoto.Desc=Нажмите здесь, чтобы центрировать камеру на местоположении космического тела.
 
-UI.Objectives.IntelScreenCanvas.TransferPlannerIntro.Name=Планировщик переноса
+UI.Objectives.IntelScreenCanvas.TransferPlannerIntro.Name=Планировщик перемещений
 UI.Objectives.IntelScreenCanvas.TransferPlannerIntro.NameShort=Переносы
 UI.Objectives.IntelScreenCanvas.TransferPlannerIntro.Desc=Этот экран предназначен для планирования дизайна кораблей и изучения различных вариантов траектории для флотов, которыми вы управляете, или кораблей, которые вы собираетесь построить в будущем. Вы можете настроить приведенные ниже значения, чтобы увидеть, сколько времени займет конкретная передача с указанными значениями ускорения и Delta-V.
 UI.Objectives.IntelScreenCanvas.TransferPlannerOrigin.Name=Источник и пункт назначения
