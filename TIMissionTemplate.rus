@@ -244,7 +244,7 @@ TIMissionTemplate.Success.TerrorizeRegion=Нашим ударным отряда
 TIMissionTemplate.Failure.TerrorizeRegion=Наши ударные отряды не справились со своей миссией терроризировать регион {targetRegionName}.
 TIMissionTemplate.CriticalFailure.TerrorizeRegion=Наши ударные отряды потерпели поражение в своих попытках терроризировать регион {targetRegionName}, и человеческое население, кажется, осмелело в своих попытках противостоять нам.
 
-TIMissionTemplate.displayName.Xenoform=Ксеноформа
+TIMissionTemplate.displayName.Xenoform=Ксеноформ
 TIMissionTemplate.description.Xenoform=Оставить инопланетные биоформы разбросанными по всему региону. Со временем они должны подчинить себе туземную жизнь, сделать людей более гибкими и, в конце концов, вырастить огромные стада фауны, которые будут препятствовать человеческой экономике.
 TIMissionTemplate.CriticalSuccess.Xenoform=Наши биоформы очень хорошо прижились в этом регионе.
 TIMissionTemplate.Success.Xenoform=Наши биоформы укоренились в этом регионе.

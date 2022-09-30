@@ -1,5 +1,5 @@
 UI.Space.SatellitesTabHeader=Луны ({0}) // #Луны
-UI.Space.BaseSitesTabHeader=Сайты ({0}) // #Базовые сайты
+UI.Space.BaseSitesTabHeader=Участки ({0}) // #Базовые участки
 UI.Space.StationsTabHeader=Станции ({0}) // #Станции
 UI.Space.OrbitsTabHeader=Орбиты ({0}) // #Орбиты
 UI.Space.CouncilorsTabHeader=Советники ({0}) // #Известные советники

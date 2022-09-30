@@ -1,7 +1,7 @@
 TIBatteryTemplate.displayName.Lithium-IonBattery=Литий-ионный аккумулятор
 TIBatteryTemplate.description.Lithium-IonBattery=Ионы, направляемые через гель-электролит, обеспечивают легкий, но медленно заряжающийся аккумулятор энергии.
-TIBatteryTemplate.displayName.Lithium-SulphurBattery=Литий-серный аккумулятор
-TIBatteryTemplate.description.Lithium-SulphurBattery=Стабилизированные серой литий-ионные аккумуляторы обеспечивают более высокую емкость.
+TIBatteryTemplate.displayName.Lithium-SulfurBattery=Литий-серный аккумулятор
+TIBatteryTemplate.description.Lithium-SulfurBattery=Стабилизированные серой литий-ионные аккумуляторы обеспечивают более высокую емкость.
 TIBatteryTemplate.displayName.MoltenSaltBattery=Батарейка из расплавленной соли
 TIBatteryTemplate.description.MoltenSaltBattery=Тяжелые аккумуляторы большой емкости, хранящие энергию в жидких металлах.
 TIBatteryTemplate.displayName.SaltWaterBattery=Батарея из соленой воды
