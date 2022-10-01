@@ -141,7 +141,7 @@ UI.Habs.SelectLocation=Фильтровать по местоположению
 UI.Habs.CopyHabButton=Копировать дизайн хаба
 UI.Habs.PowerAllButton=Включить все модули
 UI.Habs.DecommissionModuleButton=Разобрать модуль
-UI.Habs.DecommissionHabButton=<color=#FFFFFFFF><sprite name=warning></color>Выведенный из эксплуатации хаб<color=#FFFFFFFF><sprite name=warning></color>
+UI.Habs.DecommissionHabButton=<color=#FFFFFFFF><sprite name=warning></color>Вывести из эксплуатации<color=#FFFFFFFF><sprite name=warning></color>
 UI.Habs.AntishipWeapon=Противокорабельное оружие: {0}
 UI.Habs.PDWeapon=Оружие точечной защиты: {0}
 UI.Habs.CancelManagementQueryButtonText=Отмена
