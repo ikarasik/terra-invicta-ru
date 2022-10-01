@@ -157,7 +157,7 @@ TINarrativeEventTemplate.event_Escalation.option1=Начать атаку.
 TINarrativeEventTemplate.event_Escalation.optionDetail1=<skip/>
 TINarrativeEventTemplate.event_Escalation.optionResult1={targetNationNameWithArticleCap} нанесла авиаудары, чтобы ослабить вооруженные силы {secondaryTargetNationNameWithArticle}.
 
-TINarrativeEventTemplate.displayName.event_OneHumanity=Одно человечество?
+TINarrativeEventTemplate.displayName.event_OneHumanity=Единое человечество?
 TINarrativeEventTemplate.event_OneHumanity.summary=Растущее осознание того, что мы не единственный разумный вид во вселенной, заставляет многих увидеть своих собратьев в новом свете, что дает надежду на то, что мы сможем преодолеть нашу способность к раздорам и встретить прибытие инопланетян как единый народ. 
 TINarrativeEventTemplate.event_OneHumanity.query=<skip/>
 TINarrativeEventTemplate.event_OneHumanity.option0=Давайте попробуем отбросить наши разногласия и идти вперед вместе.
