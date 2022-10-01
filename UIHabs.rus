@@ -1,5 +1,5 @@
 UI.Habs.Tier1Station=Платформа
-UI.Habs.Tier2Station=Орбитальный
+UI.Habs.Tier2Station=Орбитальная станция
 UI.Habs.Tier3Station=Кольцо
 UI.Habs.Tier4Station=Тор
 UI.Habs.Tier1Base=Аванпост
@@ -12,7 +12,7 @@ UI.Habs.SelectAHab=Выберите хаб
 UI.Habs.StationsHeader=Станции
 UI.Habs.BasesHeader=Базы
 UI.Habs.MainHeader=Хаб
-UI.Habs.NoHabSelected=Квартал не выбран
+UI.Habs.NoHabSelected=Хаб не выбран
 UI.Habs.TierCrew={0} (экипаж: {1})
 UI.Habs.SelectAModule=Выберите модуль
 UI.Habs.SectorID=Сектор {0}

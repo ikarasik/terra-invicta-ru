@@ -1,4 +1,4 @@
-TIRegionTemplate.displayName.Афганистан=Кабул
+TIRegionTemplate.displayName.Afghanistan=Кабул
 TIRegionTemplate.displayName.Algeria=Алжир
 TIRegionTemplate.displayName.Angola=Луанда
 TIRegionTemplate.displayName.GranChaco=Сальта
@@ -228,7 +228,7 @@ TIRegionTemplate.displayName.Azerbaijan=Баку
 TIRegionTemplate.displayName.ChiangMai=Чиангмай
 TIRegionTemplate.displayName.Bangkok=Бангкок
 TIRegionTemplate.displayName.Rabat=Рабат
-TIRegionTemplate.displayName.WesternSahara=Laâyoune
+TIRegionTemplate.displayName.WesternSahara=Лааюн
 TIRegionTemplate.displayName.Conkary=Конакри
 TIRegionTemplate.displayName.BurkinaFaso=Уагадугу
 TIRegionTemplate.displayName.Accra=Аккра
@@ -730,7 +730,7 @@ TIRegionTemplate.BoostFacilityName.Generic={0} Средство запуска
 TIRegionTemplate.MissionControlName.Generic={0} Космический центр
 TIRegionTemplate.SpaceDefenseName.Generic={0} Комплекс космической обороны
 
-TIRegionTemplate.displayNameSentIn.Афганистан=в районе Кабула
+TIRegionTemplate.displayNameSentIn.Afghanistan=в районе Кабула
 TIRegionTemplate.displayNameSentIn.Algeria=в районе Алжира
 TIRegionTemplate.displayNameSentIn.Angola=в районе Луанды
 TIRegionTemplate.displayNameSentIn.GranChaco=в регионе Сальта
@@ -968,7 +968,7 @@ TIRegionTemplate.displayNameSentIn.Brazzaville=в регионе Браззав�
 TIRegionTemplate.displayNameSentIn.Senegambia=в районе Дакара
 TIRegionTemplate.displayNameSentIn.IvoryCoast=в регионе Абиджан
 
-TIRegionTemplate.displayNameSentOf.Афганистан=кабульского региона
+TIRegionTemplate.displayNameSentOf.Afghanistan=кабульского региона
 TIRegionTemplate.displayNameSentOf.Algeria=региона Алжир
 TIRegionTemplate.displayNameSentOf.Angola=региона Луанды
 TIRegionTemplate.displayNameSentOf.GranChaco=региона Сальта
