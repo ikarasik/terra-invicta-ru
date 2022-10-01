@@ -55,7 +55,7 @@ TINarrativeEventTemplate.event_LaunchPadExplosion.option0=Ушел в одно �
 TINarrativeEventTemplate.event_LaunchPadExplosion.optionDetail0=<skip/>
 TINarrativeEventTemplate.event_LaunchPadExplosion.optionResult0={summary}
 
-TINarrativeEventTemplate.displayName. event_Wildfires=Лесные пожары
+TINarrativeEventTemplate.displayName.event_Wildfires=Лесные пожары
 TINarrativeEventTemplate.event_Wildfires.summary=На территории {targetRegionNameSentIn} вспыхнул крупный лесной пожар. {targetNationNameWithArticleAndPlacePrep}.
 TINarrativeEventTemplate.event_Wildfires.query=Пожар угрожает некоторым населенным пунктам. Мы можем уменьшить ущерб, отправив оперативные группы в этот район.
 TINarrativeEventTemplate.event_Wildfires.option0=Пусть горит.
@@ -493,7 +493,7 @@ TINarrativeEventTemplate.event_SelectAdvisoryTeam.query=После того, к�
 TINarrativeEventTemplate.event_SelectAdvisoryTeam.option0=Сфокусируйтесь на экономическом развитии.
 TINarrativeEventTemplate.event_SelectAdvisoryTeam.optionDetail0=<skip/>
 TINarrativeEventTemplate.event_SelectAdvisoryTeam.optionResult0={actorNameWithArticleCap} назначил консультативную группу с упором на экономическое развитие.
-TINarrativeEventTemplate.event_SelectAdvisoryTeam.option1=Нанять несколько ракетных женщин и мужчин со стальными глазами.
+TINarrativeEventTemplate.event_SelectAdvisoryTeam.option1=Нанять несколько смелых специалистов по ракетам - женщин и мужчин.
 TINarrativeEventTemplate.event_SelectAdvisoryTeam.optionDetail1=<skip/>
 TINarrativeEventTemplate.event_SelectAdvisoryTeam.optionResult1={actorNameWithArticleCap} назначил консультативную группу, занимающуюся разработкой космических программ.
 TINarrativeEventTemplate.event_SelectAdvisoryTeam.option2=Привлечь генералов.

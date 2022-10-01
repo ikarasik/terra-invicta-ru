@@ -1,4 +1,4 @@
-UI.Habs.Tier1Station=Платформа
+UI.Habs.Tier1Station=Станцию
 UI.Habs.Tier2Station=Орбитальная станция
 UI.Habs.Tier3Station=Кольцо
 UI.Habs.Tier4Station=Тор
@@ -100,7 +100,7 @@ UI.Habs.HabModuleSpecialRule.WarDogs=
 UI.Habs.HabModuleSpecialRule.Salamanders=
 UI.Habs.HabModuleSpecialRule.PowerFirst=Этот модуль не может быть выключен, если в жилом модуле недостаточно энергии для всех модулей с этим условием.
 UI.Habs.HabModuleSpecialRule.SentinelModule=Этот комплекс несет множество вооружений для бомбардировки поверхности Земли. Протекторат намерен использовать его для умиротворения Земли.
-UI.Habs.HabModuleSpecialRule.InterstellarLaunchModule=Платформа для строительства массивного межзвездного колониального корабля Project Exodus, а также запуск лазеров для его продвижения в начале пути.
+UI.Habs.HabModuleSpecialRule.InterstellarLaunchModule=Станция для строительства массивного межзвездного колониального корабля Project Exodus, а также запуск лазеров для его продвижения в начале пути.
 UI.Habs.HabModuleSpecialRule.EarthLEOOnly=Этот модуль может быть построен только на интерфейсной орбите Земли.
 UI.Habs.Summary.HabModuleSpecialRule.DropTroops=
 UI.Habs.Summary.HabModuleSpecialRule.Cost_Scales_With_Gravity=Стоимость увеличивается в мирах с более высокой гравитацией
