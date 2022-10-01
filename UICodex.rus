@@ -72,14 +72,14 @@ UI.Codex.codex_recruiting0=Советники набираются за счет
 UI.Codex.codex_recruiting1=Ваш список советников для найма будет обновляться первого числа каждого месяца, когда некоторые кандидаты в советники уходят.
 UI.Codex.codex_attributes.Title=Атрибуты
 UI.Codex.codex_attributes0=У советника восемь атрибутов. Они определяют шансы на успех в миссиях или предлагают бонусы к доходам.
-UI.Codex.codex_attributes1=<color=#FFFFFFFF><sprite name="attribute_persuasion"></color> Убеждение<br/><LOC,UI.Councilor.PersuasionTip>
-UI.Codex.codex_attributes2=<color=#FFFFFFFF><sprite name="attribute_investigation"></color> Расследование<br/><LOC,UI.Councilor.InvestigationTip>
+UI.Codex.codex_attributes1=<color=#FFFFFFFF><sprite name="attribute_persuasion"></color> Убеждение <br/><LOC,UI.Councilor.PersuasionTip>
+UI.Codex.codex_attributes2=<color=#FFFFFFFF><sprite name="attribute_investigation"></color> Расследование <br/><LOC,UI.Councilor.InvestigationTip>
 UI.Codex.codex_attributes3=<color=#FFFFFFFF><sprite name="attribute_espionage"></color> Шпионаж<br/><LOC,UI.Councilor.EspionageTip>
-UI.Codex.codex_attributes4=<color=#FFFFFFFF><sprite name="attribute_command"></color> Command<br/><LOC,UI.Councilor.CommandTip>
-UI.Codex.codex_attributes5=<color=#FFFFFFFF><sprite name="attribute_administration"></color> Администрация<br/><LOC,UI.Councilor.AdministrationTip>
-UI.Codex.codex_attributes6=<color=#FFFFFFFF><sprite name="attribute_science"></color> Наука<br/><LOC,UI.Councilor.ScienceTip>
-UI.Codex.codex_attributes7=<color=#FFFFFFFF><sprite name="attribute_security"></color> Безопасность<br/><LOC,UI.Councilor.SecurityTip>
-UI.Codex.codex_attributes8=<color=#FFFFFFFF><sprite name="attribute_loyalty"></color> Лояльность<br/><LOC,UI.Councilor.LoyaltyTip>
+UI.Codex.codex_attributes4=<color=#FFFFFFFF><sprite name="attribute_command"></color> Управление <br/><LOC,UI.Councilor.CommandTip>
+UI.Codex.codex_attributes5=<color=#FFFFFFFF><sprite name="attribute_administration"></color> Администрирование <br/><LOC,UI.Councilor.AdministrationTip>
+UI.Codex.codex_attributes6=<color=#FFFFFFFF><sprite name="attribute_science"></color> Наука <br/><LOC,UI.Councilor.ScienceTip>
+UI.Codex.codex_attributes7=<color=#FFFFFFFF><sprite name="attribute_security"></color> Безопасность <br/><LOC,UI.Councilor.SecurityTip>
+UI.Codex.codex_attributes8=<color=#FFFFFFFF><sprite name="attribute_loyalty"></color> Лояльность <br/><LOC,UI.Councilor.LoyaltyTip>
 UI.Codex.codex_traits.Title=Черты характера
 UI.Codex.codex_traits0=Черты — это врожденные характеристики советника. Они могут предоставлять постоянные или зависящие от условий бонусы или штрафы к характеристикам, доходы или доступ к определенным организациям. Некоторые черты можно удалить или улучшить, потратив XP.
 UI.Codex.codex_augmentations.Title=Улучшения
