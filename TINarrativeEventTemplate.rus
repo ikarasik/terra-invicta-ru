@@ -5,7 +5,7 @@ NarrativeEventOption.org=Приобрести {0} в пуле фракций // 
 NarrativeEventOption.project=Завершить {0} проект
 NarrativeEventOption.unlocksEvent=Событие разблокировано: {0}
 NarrativeEventOption.removesEvent=Событие удалено: {0}
-NarrativeEventOption.conditional=<h>-Разрешено{0}</h>									// подготовить фразу с названием фракции "для Инициативы"
+NarrativeEventOption.conditional=<h> -Разрешено {0}</h>									// подготовить фразу с названием фракции "для Инициативы"
 NarrativeEventOption.effects=Вызывает следующие эффекты:
 
 TINarrativeEventTemplate.displayName.event_Hurricane=Ураган
