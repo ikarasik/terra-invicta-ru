@@ -56,4 +56,4 @@ TIMissileTemplate.WarheadType.Fragmentation=Фрагментация
 TIMissileTemplate.WarheadType.Nuclear=Ядерный
 TIMissileTemplate.WarheadType.ShapedNuclear=Формованное ядерное оружие
 TIMissileTemplate.Acc=Ускорение:<rcol>{0} gs</rcol>
-TIMissileTemplate.DV=Delta-V:<rcol>{0} кбит/с</rcol>
+TIMissileTemplate.DV=Delta-V:<rcol>{0} км/с</rcol>

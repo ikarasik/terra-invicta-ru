@@ -622,6 +622,6 @@ TIDriveTemplate.NobleGases=Благородные газы
 TIDriveTemplate.Volatiles=Волатильные вещества
 TIDriveTemplate.Metals=Металлы
 TIDriveTemplate.Thrust=Тяга:<rcol>{0} Ньютонов (Рейтинг: {1})</rcol>
-TIDriveTemplate.EV=Скорость выхлопа:<rcol>{0} kps (Рейтинг: {1})</rcol>
+TIDriveTemplate.EV=Скорость выхлопа:<rcol>{0} км/с (Рейтинг: {1})</rcol>
 TIDriveTemplate.Efficiency=Эффективность использования энергии:<rcol>{0}</rcol>
 TIDriveTemplate.RequiredPowerPlant=Требуемая электростанция:<rcol>{0}</rcol>
