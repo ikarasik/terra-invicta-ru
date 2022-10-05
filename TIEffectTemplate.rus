@@ -539,11 +539,11 @@ TIEffectTemplate.description.Effect_ArmyDamageBonustoAllArmies=-Наши арм�
 TIEffectTemplate.description.Effect_MegafaunaDamageMitigation=-Мегафауна наносит нашим регионам на {3} меньше урона
 TIEffectTemplate.description.Effect_MegafaunaDamageElimination=-Мегафауна больше не наносит урон нашим регионам.
 TIEffectTemplate.description.Effect_MegafaunaRepellent=-Мегафауна по возможности будет избегать регионов наших стран
-TIEffectTemplate.displayName.Effect_CrackdownBonus3=Разгром проектов
-TIEffectTemplate.description.Effect_CrackdownBonus3=-Получите +{0} к миссиям по разгону
+TIEffectTemplate.displayName.Effect_CrackdownBonus3=Проекты подавления
+TIEffectTemplate.description.Effect_CrackdownBonus3=-Получите +{0} к миссиям по подавлению
 TIEffectTemplate.displayName.Effect_CoupBonus3=Проекты переворота
 TIEffectTemplate.description.Effect_CoupBonus3=-Получите +{0} к миссиям переворота
-TIEffectTemplate.displayName.Effect_CrackdownDefense3=Разгром оборонных проектов
+TIEffectTemplate.displayName.Effect_CrackdownDefense3=Проекты обороны
 TIEffectTemplate.description.Effect_CrackdownDefense3=-Наши враги страдают -{0} в миссиях по подавлению наших контрольных точек
 TIEffectTemplate.description.Effect_TotalHabMissionControlCost=-Общая стоимость <color=#FFFFFFFF><sprite name="mission_control"> наших жилых помещений снижена на {4}
 TIEffectTemplate.description.Effect_TotalShipMissionControlCost=-Общая стоимость <color=#FFFFFFFF><sprite name="mission_control"> наших кораблей снижена на {4}
