@@ -183,7 +183,7 @@ TIMissionTemplate.displayName.Deorbit=Вернуться с орбиты
 TIMissionTemplate.description.Deorbit=Переместиться из хаба или корабля на интерфейсной орбите на поверхность космического тела или из любого места в системе Земля-Луна на поверхность Земли.
 TIMissionTemplate.Success.Deorbit=Я твердо стою на ногах.
 
-TIMissionTemplate.displayName.PassTechnology=Технология пропуска
+TIMissionTemplate.displayName.PassTechnology=Передать технологию
 TIMissionTemplate.description.PassTechnology=Предоставьте часть наших технологий, чтобы помочь нашим союзникам-людям.
 TIMissionTemplate.Success.PassTechnology=Я оказал помощь нашим союзникам.
 
