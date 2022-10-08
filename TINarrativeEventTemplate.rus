@@ -1826,7 +1826,7 @@ TINarrativeEventTemplate.event_ContainmentBreach3.option2.outcome1.Detail=Отч
 
 TINarrativeEventTemplate.displayName.event_LowEarthOrbitCleanup=Очистка низкой околоземной орбиты
 TINarrativeEventTemplate.event_LowEarthOrbitCleanup.summary=Наши специалисты по планированию космических миссий обеспокоены увеличением количества мусора на низкой околоземной орбите.
-TINarrativeEventTemplate.event_LowEarthOrbitCleanup.query=Они взяли на себя инициативу составить несколько предложений по использованию наших резервных возможностей околоземного космического пространства для спуска с орбиты части этого мусора. Это не только уменьшит некоторые риски, с которыми сталкиваются наши корабли и жилые комплексы на низкой околоземной орбите, но мы могли бы очень легко представить это как общественную услугу миру.
+TINarrativeEventTemplate.event_LowEarthOrbitCleanup.query=Они взяли на себя инициативу составить несколько предложений по использованию наших резервных возможностей околоземного космического пространства для спуска с орбиты части этого мусора. Это не только уменьшит некоторые риски, с которыми сталкиваются наши корабли и хабы на низкой околоземной орбите, но мы могли бы очень легко представить это как общественную услугу миру.
 TINarrativeEventTemplate.event_LowEarthOrbitCleanup.option0=Мы не можем позволить себе отвлекать эти ресурсы от наших целей.
 TINarrativeEventTemplate.event_LowEarthOrbitCleanup.optionDetail0=Ничего не происходит.
 TINarrativeEventTemplate.event_LowEarthOrbitCleanup.optionResult0={actorNameWithArticleCap} отказался комментировать проблему мусора на низкой околоземной орбите.
