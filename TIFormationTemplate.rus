@@ -17,7 +17,7 @@ TIFormationTemplate.displayName.Column=Колона
 TIFormationTemplate.displayName.TwoColumn=Две колонны
 TIFormationTemplate.displayName.ThreeColumn=Три колонны
 TIFormationTemplate.displayName.FourColumn=Четыре колонны
-TIFormationTemplate.displayName.FiveColumn=Пять колог
+TIFormationTemplate.displayName.FiveColumn=Пять колонн
 TIFormationTemplate.displayName.Cloud=Облаком
 TIFormationTemplate.displayName.BoxThree=Квадрат
 
@@ -53,7 +53,7 @@ TIFormationTemplate.Desc.Column=Колона
 TIFormationTemplate.Desc.TwoColumn=Две колонны
 TIFormationTemplate.Desc.ThreeColumn=Три колонны
 TIFormationTemplate.Desc.FourColumn=Четыре колонны
-TIFormationTemplate.Desc.FiveColumn=Пять колон
+TIFormationTemplate.Desc.FiveColumn=Пять колонн
 TIFormationTemplate.Desc.Cloud=Облаком
 TIFormationTemplate.Desc.BoxThree=Квадрат
 
