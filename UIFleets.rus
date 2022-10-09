@@ -25,8 +25,8 @@ UI.Fleets.CruiseDeltaVTab=Круизный полет Delta-V:
 UI.Fleets.CruiseDeltaVTab.Description=Определяет, куда может двигаться корабль и как быстро он может туда добраться. Больше топлива увеличивает Delta-V. Большая масса корабля уменьшает его.<br/><br/>Корабли со скоростью Delta-V менее 5 км/с могут иметь проблемы с достижением Луны с околоземной орбиты.<br/><br/>Корабли со скоростью менее 10 км/с. Delta-V не сможет надежно выполнять межпланетные перелеты с Земли.<br/><br/>Дополнительную информацию см. в <h>кодексе</h>.
 UI.Fleets.TurnRateTab=Скорость поворота:
 UI.Fleets.TurnRateTab.Description=Как быстро корабль может изменить свою ориентацию в бою. Это значение зависит от длины и массы корабля; более короткие корабли будут поворачиваться быстрее при прочих равных условиях.
-UI.Fleets.HeatSinkCapacityTab=Емкость радиатора:
-UI.Fleets.HeatSinkCapacityTab.Description=Радиаторы служат временной заменой для управления теплом корабля, пока его уязвимые радиаторы убраны в бою. Более высокие значения позволяют кораблю дольше сражаться, не расширяя радиаторы.
+UI.Fleets.HeatSinkCapacityTab=Емкость охладителя:
+UI.Fleets.HeatSinkCapacityTab.Description=Охладители служат временной заменой для управления теплом корабля, пока его уязвимые радиаторы убраны в бою. Более высокие значения позволяют кораблю дольше сражаться, не выдвигая радиаторы.
 UI.Fleets.BatteryCapacityTab=Емкость батареи:
 UI.Fleets.BatteryCapacityTab.Description=Аккумуляторы корабля хранят энергию от его силовой установки для использования большинством оружейных систем, когда силовая установка недоступна. Более продвинутые батареи способны перезаряжаться во время боя.
 UI.Fleets.ConstructionCostTab=Стоимость строительства:
@@ -46,8 +46,8 @@ UI.Fleets.DriveLine=Диск:<rcol>{0}</rcol>
 UI.Fleets.PowerPlantLine=Электростанция:<rcol>{0}</rcol>
 UI.Fleets.BatteryLine=Батарея:<rcol>{0}</rcol>
 UI.Fleets.RadiatorsLine=Радиаторы:<rcol>{0}</rcol>
-UI.Fleets.HeatSinkCapacity=Емкость радиатора:<rcol>{0} ГДж</rcol> // ГДж = гигаджоули
-UI.Fleets.HeatSinkCapacityUnk=Емкость радиатора:<rcol>неизвестно</rcol> // ГДж = гигаджоули
+UI.Fleets.HeatSinkCapacity=Емкость охладителя:<rcol>{0} ГДж</rcol> // ГДж = гигаджоули
+UI.Fleets.HeatSinkCapacityUnk=Емкость охладителя:<rcol>неизвестно</rcol> // ГДж = гигаджоули
 UI.Fleets.NoseWeaponsHeader=Носовое оружие
 UI.Fleets.HullWeaponsHeader=Оружие корпуса
 UI.Fleets.UtilityModuleHeader=Вспомогательные модули
@@ -182,13 +182,13 @@ UI.Fleets.UtilitiesTab=Вспомогательные модули
 UI.Fleets.RadiatorsTab=Радиаторы
 UI.Fleets.BatteriesTab=Батарея
 UI.Fleets.PowerPlantTab=Электростанция
-UI.Fleets.DriveTab=Драйв
+UI.Fleets.DriveTab=Двигатели
 UI.Fleets.ArmorTab=Броня
 UI.Fleets.AllWeaponsTab=Все
-UI.Fleets.GunsTab=Оружие
+UI.Fleets.GunsTab=Баллистика
 UI.Fleets.MissilesTab=Ракеты
 UI.Fleets.MagneticWeaponsTab=Магнитное оружие
-UI.Fleets.PlasmaWeaponsTab=Плазменное оружие
+UI.Fleets.PlasmaWeaponsTab=Плазма
 UI.Fleets.LasersTab=Лазеры
 UI.Fleets.ParticleWeaponsTab=Лучи частиц
 UI.Fleets.ModuleTable.FireModes=Режимы огня
