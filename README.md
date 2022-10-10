@@ -1,5 +1,13 @@
 # terra-invicta-ru
-Russian localization Terra Invicta game
-Нажать кнопку Code>>Download Zip
-Все загруженные файлы с расширением .rus переместить в папку Steam\steamapps\common\Terra Invicta\TerraInvicta_Data\StreamingAssets\Localization\rus (создать папку самому),
-Файл TILocalizationTemplate.json переместить в папку Terra Invicta\TerraInvicta_Data\StreamingAssets\Templates
+Russian localization for Terra Invicta game
+
+## Версия игры для Steam
+  1. Нажать кнопку Code>>Download Zip
+  2. Все загруженные файлы с расширением .rus переместить в папку \Steam\steamapps\common\Terra Invicta\TerraInvicta_Data\StreamingAssets\Localization\rus\ (предварительно создать папку rus)
+  3. Файл TILocalizationTemplate.json переместить в папку \Steam\steamapps\common\Terra Invicta\TerraInvicta_Data\StreamingAssets\Templates\
+
+## Версия игры для GOG
+  1. Нажать кнопку Code>>Download Zip
+  2. Все загруженные файлы с расширением .rus переместить в папку \GOG Games\Terra Invicta\TerraInvicta_Data\StreamingAssets\Localization\rus\  (предварительно создать папку rus)
+  3. Открыть файл \GOG Games\Terra Invicta\TerraInvicta_Data\StreamingAssets\Templates\TILocalizationTemplate.json в текстовом редакторе найти строчку: "friendlyName": "Russian", и поменять слледующую сточку с "active": false, на "active": true,
+    
