@@ -207,8 +207,8 @@ TIObjectiveTemplate.solution.TutorialResearchMissionToSpace.ResistCouncil=Исс
 TIObjectiveTemplate.displayName.TutorialResearchOutpostHabs.ResistCouncil=Исследуйте технологию аванпостов
 TIObjectiveTemplate.solution.TutorialResearchOutpostHabs.ResistCouncil=Исследуйте технологию аванпостов.
 
-TIObjectiveTemplate.displayName.TutorialResearchOutpostCore.ResistCouncil=Исследуйте основной проект Outpost
-TIObjectiveTemplate.solution.TutorialResearchOutpostCore.ResistCouncil=Исследуйте основной проект аванпоста, который позволит вам находить аванпосты.
+TIObjectiveTemplate.displayName.TutorialResearchOutpostCore.ResistCouncil=Исследуйте основной проект Аванпост.
+TIObjectiveTemplate.solution.TutorialResearchOutpostCore.ResistCouncil=Исследуйте основной проект аванпоста, который позволит вам основывать аванпосты.
 
 TIObjectiveTemplate.displayName.TutorialFoundBase.ResistCouncil=Основать аванпост
 TIObjectiveTemplate.solution.TutorialFoundBase.ResistCouncil=Накопите достаточно ресурсов, чтобы основать базу, затем выберите космическое тело, на которое вы ранее отправили зонд, выберите место для базы и подтвердите операцию.
