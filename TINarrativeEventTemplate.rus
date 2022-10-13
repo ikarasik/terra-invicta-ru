@@ -166,7 +166,7 @@ TINarrativeEventTemplate.event_OneHumanity.optionResult0=Тенденции ме
 
 TINarrativeEventTemplate.displayName.event_Sanctions=Санкции
 TINarrativeEventTemplate.event_Sanctions.summary=Нарастает напряженность между {targetNationNameWithArticle}  и {secondaryTargetNationNameWithArticle} .
-TINarrativeEventTemplate.event_Sanctions.query={targetNameNameWithArticleCap} может применить ряд экономических санкций к {secondaryTargetNationNameWithArticle} , ограничивая ее способность торговать с другими странами.
+TINarrativeEventTemplate.event_Sanctions.query={targetNationNameWithArticleCap} может применить ряд экономических санкций к {secondaryTargetNationNameWithArticle} , ограничивая ее способность торговать с другими странами.
 TINarrativeEventTemplate.event_Sanctions.option0=Ничего не делать.
 TINarrativeEventTemplate.event_Sanctions.optionDetail0=<skip/>.
 TINarrativeEventTemplate.event_Sanctions.optionResult0={targetNationNameWithArticle} отказалась наложить санкции на {secondaryTargetNationNameWithArticle}.
@@ -666,7 +666,7 @@ TINarrativeEventTemplate.event_Pretenders.optionDetail3=<skip/>
 TINarrativeEventTemplate.event_Pretenders.optionResult3={actorNameWithArticleCap} сожгли город, подозреваемый в проникновении инопланетян {targetRegionNameSentIn}.
 
 TINarrativeEventTemplate.displayName.event_ArmsPurchases=Закупки вооружений
-TINarrativeEventTemplate.event_ArmsPurchases.summary={targetNameNameWithArticleCap}Военные планировщики предложили закупить оборудование у {secondaryTargetNationNameWithArticle} для укрепления своих сил.
+TINarrativeEventTemplate.event_ArmsPurchases.summary={targetNationNameWithArticleCap} Военные планировщики предложили закупить оборудование у {secondaryTargetNationNameWithArticle} для укрепления своих сил.
 TINarrativeEventTemplate.event_ArmsPurchases.query=Хотя в теории все просто, неизвестно, одобрит ли бюджетный комитет эту покупку. Более того, даже если они одобрят, {secondaryTargetNationNameWithArticle} может не захотеть продавать. В любом случае, мы можем попытаться подмазать колеса сделки.
 TINarrativeEventTemplate.event_ArmsPurchases.option0=У нас сейчас нет места в бюджете для этого.
 TINarrativeEventTemplate.event_ArmsPurchases.optionDetail0=Ничего не происходит.
@@ -679,7 +679,7 @@ TINarrativeEventTemplate.event_ArmsPurchases.optionDetail2=<skip/>
 TINarrativeEventTemplate.event_ArmsPurchases.optionResult2={targetNationNameWithArticleCap} приобрело современное оружие у {secondaryTargetNationNameWithArticle}.
 TINarrativeEventTemplate.event_ArmsPurchases.option3=Запросить полную передачу технологии новейшего оборудования {secondaryTargetNationNameWithArticle}.
 TINarrativeEventTemplate.event_ArmsPurchases.optionDetail3=<skip/>
-TINarrativeEventTemplate.event_ArmsPurchases.optionResult3={targetNameNameWithArticleCap} приобрел новейшее оружие у {secondaryTargetNationNameWithArticle}.
+TINarrativeEventTemplate.event_ArmsPurchases.optionResult3={targetNationNameWithArticleCap} приобрел новейшее оружие у {secondaryTargetNationNameWithArticle}.
 
 TINarrativeEventTemplate.displayName.event_MissileTests=Испытания ракеты
 TINarrativeEventTemplate.event_MissileTests.summary={targetNationNameWithArticleCap}новые баллистические ракеты готовы к испытаниям.
