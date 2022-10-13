@@ -1299,7 +1299,8 @@ TINarrativeEventTemplate.event_AntiSatelliteTest.option0=Продолжить т
 TINarrativeEventTemplate.event_AntiSatelliteTest.optionDetail0=<skip/>.
 TINarrativeEventTemplate.event_AntiSatelliteTest.optionResult0={targetNationNameWithArticleCap} испытали противоспутниковую ракету, выведя обломки на низкую околоземную орбиту.
 TINarrativeEventTemplate.event_AntiSatelliteTest.option0.outcome0.Summary={targetNationNameWithArticleCap} испытали противоспутниковую ракету, выведя мусор на низкую околоземную орбиту.
-TINarrativeEventTemplate.event_AntiSatelliteTest.option0.outcome0.Detail={targetNationNameWithArticleCap} противоспутниковое испытание было проведено, несмотря на официальные протесты со стороны {secondaryTargetNationNameWithArticle}. Устаревший спутник был нацелен и успешно уничтожен, разбросав обломки по всей низкой околоземной орбите.TINarrativeEventTemplate.event_AntiSatelliteTest.option1=Прервать тест.
+TINarrativeEventTemplate.event_AntiSatelliteTest.option0.outcome0.Detail={targetNationNameWithArticleCap} противоспутниковое испытание было проведено, несмотря на официальные протесты со стороны {secondaryTargetNationNameWithArticle}. Устаревший спутник был нацелен и успешно уничтожен, разбросав обломки по всей низкой околоземной орбите.
+TINarrativeEventTemplate.event_AntiSatelliteTest.option1=Прервать тест.
 TINarrativeEventTemplate.event_AntiSatelliteTest.optionDetail1=Ничего не происходит.
 TINarrativeEventTemplate.event_AntiSatelliteTest.optionResult1={targetNationNameWithArticleCap} отменил предстоящие ракетные испытания, чтобы избежать повышения напряженности.
 TINarrativeEventTemplate.event_AntiSatelliteTest.option2=Провести крупномасштабные учения с нашими средствами обороны от поверхности до орбиты.
