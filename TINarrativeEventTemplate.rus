@@ -682,7 +682,7 @@ TINarrativeEventTemplate.event_ArmsPurchases.optionDetail3=<skip/>
 TINarrativeEventTemplate.event_ArmsPurchases.optionResult3={targetNationNameWithArticleCap} приобрел новейшее оружие у {secondaryTargetNationNameWithArticle}.
 
 TINarrativeEventTemplate.displayName.event_MissileTests=Испытания ракеты
-TINarrativeEventTemplate.event_MissileTests.summary={targetNationNameWithArticleCap}новые баллистические ракеты готовы к испытаниям.
+TINarrativeEventTemplate.event_MissileTests.summary={targetNationNameWithArticleCap} новые баллистические ракеты готовы к испытаниям.
 TINarrativeEventTemplate.event_MissileTests.query=Новые ракеты обещают большую способность наносить межконтинентальные удары, а та же технология может быть использована в космической программе {targetNationNameWithArticle}. После успешных испытаний они станут мощным дополнением к вооруженным силам {targetNationNameWithArticle}. Разумеется, соперничающие страны, такие как {secondaryTargetNationNameWithArticle}, расценят это как провокационный шаг.
 TINarrativeEventTemplate.event_MissileTests.option0=Отменить испытания.
 TINarrativeEventTemplate.event_MissileTests.optionDetail0=Мы потеряем престиж.
