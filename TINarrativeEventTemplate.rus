@@ -1318,7 +1318,7 @@ TINarrativeEventTemplate.event_KesslerSyndrome.optionResult0={summary}
 
 TINarrativeEventTemplate.displayName.event_OrbitalDebrisStrike=Удар орбитального мусора
 TINarrativeEventTemplate.event_OrbitalDebrisStrike.summary=Обломки недавних сражений флота и испытаний оружия в {targetOrbitName} вот-вот ударят по {targetHabName}.
-TINarrativeEventTemplate.event_OrbitalDebrisStrike.query=Облако обломков расползается по широкой схеме, направляя его на попадание в места по всему {targetHabName}. Были обнаружены обломки невелики, каждый из которых руководил уничтожением ценового оборудования и модулей.
+TINarrativeEventTemplate.event_OrbitalDebrisStrike.query="Облако обломков расползается по широкой схеме, создавая высокий риск попаданий по всей {targetHabName}. Обнаруженные обломки достаточно велики чтобы каждый из них мог уничтожить ценное оборудование и модули."
 TINarrativeEventTemplate.event_OrbitalDebrisStrike.option0=Еще больше жертв войны.
 TINarrativeEventTemplate.event_OrbitalDebrisStrike.optionDetail0=<skip/>
 TINarrativeEventTemplate.event_OrbitalDebrisStrike.option0.outcome0=Большое распространение.
