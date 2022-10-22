@@ -1566,7 +1566,7 @@ TINarrativeEventTemplate.event_PaperTiger.option2.outcome1.Summary={actorNameWit
 
 TINarrativeEventTemplate.displayName.event_EnemyDepotsSeized=Вражеские склады захвачены
 TINarrativeEventTemplate.event_EnemyDepotsSeized.summary=Наступательные маневры {targetArmyNameWithArticle} захватили несколько неповрежденных военных складов снабжения {targetNationAdjective}.
-TINarrativeEventTemplate.event_EnemyDepotsSeized.query=Как повезет, топливо, боеприпасы, батареи и другие припасы на складах в основном совместимы с оборудованием, используемым вооруженными силами {secondaryTargetNationAdjective}. В то время как войска {secondaryTargetNameNationWithArticle} уже угощаются некоторым из предложенного бесплатного снаряжения, местные командиры запросили приказы о том, что делать с остальным.
+TINarrativeEventTemplate.event_EnemyDepotsSeized.query=По счастливой случайности, топливо, боеприпасы, батареи и другие предметы снабжения в основном совместимы с оборудованием, используемым вооруженными силами {secondaryTargetNationNameWithArticle}. В то время как войска {secondaryTargetNationAdjective} уже довольствуются некоторым из предложенного бесплатного снаряжения, местные командиры запросили приказы о том, что делать с остальным.
 TINarrativeEventTemplate.event_EnemyDepotsSeized.option0=Использовать припасы для пополнения боевой мощи {targetArmyNameWithArticle}.
 TINarrativeEventTemplate.event_EnemyDepotsSeized.optionDetail0=<skip/>
 TINarrativeEventTemplate.event_EnemyDepotsSeized.optionResult0={summary}
