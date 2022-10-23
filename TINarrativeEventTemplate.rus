@@ -588,7 +588,7 @@ TINarrativeEventTemplate.event_TerrorFromTheDepths.option1.outcome0=Успех.
 TINarrativeEventTemplate.event_TerrorFromTheDepths.option1.outcome0.Summary={actorNameWithArticleCap} развернул береговую охрану для борьбы с ксенофауной в {targetRegionName}.
 TINarrativeEventTemplate.event_TerrorFromTheDepths.option1.outcome0.Detail=Присутствие береговой охраны успокаивает местных жителей, что все в порядке. Некоторые по-прежнему насторожены, но жизнь продолжается.
 TINarrativeEventTemplate.event_TerrorFromTheDepths.option1.outcome1=Неудача.
-TINarrativeEventTemplate.event_TerrorFromTheDepths.option1.outcome1.Summary={actorNameWithArticleCap}'s coast guard deployment in {targetRegionName} ended in disaster.
+TINarrativeEventTemplate.event_TerrorFromTheDepths.option1.outcome1.Summary=Командировка {actorNameWithArticleCap} в береговую охрану в {targetRegionName} закончилась катастрофой.
 TINarrativeEventTemplate.event_TerrorFromTheDepths.option1.outcome1.Detail=Снимки нескольких судов береговой охраны, атакованных и потопленных причудливыми морскими существами, быстро распространяются в социальных сетях, вызывая всеобщую панику и полную приостановку коммерческой деятельности в {targetRegionNameSentIn}.
 TINarrativeEventTemplate.event_TerrorFromTheDepths.option2=Диспетчеризация полного военно-морского оперативного отряда, чтобы разобраться в этом.
 TINarrativeEventTemplate.event_TerrorFromTheDepths.optionDetail2=<skip/>
@@ -1406,7 +1406,7 @@ TINarrativeEventTemplate.event_HabRevolt.option2.outcome0=Успех.
 TINarrativeEventTemplate.event_HabRevolt.option2.outcome0.Summary={actorNameWithArticleCap} использовал силу для подавления восстания на борту {targetHabName}.
 TINarrativeEventTemplate.event_HabRevolt.option2.outcome0.Detail=К счастью, наш боевой персонал на месте остался верен и готов к приказам. Следуя планам на случай непредвиденных обстоятельств, составленным нашими тактиками, они быстро занялись защитой критически важных мест на борту жилого модуля: основного модуля, контроля окружающей среды, техники и связи. Когда они оказались под нашим контролем, положение экипажа стало невыносимым, и вскоре они были вынуждены сдаться.<br/><br/>Хотя {targetHabName} и получил некоторые повреждения в бою, по крайней мере, пока он остается в наших руках.
 TINarrativeEventTemplate.event_HabRevolt.option2.outcome1=Неудача.
-TINarrativeEventTemplate.event_HabRevolt.option2.outcome1.Summary={actorNameWithArticleCap} failed to suppress a revolt aboard {targetHabName}, leading it to defect to {secondaryFactionName}.
+TINarrativeEventTemplate.event_HabRevolt.option2.outcome1.Summary={actorNameWithArticleCap} не смог подавить восстание на борту {targetHabName}, что привело к его переходу к {secondaryFactionName}.
 TINarrativeEventTemplate.event_HabRevolt.option2.outcome1.Detail=Мы приказали нашему боевому персоналу войти, но повстанцы явно предвидели наши действия. Когда они продвигались к безопасным критическим точкам, морские пехотинцы попали в засаду на слепом перекрестке и понесли тяжелые потери; выжившие были взяты в плен и выставлены напоказ перед камерами в качестве доказательства вероломства {targetFactionName}.TINarrativeEventTemplate.event_HabRevolt.option2.outcome2=Критическая Неудача.
 TINarrativeEventTemplate.event_HabRevolt.option2.outcome2.Summary={actorNameWithArticleCap} случайно уничтожил {targetHabName} при попытке подавить восстание.
 TINarrativeEventTemplate.event_HabRevolt.option2.outcome2.Detail=Мы приказали нашему боевому персоналу на месте, но вскоре после того, как они вступили в бой с повстанцами, мы внезапно потеряли всякую связь с {targetHabName}. Анализ внешних видеозаписей и нескольких ошибочных передач позволяет предположить, что во время боя были повреждены многочисленные важные компоненты, что привело к разгерметизации всего модуля и его медленному разрушению. Мы все еще пытаемся вернуть выживших.<br/><br/>По крайней мере, {targetHabName} больше никому не достанется.
@@ -1601,7 +1601,7 @@ TINarrativeEventTemplate.event_CollapseofOrganizedResistance.query={secondaryTar
 TINarrativeEventTemplate.event_CollapseofOrganizedResistance.option0=Мы будем сражаться до последнего {targetNationAdjective}.
 TINarrativeEventTemplate.event_CollapseofOrganizedResistance.optionDetail0=<skip/>
 TINarrativeEventTemplate.event_CollapseofOrganizedResistance.optionResult0={targetNationNameWithArticleCap} отклонила предложение {secondaryTargetNationNameWithArticle} о сдаче.
-TINarrativeEventTemplate.event_CollapseofOrganizedResistance.option1=Это единственная надежда, которая сейчас есть у {targetNationNameWithArticleCap}.
+TINarrativeEventTemplate.event_CollapseofOrganizedResistance.option1=Это единственная надежда, которая сейчас есть у {targetNationNameWithArticle}.
 TINarrativeEventTemplate.event_CollapseofOrganizedResistance.optionDetail1=<skip/>
 TINarrativeEventTemplate.event_CollapseofOrganizedResistance.optionResult1={targetNationNameWithArticleCap} сдалась {secondaryTargetNationNameWithArticle} в обмен на гуманитарную помощь.
 
