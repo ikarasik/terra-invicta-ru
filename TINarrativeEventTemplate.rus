@@ -373,7 +373,7 @@ TINarrativeEventTemplate.event_WartimeAtrocity.optionDetail1=<skip/>
 TINarrativeEventTemplate.event_WartimeAtrocity.optionResult1={actorNameWithArticleCap} обещал расследовать злодеяния {targetNationNameWithArticle} против {secondaryTargetNationNameWithArticle}.
 TINarrativeEventTemplate.event_WartimeAtrocity.option2=Переложить ответственность на других.
 TINarrativeEventTemplate.event_WartimeAtrocity.optionDetail2=<skip/>
-TINarrativeEventTemplate.event_WartimeAtrocity.optionResult2={targetNationNameWithArticleCap} отрицал сообщения о зверствах против {secondaryTargetNationNameWithArticle}.
+TINarrativeEventTemplate.event_WartimeAtrocity.optionResult2={targetNationNameWithArticleCap} отрицал сообщения о злодеяниях против {secondaryTargetNationNameWithArticle}.
 
 TINarrativeEventTemplate.displayName.event_UnexpectedDeath=Неожиданная смерть
 TINarrativeEventTemplate.event_UnexpectedDeath.summary=Один из наших самых видных сторонников {targetNationNameWithArticleAndPlacePrep} внезапно скончался.
@@ -1160,17 +1160,17 @@ TINarrativeEventTemplate.event_ParamilitaryViolence_Defender.optionDetail3=<skip
 TINarrativeEventTemplate.event_ParamilitaryViolence_Defender.optionResult3={targetNationNameWithArticleCap} принял ответные меры за военизированное насилие {targetRegionNameSentIn}, финансируя собственные военизированные формирования.
 
 TINarrativeEventTemplate.displayName.event_ParamilitaryViolence_Attacker=Военное насилие II
-TINarrativeEventTemplate.event_ParamilitaryViolence_Attacker.summary={targetNationNameWithArticleCap} обвиняется в поддержке полувоенных формирований, совершающих зверства в регионе {secondaryTargetRegionName}.
-TINarrativeEventTemplate.event_ParamilitaryViolence_Attacker.query=Правительство {targetNationNameWithArticle} официально отрицает свою причастность, но население {targetNationAdjective} не выступает против зверств.
+TINarrativeEventTemplate.event_ParamilitaryViolence_Attacker.summary={targetNationNameWithArticleCap} обвиняется в поддержке полувоенных формирований, совершающих злодеяния в регионе {secondaryTargetRegionName}.
+TINarrativeEventTemplate.event_ParamilitaryViolence_Attacker.query=Правительство {targetNationNameWithArticle} официально отрицает свою причастность, но население {targetNationAdjective} не выступает против злодеяний.
 TINarrativeEventTemplate.event_ParamilitaryViolence_Attacker.option0=Отрицать любую причастность к таким группам.
 TINarrativeEventTemplate.event_ParamilitaryViolence_Attacker.optionDetail0=<skip/>
 TINarrativeEventTemplate.event_ParamilitaryViolence_Attacker.optionResult0={targetNationNameWithArticleCap} отрицает любую причастность к военизированному насилию в регионе {secondaryTargetRegionName}.
 TINarrativeEventTemplate.event_ParamilitaryViolence_Attacker.option1=Применить меры против военизированных формирований.
 TINarrativeEventTemplate.event_ParamilitaryViolence_Attacker.optionDetail1=<skip/>
-TINarrativeEventTemplate.event_ParamilitaryViolence_Attacker.optionResult1={targetNationNameWithArticleCap} нанесли удар по полувоенным формированиям, обвиняемым в зверствах в регионе {secondaryTargetRegionName}.
+TINarrativeEventTemplate.event_ParamilitaryViolence_Attacker.optionResult1={targetNationNameWithArticleCap} нанесли удар по полувоенным формированиям, обвиняемым в злодеяниях в регионе {secondaryTargetRegionName}.
 TINarrativeEventTemplate.event_ParamilitaryViolence_Attacker.option2=Поддерживать военизированные формирования оружием и финансированием.
 TINarrativeEventTemplate.event_ParamilitaryViolence_Attacker.optionDetail2=<skip/>
-TINarrativeEventTemplate.event_ParamilitaryViolence_Attacker.optionResult2={targetNationNameWithArticleCap}увеличение поддержки полувоенных формирований, обвиняемых в зверствах в регионе {secondaryTargetRegionName}.
+TINarrativeEventTemplate.event_ParamilitaryViolence_Attacker.optionResult2={targetNationNameWithArticleCap}увеличение поддержки полувоенных формирований, обвиняемых в злодеяниях в регионе {secondaryTargetRegionName}.
 
 TINarrativeEventTemplate.displayName.event_EconomicCollapseRelief_Aliens=Пришельцы предлагают экономическую помощь
 TINarrativeEventTemplate.event_EconomicCollapseRelief_Aliens.summary=Мы получили предложение из неожиданного места.

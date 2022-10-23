@@ -153,8 +153,8 @@ TIMissionTemplate.Prompt.HostileTakeover=Выберите организацию
 TIMissionTemplate.displayName.Inspire=Воодушевить
 TIMissionTemplate.description.Inspire=Повысить лояльность другого советника, сделав его более устойчивым к допросам и попыткам обратить его. Также может вернуть на нашу сторону бывшего советника.
 TIMissionTemplate.CriticalSuccess.Inspire=После того, как мы поговорили, наш советник {targetDisplayNameSent}, кажется, с большим энтузиазмом относится к нашим усилиям. {returnedValue}
-TIMissionTemplate.Success.Inspire=Наш советник {targetDisplayNameSent}, кажется, больше воодушевлен этим делом. {returnedValue}
-TIMissionTemplate.Failure.Inspire=Я не думаю, что сильно повлиял на лояльность {targetDisplayNameSent} делу. {returnedValue}
+TIMissionTemplate.Success.Inspire=Наш советник {targetDisplayNameSent}, кажется, больше воодушевлен нашим делом. {returnedValue}
+TIMissionTemplate.Failure.Inspire=Я не думаю, что сильно повлиял на лояльность {targetDisplayNameSent} нашему делу. {returnedValue}
 TIMissionTemplate.CriticalFailure.Inspire=Извините, но мне кажется, что я ухудшил ситуацию с {targetDisplayNameSent}. {returnedValue}
 
 TIMissionTemplate.Inspire.PositiveEffect={0} советника увеличилось на {1}.
@@ -304,13 +304,13 @@ TIMissionTemplate.displayName.SubmitWin=Вестник наших мастеро
 TIMissionTemplate.description.SubmitWin=Утвердить господство пришельцев на Земле. Требуется, чтобы мы выполнили наши цели победы.
 TIMissionTemplate.Success.SubmitWin=Земля теперь объединена под властью пришельцев.
 
-TIMissionEffect_IncreaseUnrest.Special1=Моя работа была обнаружена, в результате чего наша общественная поддержка здесь снизилась на {0}, а {1} было обвинено в зверстве. // % изменения, название фракции советника
+TIMissionEffect_IncreaseUnrest.Special1=Моя работа была обнаружена, в результате чего наша общественная поддержка здесь снизилась на {0}, а {1} было обвинено в злодеянии. // % изменения, название фракции советника
 TIMissionEffect_IncreaseUnrest.Special2=Моя работа была обнаружена! Агенты {0} обвиняют {1} в злодеянии и собираются задержать меня! Пожалуйста, обеспечьте мое освобождение! // название фракции захвата, название фракции советника
 TIMissionEffect_Coup.Special1=Наша общественная поддержка здесь уменьшилась на {0}.
 TIMissionEffect_Coup.Special2={0} собирается схватить меня! Я постараюсь сопротивляться их допросам, пока смогу! // название фракции, с заглавной буквы
 TIMissionEffect_DamageSpaceFacilities.Special1=Мы были связаны с попыткой, и наша публичная поддержка сократилась на {0}.
 TIMissionEffect_DamageSpaceFacilities.Special2=Меня арестовали и вскоре передадут {0}. // название фракции
-TIMissionEffect_InvestigateCouncilor.EnemySpecial1=Мы знаем личность цели, {0}, связь с {1} и работаем как {2}.
+TIMissionEffect_InvestigateCouncilor.EnemySpecial1=Мы знаем личность цели, {0}, связь с {1} и работу в качестве {2}.
 TIMissionEffect_InvestigateCouncilor.EnemySpecial2=У нас также есть подробный профиль советника, доступный в разделе информации. По нашим оценкам, показатель лояльности советника составляет {0}.
 TIMissionEffect_InvestigateCouncilor.EnemySpecial3=Мы также сможем какое-то время просматривать назначенную советником миссию.
 TIMissionEffect_InvestigateCouncilor.EnemySpecial4=Мы можем знать о {0} больше, чем {1}. Фактический показатель лояльности советника равен {2}.
