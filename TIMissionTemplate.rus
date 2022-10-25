@@ -23,7 +23,7 @@ TIMissionTemplate.displayName.Purge=Зачистка
 TIMissionTemplate.description.Purge=Заберите контрольную точку у вражеской фракции.
 TIMissionTemplate.CriticalSuccess.Purge=Мы взяли контрольную точку для {myFactionName} {targetNationNameWithPrep} у {returnedValue} и получили некоторую общественную поддержку для этого.
 TIMissionTemplate.Success.Purge=Мы удалили сторонников {returnedValue} и взяли контрольную точку для {myFactionName} {targetNationNameWithPrep}.
-TIMissionTemplate.Failure.Purge=Мне не удалось очистить миньонов от {returnedValue} {targetNationNameWithPrep}.
+TIMissionTemplate.Failure.Purge=Мне не удалось вычистить сторонников {returnedValue} {targetNationNameWithPrep}.
 TIMissionTemplate.CriticalFailure.Purge=Мне не удалось выполнить задание по очистке {returnedValue} {targetNationNameWithPrep}. Мои усилия, вероятно, были разоблачены нашими врагами, и мы потеряли там некоторую общественную поддержку.
 
 TIMissionTemplate.displayName.Advise=Советовать
@@ -39,8 +39,8 @@ TIMissionTemplate.CriticalFailure.Assassinate=Мне не удалось вып�
 TIMissionTemplate.Assassinate.Special={targetFactionAdjective} оперативники приближаются к моей позиции.
 TIMissionTemplate.AssassinateAlien=Мы много узнали об инопланетянах из этой операции, и мы получим бонус к нашим исследованиям в области ксенологии в будущем.
 
-TIMissionTemplate.displayName.AssaultAlienAsset=Нападение на инопланетный объект
-TIMissionTemplate.description.AssaultAlienAsset=Возглавьте боевую единицу против неподвижного инопланетного актива.
+TIMissionTemplate.displayName.AssaultAlienAsset=Штурм инопланетного объекта
+TIMissionTemplate.description.AssaultAlienAsset=Возглавьте боевой отряд против неподвижного инопланетного актива.
 TIMissionTemplate.CriticalSuccess.AssaultAlienAsset=Наша атака на {targetDisplayName} в регионе {targetRegionName} увенчалась полным успехом. {returnedValue}
 TIMissionTemplate.Success.AssaultAlienAsset=Наша атака на {targetDisplayName} в регионе {targetRegionName} прошла успешно. {returnedValue}
 TIMissionTemplate.Failure.AssaultAlienAsset=Мы были отброшены защитой цели и не смогли нанести никакого урона.
@@ -215,7 +215,7 @@ TIMissionTemplate.Prompt.SabotageProject=Выберите проект для с
 
 TIMissionTemplate.SecondarySelection=Выбор: {0}
 
-TIMissionTemplate.displayName.SeizeSpaceAsset=Штурм вражеского космического объекта
+TIMissionTemplate.displayName.SeizeSpaceAsset=Штурм космического объекта
 TIMissionTemplate.description.SeizeSpaceAsset=Возглавьте космодесантников в попытке захватить вражеский хаб. Требуются морские пехотинцы в месте нахождения советника. Флоты должны состыковаться с вражескими станциями, чтобы начать атаку. Станции могут сбрасывать войска на поверхность, а базы могут атаковать близлежащие хабы. Требуется запасной модуль управления полетами.
 TIMissionTemplate.CriticalSuccess.SeizeSpaceAsset=Победа! Мы захватили {targetDisplayName} из {targetFactionName}. {returnedValue}
 TIMissionTemplate.Success.SeizeSpaceAsset=Победа! Мы захватили {targetDisplayName} из {targetFactionName}. {returnedValue}
