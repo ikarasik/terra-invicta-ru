@@ -2120,8 +2120,8 @@ TINarrativeEventTemplate.event_CopsandRobbersBuddyMovie1.option0.outcome1.Detail
 TINarrativeEventTemplate.event_CopsandRobbersBuddyMovie1.option1=Запросите несколько услуг у контактов {targetCouncilorFullName} в государственных учреждениях.
 TINarrativeEventTemplate.event_CopsandRobbersBuddyMovie1.optionDetail1=<skip/>
 TINarrativeEventTemplate.event_CopsandRobbersBuddyMovie1.option1.outcome0=Успех.
-TINarrativeEventTemplate.event_CopsandRobbersBuddyMovie1.option1.outcome0.Summary={targetCouncilorFullName} и {secondaryTargetCouncilorFullName} нашли печально известного вора в законе с помощью правительства.
-Друзья TINarrativeEventTemplate.event_CopsandRobbersBuddyMovie1.option1.outcome0.Detail={targetCouncilorFullName} в агентствах были более чем счастливы, увидев, что от цели избавились, потратив долгие часы на анализ телефонных прослушиваний и выслеживание подозрительных лиц, пока кто-то, наконец, не указал путь к цели. цель.
+TINarrativeEventTemplate.event_CopsandRobbersBuddyMovie1.option1.outcome0.Summary={targetCouncilorFullName} и {secondaryTargetCouncilorFullName} нашли печально известного вора в законе с помощью правительства. 
+TINarrativeEventTemplate.event_CopsandRobbersBuddyMovie1.option1.outcome0.Detail=Друзья {targetCouncilorFullName} в агентствах были более чем рады избавиться от цели, потратив долгие часы на анализ телефонных прослушек и слежку за подозрительными лицами, пока кто-то, наконец, не вывел их на цель.
 TINarrativeEventTemplate.event_CopsandRobbersBuddyMovie1.option1.outcome1=Неудача.
 TINarrativeEventTemplate.event_CopsandRobbersBuddyMovie1.option1.outcome1.Summary={targetCouncilorFullName} и {secondaryTargetCouncilorFullName} не смогли найти печально известного вора в законе с помощью правительства.
 TINarrativeEventTemplate.event_CopsandRobbersBuddyMovie1.option1.outcome1.Detail=По какой-то причине агентства не хотели помогать {targetCouncilorFullName} в этом расследовании. Возможно, их тоже подкупила цель, или они просто не сочли, что просьба {targetCouncilorFullName} стоит их усилий. Это очень смутило {targetCouncilorFullName}.
