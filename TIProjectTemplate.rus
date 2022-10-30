@@ -992,7 +992,7 @@ TIProjectTemplate.displayName.Project_HeavyRailgunBatteryMk1=Батареи тя
 TIProjectTemplate.summary.Project_HeavyRailgunBatteryMk1=<shipmodule>
 TIProjectTemplate.displayName.Project_RailCannonMk1=Рельсовая пушка
 TIProjectTemplate.summary.Project_RailCannonMk1=<shipmodule>
-TIProjectTemplate.displayName.Project_SpinalRailgunMk1=Большая курсовая рельсовпя пушка
+TIProjectTemplate.displayName.Project_SpinalRailgunMk1=Тяжелая курсовая рельсовая пушка
 TIProjectTemplate.summary.Project_SpinalRailgunMk1=<shipmodule>
 
 TIProjectTemplate.displayName.Project_LightRailgunBatteryMk2=Улучшенные батареи легких рельсовых орудий
@@ -1003,7 +1003,7 @@ TIProjectTemplate.displayName.Project_HeavyRailgunBatteryMk2=Улучшенны�
 TIProjectTemplate.summary.Project_HeavyRailgunBatteryMk2=<shipmodule>
 TIProjectTemplate.displayName.Project_RailCannonMk2=Улучшенная рельсовая пушка
 TIProjectTemplate.summary.Project_RailCannonMk2=<shipmodule>
-TIProjectTemplate.displayName.Project_SpinalRailgunMk2=Улучшенная курсовая большая рельсовая пушка
+TIProjectTemplate.displayName.Project_SpinalRailgunMk2=Улучшенная тяжелая курсовая рельсовая пушка
 TIProjectTemplate.summary.Project_SpinalRailgunMk2=<shipmodule>
 
 TIProjectTemplate.displayName.Project_LightRailgunBatteryMk3=Продвинутые батареи легких рельсовых орудий
@@ -1014,7 +1014,7 @@ TIProjectTemplate.displayName.Project_HeavyRailgunBatteryMk3=Продвинут�
 TIProjectTemplate.summary.Project_HeavyRailgunBatteryMk3=<shipmodule>
 TIProjectTemplate.displayName.Project_RailCannonMk3=Продвинутая рельсовая пушка
 TIProjectTemplate.summary.Project_RailCannonMk3=<shipmodule>
-TIProjectTemplate.displayName.Project_SpinalRailgunMk3=Продвинутая курсовая большая рельсовая пушка
+TIProjectTemplate.displayName.Project_SpinalRailgunMk3=Продвинутая тяжелая курсовая рельсовая пушка
 TIProjectTemplate.summary.Project_SpinalRailgunMk3=<shipmodule>
 
 TIProjectTemplate.displayName.Project_LightCoilgunBatteryMk1=Батареи легких пушек Гаусса
