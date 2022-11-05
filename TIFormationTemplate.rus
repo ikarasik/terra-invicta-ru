@@ -29,10 +29,10 @@ TIFormationTemplate.Focus.Swift=Скорость
 
 TIFormationTemplate.Concentration.Dispersed=Рассеянный
 TIFormationTemplate.Concentration.Center=Центр
-TIFormationTemplate.Concentration.Right=Право
-TIFormationTemplate.Concentration.Left=Левый
+TIFormationTemplate.Concentration.Right=Справа
+TIFormationTemplate.Concentration.Left=Слева
 TIFormationTemplate.Concentration.Flanks=Фланги
-TIFormationTemplate.Concentration.Back=Сзади
+TIFormationTemplate.Concentration.Back=Назад
 TIFormationTemplate.Concentration.Front=Вперед
 
 TIFormationTemplate.displayName={0} {1} {2} {3} // Плотность + Формация + Фокус + Концентрация, например. «Лучники рассредоточены вправо». Это должно звучать как футбольная формация и описывает расположение кораблей в космосе.
