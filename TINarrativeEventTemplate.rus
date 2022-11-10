@@ -634,7 +634,7 @@ TINarrativeEventTemplate.event_LocalVolunteers.optionDetail3=<skip/>
 TINarrativeEventTemplate.event_LocalVolunteers.optionResult3=Про-{actingFactionAdjective} группы {secondaryTargetNationNameWithArticleAndPlacePrep} обязались оказывать постоянную финансовую поддержку.
 
 TINarrativeEventTemplate.displayName.event_Pretenders=Притворщики
-TINarrativeEventTemplate.event_Pretenders.summary=Жители города {targetRegionNameSentIn} утверждают, что инопланетные лазутчики преследуют улицы в человеческом обличье.
+TINarrativeEventTemplate.event_Pretenders.summary=Жители города {targetRegionNameSentIn} утверждают, что инопланетные лазутчики выслеживают их в человеческом обличье.
 TINarrativeEventTemplate.event_Pretenders.query=Это звучит надуманно, но, учитывая глобальную ситуацию, любые сообщения об инопланетной активности стоит расследовать.
 TINarrativeEventTemplate.event_Pretenders.option0=Они бросятся к теням. Оставьте их в покое.
 TINarrativeEventTemplate.event_Pretenders.optionDetail0=<skip/>
