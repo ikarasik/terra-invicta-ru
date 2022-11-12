@@ -237,7 +237,7 @@ UI.Objectives.IntelScreenCanvas.Atrocities.Name=Зверства
 UI.Objectives.IntelScreenCanvas.Atrocities.Desc=Этот раздел содержит запись о количестве злодеяний, совершенных каждой фракцией. Злодеяния — это действия, которые вызывают массовую гибель или страдания, в результате чего ответственные фракции теряют сторонников. Зверства воздействуют на общественное мнение и накапливаются; по мере того, как фракция совершает больше, штраф общественного мнения резко возрастает.
 
 UI.Objectives.IntelScreenCanvas.SpacebodySorting.Name=Сортировка
-UI.Objectives.IntelScreenCanvas.SpacebodySorting.NameShort=Intel
+UI.Objectives.IntelScreenCanvas.SpacebodySorting.NameShort=Информация
 UI.Objectives.IntelScreenCanvas.SpacebodySorting.Desc=Эта панель содержит список всех космических тел Солнечной системы и информацию о каждом из них. Щелкните любое информационное поле, чтобы отсортировать список по этому показателю.
 UI.Objectives.IntelScreenCanvas.SpacebodyHabCount.Name=Ограничение поддерживаемых жилых помещений
 UI.Objectives.IntelScreenCanvas.SpacebodyHabCount.Desc=Это значение показывает максимальное количество Habs, которое может поддерживать космическое тело.
@@ -457,7 +457,7 @@ UI.Objectives.SpaceCombatCanvas.MainFleetCommandRetractRadiators.Name=Флот: 
 UI.Objectives.SpaceCombatCanvas.MainFleetCommandRetractRadiators.Desc=Эта команда уберет радиаторы всех кораблей вашего флота. Радиаторы защищены от атак, когда они убраны. Однако они не будут отводить тепло в сложенном состоянии. Когда уровень тепла корабля заполнится, его радиаторы будут вынуждены расширяться.
 UI.Objectives.SpaceCombatCanvas.MainFleetCommandAIControl.Name=Флот: Установить управление ИИ
 UI.Objectives.SpaceCombatCanvas.MainFleetCommandAIControl.Desc=Все корабли вашего флота будут контролироваться ИИ. Вы можете восстановить контроль в любое время.
-UI.Objectives.SpaceCombatCanvas.MainFleetCommandPostureFocusFire.Name=Fleet:Set Focus Fire Position
+UI.Objectives.SpaceCombatCanvas.MainFleetCommandPostureFocusFire.Name=Флот:Установить положение фокуса огня
 UI.Objectives.SpaceCombatCanvas.MainFleetCommandPostureFocusFire.Desc=Настройте все наступательные орудия в вашем флоте на фокусировку огня на их основной цели, они будут игнорировать всех других врагов. Оружие Стражей не будет стрелять в оборону.
 UI.Objectives.SpaceCombatCanvas.MainFleetCommandPostureAttack.Name=Флот:Установить позицию атаки
 UI.Objectives.SpaceCombatCanvas.MainFleetCommandPostureAttack.Desc=Настройте все наступательные орудия в вашем флоте так, чтобы они отдавали предпочтение их основной цели, если она находится в пределах досягаемости, в противном случае они будут атаковать ближайшую доступную цель. Оружие Стражей не будет стрелять в оборону.

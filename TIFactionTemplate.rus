@@ -249,7 +249,7 @@ TIFactionTemplate.Diplomacy.Submit.Appease.Conflict=Вы боитесь их, х
 TIFactionTemplate.Diplomacy.Submit.Appease.Tolerance=Хотя вы отвергаете их любовь, вы принимаете их превосходство. Этого достаточно - пока.
 TIFactionTemplate.Diplomacy.Alien.Submit=Приветствую, верный слуга (<color=#9964FF>Преклонить колено, домашнее животное</color>). Тебя любят (<color=#9964FF>ты ничто</color>).
 TIFactionTemplate.Diplomacy.Alien.Appease.War=Выходной (<color=#9964FF>штамп </color>).
-TIFactionTemplate.Diplomacy.Alien.Appease.Conflict=Submission=Выжившие (<color=#9964FF>Сопротивление = уничтожение</color>..
+TIFactionTemplate.Diplomacy.Alien.Appease.Conflict=Подчинение=Выжившие (<color=#9964FF>Сопротивление = уничтожение</color>..
 TIFactionTemplate.Diplomacy.Alien.Appease.Tolerance=Вы допущены (<color=#9964FF>Вы не представляете угрозы</color>).
 TIFactionTemplate.Diplomacy.Alien.Cooperate.War=Нежелательное препятствие (<color=#9964FF>Устранить угрозу</color>).
 TIFactionTemplate.Diplomacy.Alien.Cooperate.Conflict=Прекращение. Прекратить. Прекратить. (<color=#9964FF>Угроза. Угроза. Угроза.</color>
