@@ -63,6 +63,7 @@ UI.Options.UnpauseAfterMissionAssignments=Отменить паузу после
 UI.Options.MaxShipsInCombat=Максимум кораблей, допущенных к бою
 UI.Options.AlertSpaceTimer=Пауза и оповещение об обновлении состояния флота
 UI.Options.ToggleMonthlyIncomes=Показать месячный доход
+UI.Options.SystemClock=Отображать время системы
 UI.Options.MuteInBackground=Отключить звук в фоновом режиме
 UI.Options.Language=Язык
 UI.Options.WaypointAngleSnap=Привязка угла боевой путевой точки (градусы)
