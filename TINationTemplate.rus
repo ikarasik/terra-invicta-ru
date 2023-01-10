@@ -1131,17 +1131,27 @@ TINationTemplate.displayNameWithArticle.URL=Уральская Республи�
 TINationTemplate.nationAdjective.URL=Урал
 TINationTemplate.displayNameWithArticlePrep.URL=в Уральской Республике
 
-TINationTemplate.unionDisplayName.POL=Славянское Содружество
-TINationTemplate.unionDisplayNameWithArticle.POL=Славянское Содружество
-TINationTemplate.unionAdjective.POL=Славянский
-TINationTemplate.unionDisplayNameWithArticlePrep.POL=в Славянском Содружестве
+TINationTemplate.unionDisplayName.POL=Интермариум
+TINationTemplate.unionDisplayNameWithArticle.POL=Интермариум
+TINationTemplate.unionAdjective.POL=Интермариум
+TINationTemplate.unionDisplayNameWithArticlePrep.POL=в Интермариуме
 
+TINationTemplate.displayName.PAT=Патагония
+TINationTemplate.displayNameWithArticle.PAT=Патагония
+TINationTemplate.nationAdjective.PAT=Патагония
+TINationTemplate.displayNameWithArticlePrep.PAT=в Патагонии
 
+TINationTemplate.displayName.CAY=Кайенна
+TINationTemplate.displayNameWithArticle.CAY=Кайенна
+TINationTemplate.nationAdjective.CAY=Кайенна
+TINationTemplate.displayNameWithArticlePrep.CAT=в Кайенне
 
+TINationTemplate.displayName.PNG=Папуа Новая Гвинея
+TINationTemplate.displayNameWithArticle.PNG=Папуа Новая Гвинея
+TINationTemplate.nationAdjective.PNG=Папуанская
+TINationTemplate.displayNameWithArticlePrep.PNG=в Папуа-Новой Гвинее
 
-
-
-
-
-
-
+TINationTemplate.unionDisplayName.KAZ=Центральноазиатский союз
+TINationTemplate.displayNameWithArticle.KAZ=Центральноазиатский союз
+TINationTemplate.unionAdjective.KAZ=Центрально-Азиатский Союз
+TINationTemplate.unionDisplayNameWithArticlePrep=в Центрально-Азиатском Союзе

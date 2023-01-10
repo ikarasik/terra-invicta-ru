@@ -50,6 +50,7 @@ TIMissileTemplate.Warhead.Penetrator=Пенетратор ({0} урона бро
 TIMissileTemplate.Warhead.Fragmentation=Фрагментация ({0} повреждения брони)
 TIMissileTemplate.Warhead.Nuclear=Ядерный (Все повреждения брони)
 TIMissileTemplate.Warhead.ShapedNuclear=Формированный ядерный двигатель (Все повреждения брони)
+TIMissileTemplate.Warhead.Antimatter=Антиматерия ({0} повреждение брони)
 TIMissileTemplate.WarheadType.Explosive=Взрывчатка
 TIMissileTemplate.WarheadType.Penetrator=Пенетратор
 TIMissileTemplate.WarheadType.Fragmentation=Фрагментация

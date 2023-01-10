@@ -15,8 +15,8 @@
     "active": true,
     "core": true,
     "requiresFontChange": true,
-    "headlineFontPath": "Oswald-Medium SDF -HEADER",
-    "bodyTextFontPath": "Oswald-Light SDF",
+   "headlineFontPath": "NotoSans-Bold SDF-HEADER",
+   "bodyTextFontPath": "NotoSans-Regular SDF",
     "nameListOffset": 1
   },
  {

@@ -1195,7 +1195,6 @@ TINarrativeEventTemplate.event_SpaceBirth.option2=Наши передовые м
 TINarrativeEventTemplate.event_SpaceBirth.optionDetail2=<skip/>
 TINarrativeEventTemplate.event_SpaceBirth.optionResult2={summary}
 
-
 TINarrativeEventTemplate.displayName.event_FirstSpaceBirth=Первое космическое рождение
 TINarrativeEventTemplate.event_FirstSpaceBirth.summary=Мы зарегистрировали первое живорождение человека в космосе на борту {secondaryTargetHabName}.
 TINarrativeEventTemplate.event_FirstSpaceBirth.query=Несмотря на происходящие глобальные события, жизнь продолжается.
@@ -1970,6 +1969,22 @@ TINarrativeEventTemplate.event_RecentAsteroidImpact.optionResult2={summary}
 TINarrativeEventTemplate.event_RecentAsteroidImpact.option3=Дайте морским пехотинцам занятие, отправив их собрать больше образцов.
 TINarrativeEventTemplate.event_RecentAsteroidImpact.optionDetail3=<skip/>
 TINarrativeEventTemplate.event_RecentAsteroidImpact.optionResult3={summary}
+
+TINarrativeEventTemplate.displayName.event_EnergyCrisisImminent=Энергетический кризис неизбежен
+TINarrativeEventTemplate.event_EnergyCrisisImminent.summary=Экономисты предупреждают о неизбежности масштабного роста мировых цен на энергоносители.
+TINarrativeEventTemplate.event_EnergyCrisisImminent.query=Энергетические рынки сильно колебались с момента прибытия инопланетян, но в последнее время все показатели имеют тенденцию только к росту. Уже слишком поздно полностью предотвратить грядущий кризис, но мы можем попытаться подготовить к нему наши страны.
+TINarrativeEventTemplate.event_EnergyCrisisImminent.option0=Мы примем это к сведению.
+TINarrativeEventTemplate.event_EnergyCrisisImminent.optionDetail0=<skip/>
+TINarrativeEventTemplate.event_EnergyCrisisImminent.optionResult0=Глобальный энергетический кризис неизбежен.
+TINarrativeEventTemplate.event_EnergyCrisisImminent.option1=Оцените необходимое количество углеводородов.
+TINarrativeEventTemplate.event_EnergyCrisisImminent.optionDetail1=Это прогноз, основанный на текущих условиях - в условиях кризиса он, конечно, будет выше.
+TINarrativeEventTemplate.event_EnergyCrisisImminent.optionResult1=Глобальный энергетический кризис неизбежен.
+TINarrativeEventTemplate.event_EnergyCrisisImminent.option2=Оцените стоимость строительства электростанции деления.
+TINarrativeEventTemplate.event_EnergyCrisisImminent.optionDetail2=Это прогноз, основанный на текущих условиях - в условиях кризиса он, конечно, будет выше.
+TINarrativeEventTemplate.event_EnergyCrisisImminent.optionResult2=Глобальный энергетический кризис неизбежен.
+TINarrativeEventTemplate.event_EnergyCrisisImminent.option3=Оцените стоимость строительства термоядерной электростанции.
+TINarrativeEventTemplate.event_EnergyCrisisImminent.optionDetail3=Это прогноз, основанный на текущих условиях - в условиях кризиса он, конечно, будет выше.
+TINarrativeEventTemplate.event_EnergyCrisisImminent.optionResult3=Глобальный энергетический кризис неизбежен.
 
 TINarrativeEventTemplate.displayName.event_GlobalEnergyCrisis=Глобальный энергетический кризис
 TINarrativeEventTemplate.event_GlobalEnergyCrisis.summary=Внезапный и резкий скачок цен на энергоносители толкает экономику Земли на грань.

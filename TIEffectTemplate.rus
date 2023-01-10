@@ -686,3 +686,7 @@ TIEffectTemplate.displayName.Effect_AbductionsDefense=Защита от втор
 TIEffectTemplate.description.Effect_AbductionsDefense=-Пришельцы получают -{0} на миссиях похищения в странах, где у нас есть исполнительный контроль
 TIEffectTemplate.description.Effect_UpdateAlienThreatMeter=-Мы обновляем нашу оценку разведданных о том, как пришельцы относятся к нашей фракции
 TIEffectTemplate.description.Effect_FixAlienThreatMeter=- Мы обновляем нашу разведывательную информацию о том, как пришельцы относятся к нашей фракции, используя точные данные.
+TIEffectTemplate.description.Effect_HackProject_Steal=-Получение +{0} на миссиях проекта Кража
+TIEffectTemplate.description.Effect_HackProject_Sabotage=Прибыль +{0} в миссиях проекта Саботаж
+TIEffectTemplate.description.Effect_InspireBonus=-Получение +{0} за миссии Вдохновение
+TIEffectTemplate.description.Effect_TurnBonus=-Получение +{0} на миссиях с Переворотом

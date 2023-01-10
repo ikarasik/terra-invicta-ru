@@ -65,6 +65,7 @@ UI.Notifications.MyControlPointDominatedHed=Контрольная точка с
 UI.Notifications.MyControlPointDominatedSummary={0} агентов вынудили сдать {1} контрольную точку {2}. // прилагательное фракции, прилагательное фракции, нация с подготовкой
 UI.Notifications.MyControlPointDominatedDetail=Агенты {0} пригрозили нанести орбитальные удары по различным военным и гражданским объектам {1}, в результате чего тамошние лидеры сдали им одну из наших контрольных точек. {2}
 UI.Notifications.MyControlPointDominatedDetail2=Сторонники {0} нанесли разрушительные орбитальные удары по военным и гражданским объектам {1} после попытки запугать наших непокорных сторонников и заставить их подчиниться. Выжившие сдали им один из наших контрольных пунктов. {2}
+UI.Notifications.Neutral=нейтральный
 UI.Notifications.MyControlPointCrackedDownHed=Разгон
 UI.Notifications.MyControlPointCrackedDownSummary=Наши противники напали на нашу контрольную точку {0} в {1}.
 UI.Notifications.MyControlPointCrackedDownDetail=Наши противники напали на нашу контрольную точку {0} в {1}. Он уязвим для миссии Purge, и мы не получим от него преимуществ до {2}. // описание контрольной точки, страна, дата
@@ -378,6 +379,8 @@ UI.Notifications.FleetLaunchesAtMeDetail={0} Флот {1} запущен по т
 UI.Notifications.FleetArrivedHeadline={0} флот {1} завершает переход
 UI.Notifications.FleetArrivedSummary={0} флот {1} прибыл {2}.
 UI.Notifications.FleetArrivedDetail={0} флот {1} прибыл {2}.
+UI.Notifications.FleetArrivedResupply=<sp>Флот начнет пополнение запасов.
+UI.Notifications.FleetArrivedRepair=<sp>Флот начнет ремонт.
 UI.Notifications.FleetTrajectoryAbortedHed={0} отменяет планы полета
 UI.Notifications.FleetTrajectoryAbortedSummary={0} прервал свой план полета.
 UI.Notifications.FleetTrajectoryAbortedDetail_TargetFleetChange={0} был вынужден прервать свой план полета из-за того, что флот, на который он нацеливался, изменил свою траекторию.
@@ -545,16 +548,28 @@ UI.Notifications.OrgPoolOverfull.Hed=Уменьшить неназначенны
 UI.Notifications.OrgPoolOverfull.Summary=Мы должны сократить наш пул неназначенных организаций.
 UI.Notifications.OrgPoolOverfull.Detail=Недавние транзакции сделали наш пул неназначенных организаций больше, чем мы можем управлять. Мы должны назначать организации нашим советникам или продавать их до тех пор, пока у нас не будет {0} или меньше организаций в неназначенном пуле. Мы не сможем опережать время, пока этот вопрос не будет решен.
 
+UI.Notifications.ArmyBeginsAnnexationHed={0} Начинается аннексия {1} Регион
+UI.Notifications.ArmyBeginsAnnexationSummary={0} Началось присоединение {1} региона {2}.
+UI.Notifications.ArmyBeginsAnnexationDetail={0} началось присоединение {1} региона {2}. Если это не будет прервано боевыми действиями или прекращением военных действий, {3} возьмет регион под свой контроль к {4}.
+
+UI.Notifications.ArmyCompletesAnnexationHed={0} Аннексирует {1} регион {2}. Регион
+UI.Notifications.ArmyCompletesAnnexationSummary={0} аннексировал {1} регион {2}.
+UI.Notifications.ArmyCompletesAnnexationDetail={0} аннексировал {1} регион {2}.
+
+UI.Notifications.ArmyCancelsAnnexationHed={0} попытка аннексии провалилась
+UI.Notifications.ArmyCancelsAnnexationSummary=Попытка {0} аннексировать {1} регион {2} провалилась.
+UI.Notifications.ArmyCancelsAnnexationDetail=Попытка {0} присоединить {1} регион {2} закончилась неудачей.
+
 UI.Notifications.HabModuleDecommissioned.Summary=Мы завершили списание {0} в {1}. // имя модуля, имя хаба
 
 UI.Notifications.HabDecommissioned.Hed={0} Списан
 UI.Notifications.HabDecommissioned.Summary=Мы завершили списание {0}.
 UI.Notifications.HabDecommissioned.Detail=Мы завершили списание {0}.
 
-UI.Notifications.RemoveArmiesPrompt=У нашей страны, {0}, нет официального договора об обороне с новым правительством {1}, и ее лидеры настаивают на том, чтобы мы вывели наши войска, дислоцированные в их стране.<br/><br/>Если мы хотим остаться, мы можем предложить союз и остаться, если они согласятся ({2} шанс), или мы можем объявить войну этой нации и ее союзникам, и у наших союзников будет возможность присоединиться к нападению. В противном случае наши войска отправятся в ближайший дружественный регион. // название нации, название нации с подготовкой, %value
-UI.Notifications.ProposeAllianceRemoveArmiesPrompt=Предложить союз {0}
+UI.Notifications.RemoveArmiesPrompt=Наша нация, {0}, не имеет официального договора об обороне с новым правительством {1}, и его лидеры настаивают на том, чтобы мы вывели наши войска, размещенные в их стране.<br/><br/>Если мы хотим остаться, мы можем предложить союз и остаться, если они согласятся ({2} шанс), или мы можем объявить войну этой нации и ее союзникам, и наши союзники будут иметь возможность присоединиться к атаке. В противном случае наши армии отправятся в ближайший дружественный регион.		// название нации, название нации с предложением, %value
+UI.Notifications.ProposeAllianceRemoveArmiesPrompt=Предложить альянс {0}
 UI.Notifications.DeclareWarArmiesPrompt=Объявить войну {0}
-UI.Notifications.GoHomeArmiesPrompt=Отправить
+UI.Notifications.GoHomeArmiesPrompt=Отступить
 
 UI.Notifications.GlobalMilestone.Reward=Награда {0}
 UI.Notifications.GlobalMilestone.Hed.FirstBaseOnLuna=Основана первая лунная база

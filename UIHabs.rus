@@ -155,3 +155,4 @@ UI.Habs.DuplicateHab=Выберите ближайший хаб, чтобы пр
 UI.Habs.PriorModule=Бывший {0}
 UI.Habs.DecommissionModuleQueryRefund=Мы можем бесплатно отменить строительство этого модуля.
 UI.Habs.Paren=<sp>({0}/месяц)
+UI.Habs.UpgradeOnly=На данном хабе разрешено использовать только один модуль данного типа (включая его обновления).
