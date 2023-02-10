@@ -17,3 +17,4 @@ UI.MissionPhase.NoTargetLocation=Некоторые цели миссий мог
 UI.MissionPhase.BadTrait={0}: {1}
 UI.MissionPhase.NoTargetsHelp=Этот советник не может выполнить это задание, потому что для него нет действительных целей. Цели для этой миссии могут быть недействительными по многим причинам, включая:
 UI.MissionPhase.Unknown=Неизвестно
+UI.MissionPhase.AIWorking=Враги планируют

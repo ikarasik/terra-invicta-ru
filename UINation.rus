@@ -420,3 +420,4 @@ UI.Nation.ChangeCause_FromGDP={0} от ВВП
 UI.Nation.ChangeCause_Government={0} из оценки правительства
 UI.Nation.ChangeCause_Armies={0} из армий
 UI.Nation.ExecutiveConsolidationTimer={0} д                                     // ОЧЕНЬ МАЛЕНЬКОЕ МЕСТО В UI, ТОЛЬКО ОДИН ЧАРАКТЕР ДЛЯ "ДНЕЙ"
+UI.Nation.MapObjectPanelLaunch=Планирование запуска

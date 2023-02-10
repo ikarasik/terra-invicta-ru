@@ -16,6 +16,7 @@ UI.Notifications.CouncilorReports=Безопасная связь от {0} // и
 UI.Notifications.ContinueButtonText=Продолжить
 UI.Notifications.CloseButtonText=Закрыть
 UI.Notifications.GotoButtonText=Перейти туда
+UI.Notifications.GotoButtonTextObjectives=Просмотр целей
 UI.Notifications.RepeatMissionButtonText=Повторить миссию
 UI.Notifications.RepeatOpButtonText=Повторить операцию
 UI.Notifications.PermanentAssignment=Постоянное назначение
@@ -630,6 +631,12 @@ UI.Notifications.Diplomacy.TradeValueLow=Нам нужно немного бол
 UI.Notifications.Diplomacy.TradeValueEqual=Это честная сделка, я согласен.
 UI.Notifications.Diplomacy.TradeValueHigh=Щедрая сделка, я принимаю.
 UI.Notifications.Diplomacy.TradeValueOffered=Что вы думаете об этой сделке?
+UI.Notifications.Diplomacy.TradeValueNone. Alien=Предложение (<color=#9964FF>Отправить предложение</color>).
+UI.Notifications.Diplomacy.TradeValueVeryLow. Alien=Не хватает (<color=#9964FF>Недостаточно. Неприемлемо.</color>).
+UI.Notifications.Diplomacy.TradeValueLow.Alien=Недостаточно (<color=#9964FF>Нежелательно.</color>).
+UI.Notifications.Diplomacy.TradeValueEqual. Alien=Адекватно (<color=#9964FF>Приемлемо</color>).
+UI.Notifications.Diplomacy.TradeValueHigh. Alien=Щедрое (<color=#9964FF>Одобрено</color>).
+UI.Notifications.Diplomacy.TradeValueOffered. Alien=Разрешение (<color=#9964FF>Принять предложение</color>).
 UI.Notifications.Diplomacy.TabResources=Ресурсы
 UI.Notifications.Diplomacy.TabOrgs=Организации
 UI.Notifications.Diplomacy.TabProjects=Проекты
@@ -649,3 +656,5 @@ UI.Notifications.Diplomacy.NAP=Пакт о ненападении
 UI.Notifications.Diplomacy.Truce=Перемирие
 UI.Notifications.Diplomacy.NAPDesc=Пакт о ненападении — это соглашение, позволяющее избегать враждебных миссий советников и политики против вашей фракции.
 UI.Notifications.Diplomacy.TruceDesc=Перемирие — это соглашение о прекращении войны и прекращении враждебных миссий советников и политики против вашей фракции на {0} месяцев. //длительность перемирия
+UI.Notifications.Diplomacy.ImproveRelations=Улучшить отношения
+UI.Notifications.Diplomacy.ImproveRelationsTooltip=Завершение торговли с другой фракцией снизит их ненависть к вашей фракции и улучшит отношения.

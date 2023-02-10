@@ -412,6 +412,8 @@ TIMissionModifier_DecommissioningHab.displayName=Вывод из эксплуа�
 TIMissionModifier_AlienCoordinate.displayName=Поддержка прокси
 TIMissionModifier_NationSizeEnthrallDifficulty.displayName=Размер нации
 TIMissionModifier_ConditionalEnthrallDefendedPoint.displayName=Защищать интересы
+TIMissionModifier_AttackerMissionControlShortage.displayName=Недостаток управления полетами
+TIMissionModifier_DefenderMissionControlShortage.displayName=Недостаток управления полетами
 
 TIMissionCondition_GenericFail=Недопустимая цель для этой миссии
 TIMissionCondition_AvailableControlPoint=У нации нет открытых контрольных точек

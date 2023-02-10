@@ -31,6 +31,7 @@ UI.Global.Fissiles=Радионуклиды
 UI.Global.Water=Вода
 UI.Global.Antimatter=Антиматерия
 UI.Global.Exotics=Экзотика
+UI.Global.Common=Общий
 UI.Global.Div=___
 UI.Global.SerialDividerWithSpace=,<sp>
 UI.Global.ListConjunction= и<sp>

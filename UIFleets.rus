@@ -284,3 +284,7 @@ UI.Fleets.RightToPlace=Щелкните правой кнопкой мыши, ч
 UI.Fleets.Unknown=Неизвестно
 UI.Fleets.HomeBase=Домашний хаб
 UI.Fleets.HomeBaseDetail=Установка домашней среды обитания для этого флота сделает его местом назначения по умолчанию для трансферов.
+UI.Fleets.BuildDays=Строить ({0} дней)	
+UI.Fleets.AddToConstructionQueueButtonDays=Добавить в очередь ({0} дней) // d для дней
+UI.Fleets.FleetListButtonText=Флоты
+UI.Fleets.RefitDays=Перезагрузка ({0} дней)
