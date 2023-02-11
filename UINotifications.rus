@@ -631,12 +631,12 @@ UI.Notifications.Diplomacy.TradeValueLow=Нам нужно немного бол
 UI.Notifications.Diplomacy.TradeValueEqual=Это честная сделка, я согласен.
 UI.Notifications.Diplomacy.TradeValueHigh=Щедрая сделка, я принимаю.
 UI.Notifications.Diplomacy.TradeValueOffered=Что вы думаете об этой сделке?
-UI.Notifications.Diplomacy.TradeValueNone. Alien=Предложение (<color=#9964FF>Отправить предложение</color>).
-UI.Notifications.Diplomacy.TradeValueVeryLow. Alien=Не хватает (<color=#9964FF>Недостаточно. Неприемлемо.</color>).
+UI.Notifications.Diplomacy.TradeValueNone.Alien=Предложение (<color=#9964FF>Отправить предложение</color>).
+UI.Notifications.Diplomacy.TradeValueVeryLow.Alien=Не хватает (<color=#9964FF>Недостаточно. Неприемлемо.</color>).
 UI.Notifications.Diplomacy.TradeValueLow.Alien=Недостаточно (<color=#9964FF>Нежелательно.</color>).
-UI.Notifications.Diplomacy.TradeValueEqual. Alien=Адекватно (<color=#9964FF>Приемлемо</color>).
-UI.Notifications.Diplomacy.TradeValueHigh. Alien=Щедрое (<color=#9964FF>Одобрено</color>).
-UI.Notifications.Diplomacy.TradeValueOffered. Alien=Разрешение (<color=#9964FF>Принять предложение</color>).
+UI.Notifications.Diplomacy.TradeValueEqual.Alien=Адекватно (<color=#9964FF>Приемлемо</color>).
+UI.Notifications.Diplomacy.TradeValueHigh.Alien=Щедрое (<color=#9964FF>Одобрено</color>).
+UI.Notifications.Diplomacy.TradeValueOffered.Alien=Разрешение (<color=#9964FF>Принять предложение</color>).
 UI.Notifications.Diplomacy.TabResources=Ресурсы
 UI.Notifications.Diplomacy.TabOrgs=Организации
 UI.Notifications.Diplomacy.TabProjects=Проекты
