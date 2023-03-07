@@ -15,7 +15,6 @@ TILaserWeaponTemplate.displayName.720cmIRLaserCannon=Лазерная пушка
 TILaserWeaponTemplate.description.720cmIRLaserCannon=Большая инфракрасная лазерная пушка ближнего действия.
 TILaserWeaponTemplate.displayName.960cmIRLaserCannon=Лазерная пушка 960 см
 TILaserWeaponTemplate.description.960cmIRLaserCannon=Огромная инфракрасная лазерная пушка, подходящая только для наших крупнейших кораблей.
-
 TILaserWeaponTemplate.displayName.PointDefenseArcLaserTurret=Дуговая турель точечной защиты
 TILaserWeaponTemplate.description.PointDefenseArcLaserTurret=Усовершенствованный инфракрасный лазер, предназначенный для уничтожения приближающихся снарядов.
 TILaserWeaponTemplate.displayName.60cmIRArcLaserBattery=Дуговая батарея 60 см 
@@ -32,7 +31,6 @@ TILaserWeaponTemplate.displayName.720cmIRArcLaserCannon=Дуговая пушк�
 TILaserWeaponTemplate.description.720cmIRArcLaserCannon=Большая усиленная инфракрасная лазерная пушка.
 TILaserWeaponTemplate.displayName.960cmIRArcLaserCannon=Дуговая пушка 960 см
 TILaserWeaponTemplate.description.960cmIRArcLaserCannon=Огромная усиленная инфракрасная лазерная пушка.
-
 TILaserWeaponTemplate.displayName.PointDefensePhaserTurret=Фазерная турель точечной защиты
 TILaserWeaponTemplate.description.PointDefensePhaserTurret=Усовершенствованный лазер с фазированной решеткой, подходящий для защиты наших кораблей от приближающихся снарядов.
 TILaserWeaponTemplate.displayName.60cmIRPhaserBattery=Фазерная батарея 60 см
@@ -49,7 +47,6 @@ TILaserWeaponTemplate.displayName.720cmIRPhaserCannon=Фазерная пушк�
 TILaserWeaponTemplate.description.720cmIRPhaserCannon=Большая инфракрасная лазерная пушка с фазированной решеткой.
 TILaserWeaponTemplate.displayName.960cmIRPhaserCannon=Фазерная пушка 960 см
 TILaserWeaponTemplate.description.960cmIRPhaserCannon=Огромная лазерная пушка с фазированной решеткой, стреляющая в инфракрасном диапазоне и подходящая для наших крупнейших кораблей.
-
 TILaserWeaponTemplate.displayName.60cmGreenLaserBattery=Лазерная батарея 60 см (зел.)
 TILaserWeaponTemplate.description.60cmGreenLaserBattery=Небольшая лазерная турель, которая стреляет в видимом диапазоне длин волн, что обеспечивает больший радиус действия, чем у инфракрасных лазеров.
 TILaserWeaponTemplate.displayName.120cmGreenLaserBattery=Лазерная батарея 120 см (зел.)
@@ -64,7 +61,6 @@ TILaserWeaponTemplate.displayName.720cmGreenLaserCannon=Лазерная пуш�
 TILaserWeaponTemplate.description.720cmGreenLaserCannon=Большая лазерная пушка, которая стреляет в видимом диапазоне длин волн, что делает ее идеальным бомбардировочным оружием.
 TILaserWeaponTemplate.displayName.960cmGreenLaserCannon=Лазерная пушка 960 см (зел.)
 TILaserWeaponTemplate.description.960cmGreenLaserCannon=Огромная лазерная пушка, которая стреляет в видимом диапазоне длин волн и подходит только для установки на наш самый большой космический корабль.
-
 TILaserWeaponTemplate.displayName.60cmGreenArcLaserBattery=Дуговая батарея 60 см (зел.)
 TILaserWeaponTemplate.description.60cmGreenArcLaserBattery=Маленькая усиленная лазерная турель, стреляющая в видимом диапазоне длин волн.
 TILaserWeaponTemplate.displayName.120cmGreenArcLaserBattery=Дуговая батарея 120 см (зел.)
@@ -79,7 +75,6 @@ TILaserWeaponTemplate.displayName.720cmGreenArcLaserCannon=Дуговая пуш
 TILaserWeaponTemplate.description.720cmGreenArcLaserCannon=Большая дуговая лазерная пушка, стреляющая видимыми частотами.
 TILaserWeaponTemplate.displayName.960cmGreenArcLaserCannon=Дуговая пушка 960 см (зел.)
 TILaserWeaponTemplate.description.960cmGreenArcLaserCannon=Огромная дуговая лазерная пушка, которая стреляет на видимых частотах и ​​может быть установлена ​​на нашем самом большом боевом корабле.
-
 TILaserWeaponTemplate.displayName.60cmGreenPhaserBattery=Фазерная батарея 60 см (зел.)
 TILaserWeaponTemplate.description.60cmGreenPhaserBattery=Небольшая лазерная турель с фазированной решеткой, стреляющая видимыми частотами.
 TILaserWeaponTemplate.displayName.120cmGreenPhaserBattery=Фазерная батарея 120 см (зел.)
@@ -94,7 +89,6 @@ TILaserWeaponTemplate.displayName.720cmGreenPhaserCannon=Фазерная пуш
 TILaserWeaponTemplate.description.720cmGreenPhaserCannon=Большая лазерная пушка с фазированной решеткой, стреляющая на длине волны 540 нанометров в видимом диапазоне.
 TILaserWeaponTemplate.displayName.960cmGreenPhaserCannon=Фазерная пушка 960 см (зел.)
 TILaserWeaponTemplate.description.960cmGreenPhaserCannon=Огромная лазерная пушка с фазированной решеткой, стреляющая в видимом диапазоне длин волн и подходящая для наших крупнейших кораблей.
-
 TILaserWeaponTemplate.displayName.60cmUVLaserBattery=Лазерная батарея 60 см (ульт.)
 TILaserWeaponTemplate.description.60cmUVLaserBattery=Небольшая лазерная турель, которая стреляет в ультрафиолетовых частотах, придавая ей большую поражающую силу, чем лазеры видимой частоты или инфракрасные лазеры.
 TILaserWeaponTemplate.displayName.120cmUVLaserBattery=Лазерная батарея 120 см (ульт.)
@@ -109,7 +103,6 @@ TILaserWeaponTemplate.displayName.720cmUVLaserCannon=Лазерная пушка
 TILaserWeaponTemplate.description.720cmUVLaserCannon=Большая лазерная пушка, установленная в носу и стреляющая в ультрафиолетовом диапазоне.
 TILaserWeaponTemplate.displayName.960cmUVLaserCannon=Лазерная пушка 960 см (ульт.)
 TILaserWeaponTemplate.description.960cmUVLaserCannon=Огромная носовая система лазерного оружия, стреляющая смертоносными ультрафиолетовыми частотами.
-
 TILaserWeaponTemplate.displayName.60cmUVArcLaserBattery=Дуговая батарея 60 см (ульт.)
 TILaserWeaponTemplate.description.60cmUVArcLaserBattery=Маленькая усовершенствованная дуговая лазерная турель, стреляющая в повреждающем ультрафиолетовом диапазоне.
 TILaserWeaponTemplate.displayName.120cmUVArcLaserBattery=Дуговая батарея 120 см (ульт.)
@@ -124,7 +117,6 @@ TILaserWeaponTemplate.displayName.720cmUVArcLaserCannon=Дуговая пушк�
 TILaserWeaponTemplate.description.720cmUVArcLaserCannon=Приносит боль нашим врагам на длине волны 270 нанометров.
 TILaserWeaponTemplate.displayName.960cmUVArcLaserCannon=Дуговая пушка 960 см (ульт.)
 TILaserWeaponTemplate.description.960cmUVArcLaserCannon=Массивная УФ-лазерная пушка с оптикой шириной почти двадцать метров, способная наносить урон на большом расстоянии.
-
 TILaserWeaponTemplate.displayName.60cmUVPhaserBattery=Фазерная батарея 60 см (ульт.)
 TILaserWeaponTemplate.description.60cmUVPhaserBattery=Небольшая, но мощная лазерная турель с фазированной решеткой, стреляющая в ультрафиолетовом диапазоне.
 TILaserWeaponTemplate.displayName.120cmUVPhaserBattery=Фазерная батарея 120 см (ульт.)
@@ -139,7 +131,6 @@ TILaserWeaponTemplate.displayName.720cmUVPhaserCannon=Фазерная пушк�
 TILaserWeaponTemplate.description.720cmUVPhaserCannon=Чрезвычайно мощная лазерная система с фазированной решеткой, установленная на носу наших крупных кораблей.
 TILaserWeaponTemplate.displayName.960cmUVPhaserCannon=Фазерная пушка 960 см (ульт.)
 TILaserWeaponTemplate.description.960cmUVPhaserCannon=Самый большой и мощный лазер, который мы можем разработать, способный наносить огромный урон на невероятном расстоянии. Подходит только для наших крупнейших кораблей.
-
 TILaserWeaponTemplate.displayName.AlienPointDefenseLaserTurret=Лазерная турель Alien Point Defense
 TILaserWeaponTemplate.description.AlienPointDefenseLaserTurret=Маленькое лазерное оружие пришельцев.
 TILaserWeaponTemplate.displayName.Alien64cmOrangeLaserBattery=Инопланетная Оранжевая лазерная батарея 64 см

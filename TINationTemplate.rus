@@ -1101,6 +1101,11 @@ TINationTemplate.displayNameWithArticle.SEG=Сенегамбия
 TINationTemplate.nationAdjective.SEG=сенегамбиец
 TINationTemplate.displayNameWithArticlePrep.SEG=в Сенегамбии
 
+TINationTemplate.unionDisplayName.SEG=Западноафриканское сообщество
+TINationTemplate.unionDisplayNameWithArticle.SEG=Западноафриканское сообщество
+TINationTemplate.unionAdjective.SEG=Западноафриканское
+TINationTemplate.unionDisplayNameWithArticlePrep.SEG=в Западноафриканском сообществе
+
 TINationTemplate.displayName.SLO=Словакия
 TINationTemplate.displayNameWithArticle.SLO=Словакия
 TINationTemplate.nationAdjective.SLO=Словацкий
