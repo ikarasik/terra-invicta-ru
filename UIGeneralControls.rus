@@ -91,6 +91,7 @@ UI.GeneralControls.PromptSelectFleetFormation=-Выберите построен
 UI.GeneralControls.PromptSelectTrajectory=-Выбрать траекторию или отменить
 UI.GeneralControls.PromptDropOrgs=-Необходимо уменьшить количество организаций в неназначенном пуле фракций путем продажи или назначения
 UI.GeneralControls.PromptArmyOrderedToDepart=-Отвечая на требование нации, мы убираем армии с их территории
+UI.GeneralControls.PromptChangeTrajectory=Выбор новой траектории или отмена
 UI.GeneralControls.NextMissionPhase=Следующий этап заданий миссии состоится {0}.
 UI.GeneralControls.SellResourcesHeader=Продавать ресурсы на Землю
 UI.GeneralControls.ConfirmSale=Подтвердить продажу
