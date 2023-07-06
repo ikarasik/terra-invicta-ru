@@ -11,3 +11,4 @@ Russian localization for Terra Invicta game
   2. Все загруженные файлы с расширением .rus переместить в папку \GOG Games\Terra Invicta\TerraInvicta_Data\StreamingAssets\Localization\rus\  (предварительно создать папку rus)
   3. Открыть файл \GOG Games\Terra Invicta\TerraInvicta_Data\StreamingAssets\Templates\TILocalizationTemplate.json в текстовом редакторе найти строчку: "friendlyName": "Russian", и поменять слледующую сточку с "active": false, на "active": true,
     
+Если русского языка нет в списке локализаций после всех действий с перемещением файлов, запустите игру, в меню "Mods" найдите через мастерскую русификацию, установите, перезапустите игру, опять зайдите в "mods" и поставьте чекбокс "Use mods"
