@@ -3,6 +3,7 @@ WarOption.description=Объявите войну сопернику и любы
 WarOption.targetHeader=Объявить войну...
 WarOption.confirmText=Объявить войну {0}?
 WarOption.confirmTextAlliance=<br/><br/>Мы попросим {0} присоединиться к нам в войне, а {1} станет лидером альянса.
+WarOption.cohesionEffect=<br/><br/>Мы потеряем сплоченность {0}, начав эту войну против нового соперника.
 WarOption.joinWarListItem={0}<br/>in {1} // название вражеской нации, название войны
 WarOption.joinWarConfirmText=Присоединиться к {0} в {1}?
 EndWarOption.displayName=Предложение мира
