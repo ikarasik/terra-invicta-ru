@@ -1,6 +1,8 @@
-TIFormationTemplate.Spacing.Spread=Вразброс
+TIFormationTemplate.Spacing.Spread=Держать дистанцию
+TIFormationTemplate.Spacing.Open=Открыто
 TIFormationTemplate.Spacing.Loose=Свободно
-TIFormationTemplate.Spacing.Tight=Рядом
+TIFormationTemplate.Spacing.Close=Закрыто
+TIFormationTemplate.Spacing.Tight=Плотно
 
 TIFormationTemplate.displayName.Staggered=Шахматный порядок
 TIFormationTemplate.displayName.Convoy=Конвой
@@ -27,13 +29,17 @@ TIFormationTemplate.Focus.Armored=Щиты
 TIFormationTemplate.Focus.Battle=Мечи
 TIFormationTemplate.Focus.Swift=Скорость
 
-TIFormationTemplate.Concentration.Dispersed=Рассеянный
+TIFormationTemplate.Concentration.Dispersed=Дисперсный
 TIFormationTemplate.Concentration.Center=Центр
-TIFormationTemplate.Concentration.Right=Справа
-TIFormationTemplate.Concentration.Left=Слева
-TIFormationTemplate.Concentration.Flanks=Фланги
-TIFormationTemplate.Concentration.Back=Назад
-TIFormationTemplate.Concentration.Front=Вперед
+TIFormationTemplate.Concentration.Extremities=Внешние стороны
+TIFormationTemplate.Concentration.Right=Право
+TIFormationTemplate.Concentration.Left=Левый
+TIFormationTemplate.Concentration.Flanks=Крылья
+TIFormationTemplate.Concentration.Back=Задняя часть
+TIFormationTemplate.Concentration.Front=Перед
+TIFormationTemplate.Concentration.High=Высота
+TIFormationTemplate.Concentration.Low=Низкий
+TIFormationTemplate.Concentration.Fins=Плавки
 
 TIFormationTemplate.displayName={0} {1} {2} {3} // Плотность + Формация + Фокус + Концентрация, например. «Лучники рассредоточены вправо». Это должно звучать как футбольная формация и описывает расположение кораблей в космосе.
 TIFormationTemplate.description={0}<br/>{1} {2}
@@ -63,10 +69,14 @@ TIFormationTemplate.Focus.Desc.Armored=Самые бронированные к�
 TIFormationTemplate.Focus.Desc.Battle=Самые мощные корабли
 TIFormationTemplate.Focus.Desc.Swift=Самые быстрые корабли
 
-TIFormationTemplate.Concentration.Desc.Dispersed=рассеяный
+TIFormationTemplate.Concentration.Desc.Dispersed=рассеяно
 TIFormationTemplate.Concentration.Desc.Center=в центре
-TIFormationTemplate.Concentration.Desc.Right=справа
-TIFormationTemplate.Concentration.Desc.Left=слева
-TIFormationTemplate.Concentration.Desc.Flanks=на флангах
-TIFormationTemplate.Concentration.Desc.Back=сзади
+TIFormationTemplate.Concentration.Desc.Extremities=по краям
+TIFormationTemplate.Concentration.Desc.Right=направо
+TIFormationTemplate.Concentration.Desc.Left=налево
+TIFormationTemplate.Concentration.Desc.Flanks=наиболее удаленные от центра по горизонтали
+TIFormationTemplate.Concentration.Desc.Back=к тылу
 TIFormationTemplate.Concentration.Desc.Front=спереди
+TIFormationTemplate.Concentration.Desc.High=к вершине
+TIFormationTemplate.Concentration.Desc.Low=к низу
+TIFormationTemplate.Concentration.Desc.Fins=наиболее удаленные от центра по вертикали

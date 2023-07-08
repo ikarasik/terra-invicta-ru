@@ -325,6 +325,8 @@ TIMissionEffect_StealProject.Special=Меня арестовали и вскор
 TIMissionEffect_StealProject.Steal=Я также получил {0} из их архивов.
 TIMissionEffect_SabotageProject.Special=Меня арестовали, и вскоре я должен быть передан {0}. Пожалуйста, обеспечьте мое освобождение! // название фракции
 TIMissionEffect_Propaganda.Special=Наша публичная поддержка здесь изменилась на {0}. Теперь он равен {1}.
+TIMissionEffect_Assassinate.Special1=Наша попытка убийства привлекла всеобщее внимание, и теперь меня разыскивают власти по всему миру.									// название фракции
+TIMissionEffect_Assassinate.Special2=Я был арестован и вскоре буду передан {0}. Пожалуйста, добейтесь моего освобождения!									// название фракции
 
 TIMissionResult_Responsibility=Мы установили, что {0} стоит за этой операцией.
 
@@ -409,11 +411,12 @@ TIMissionModifier_InsufficientCPMaintenance_Attacker.displayName=Атакующ�
 TIMissionModifier_InsufficientCPMaintenance_Defender.displayName=Цель выше контрольной точки
 TIMissionModifier_EnthrallScience.displayName=Совет {0} из исследования ксенологии
 TIMissionModifier_DecommissioningHab.displayName=Вывод из эксплуатации
-TIMissionModifier_AlienCoordinate.displayName=Поддержка прокси
+TIMissionModifier_AlienCoordination.displayName=Поддержка прокси
 TIMissionModifier_NationSizeEnthrallDifficulty.displayName=Размер нации
 TIMissionModifier_ConditionalEnthrallDefendedPoint.displayName=Защищать интересы
 TIMissionModifier_AttackerMissionControlShortage.displayName=Недостаток управления полетами
 TIMissionModifier_DefenderMissionControlShortage.displayName=Недостаток управления полетами
+TIMissionModifier_HabStability.displayName=Модули, обеспечивающие стабильность
 
 TIMissionCondition_GenericFail=Недопустимая цель для этой миссии
 TIMissionCondition_AvailableControlPoint=У нации нет открытых контрольных точек
