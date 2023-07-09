@@ -1,6 +1,7 @@
 UI.Nations.Header=Нации
 UI.Nations.ShowMap=Показать карту
 UI.Nations.ShowAllNations=Показать все нации
+UI.Nations.Name=Имя
 UI.Nations.DesignPresetButton=Шаблон приоритета дизайна
 UI.Nations.WarsTooltip={0} находится в состоянии войны со следующими нациями:<br/>{1}
 UI.Nations.PeaceTooltip={0} в мире.
@@ -44,3 +45,4 @@ UI.Nations.CPMaint9= (из Crackdowns and Abandonment)
 UI.Nations.CPMaint10= Бонус от администрации советников: {0}
 UI.Nations.CPMaint11= Бонус от команды советников: {0}
 UI.Nations.CPMaint12= Бонус от убеждения советников: {0}
+UI.Nations.CPMaint13= Бонус от хабов: {0}{1}
