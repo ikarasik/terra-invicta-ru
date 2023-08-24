@@ -28,6 +28,8 @@ TIFormationTemplate.Focus.Ranged=Дальние
 TIFormationTemplate.Focus.Armored=Щиты
 TIFormationTemplate.Focus.Battle=Мечи
 TIFormationTemplate.Focus.Swift=Скорость
+TIFormationTemplate.Focus.PointDefense=Щиты
+TIFormationTemplate.Focus.NoseWeapons=Копья
 
 TIFormationTemplate.Concentration.Dispersed=Дисперсный
 TIFormationTemplate.Concentration.Center=Центр
@@ -68,6 +70,8 @@ TIFormationTemplate.Focus.Desc.Ranged=Корабли дальнего боя
 TIFormationTemplate.Focus.Desc.Armored=Самые бронированные корабли
 TIFormationTemplate.Focus.Desc.Battle=Самые мощные корабли
 TIFormationTemplate.Focus.Desc.Swift=Самые быстрые корабли
+TIFormationTemplate.Focus.Desc.PointDefense=Корабли точечной обороны
+TIFormationTemplate.Focus.Desc.NoseWeapons=Корабли с самым мощным носовым вооружением
 
 TIFormationTemplate.Concentration.Desc.Dispersed=рассеяно
 TIFormationTemplate.Concentration.Desc.Center=в центре

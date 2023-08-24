@@ -735,3 +735,4 @@ TIEffectTemplate.description.Effect_EndInfiltratedChain=Кажется, утеч
 TIEffectTemplate.description.Effect_GainTraitMarked=-{1} получает черту {13}.
 TIEffectTemplate.description.Effect_GainTraitAce=-{1} получает черту {13}.
 TIEffectTemplate.description.Effect_RemoveLiedAboutInfluence=Наша ложь больше не висит над нами.
+TIEffectTemplate.description.Effect_IncreaseMonthlyProjectTriggerChance01=-Все разблокированные проекты получают +{3} шанс стать доступными для исследования каждый месяц

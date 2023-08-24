@@ -6,6 +6,7 @@ UI.SpaceCombat.CombatSpeed4=10x
 UI.SpaceCombat.CombatSpeed5=15x
 UI.SpaceCombat.CombatSpeed6=20x
 UI.SpaceCombat.Battery=БАТТ
+
 UI.SpaceCombat.Idle=Вхолостую
 UI.SpaceCombat.Focus=Фокус огня
 UI.SpaceCombat.Offense=Режим атаки
@@ -18,6 +19,9 @@ UI.SpaceCombat.Offense.description=Оружие будет стрелять по
 UI.SpaceCombat.Defense.description=Оружие будет стрелять по ближайшему снаряду, угрожающему нам или союзнику.
 UI.SpaceCombat.Guardian.description=Оружие будет стрелять по ближайшему снаряду, угрожающему нам или союзнику; если такая угроза не обнаружена; оружие будет вести огонь по основной цели корабля; если цель не выбрана, оружие будет стрелять по ближайшему вражескому кораблю.
 UI.SpaceCombat.MissileDefense.description=Оружие выстрелит в ближайшую ракету, угрожающую нам или союзнику.
+UI.SpaceCombat.Salvo=Огневой залп
+UI.SpaceCombat.Salvo.description=Оружие выпустит указанное количество ракет по основной цели корабля; затем оружие будет отключено.
+
 UI.SpaceCombat.CombatAccelgs={0} g
 UI.SpaceCombat.CombatAccelmgs={0} милли-g
 UI.SpaceCombat.velocity_mps={0} м/с
@@ -99,6 +103,7 @@ UI.Precombat.AIExtendedPursuitNormal=<h>Предупреждение о расш
 UI.Precombat.AIExtendedPursuitEnvelop=<h>Предупреждение о расширенном преследовании</h>: Противник имеет достаточно кораблей в своем флоте, чтобы иметь возможность навязать бой, окружив наш флот по своему усмотрению, даже если мы сделаем максимальную ставку DV. В этом случае мы столкнемся с меньшей частью всего их флота.
 UI.Precombat.ExtendedPursuitNormal=<h>Extend Pursuit</h>: Некоторые наши корабли способны догнать вражеский флот и навязать бой, даже если вражеский флот подаст максимальную заявку. Щелкните по флажку, чтобы увидеть, какие из наших кораблей примут участие, и подтвердите эту опцию, нажав {0}. 
 UI.Precombat.ExtendedPursuitEnvelop=<h>Продлить преследование</h>: Мы можем разбить наш флот на небольшие отряды и окружить флот противника, заставив его сражаться с одним из этих отрядов независимо от его ставки. Щелкните по флажку, чтобы увидеть, какие из наших кораблей примут участие, и подтвердите эту опцию, нажав {0}.
+
 UI.SpaceCombat.BattleName=Битва в {0}
 UI.SpaceCombat.BattleNameDeepSpace=Битва в глубоком космосе
 UI.SpaceCombat.Status.Undamaged=Неповрежденный
@@ -113,6 +118,8 @@ UI.SpaceCombat.Warning.ShipNoThrust=Этот корабль больше не м
 UI.SpaceCombat.Warning.ShipNoWeapons=Этот корабль получил критические повреждения систем вооружения и не может стрелять из любого оружия.
 UI.SpaceCombat.Warning.ShipTarget=Этот корабль нацелен на {0}.
 UI.SpaceCombat.Outcome.DockedAtHab=<br/>{0} состыковался с {1} и теперь может захватить или уничтожить станцию.
+UI.SpaceCombat.CombatInProgress=Ведется бой...
+UI.SpaceCombat.MajorCombatInProgress=Выполняется основной бой...
 UI.SpaceCombat.Outcome.Victor=Победа {0}!
 UI.SpaceCombat.Outcome.MAD=В этой битве не было победителя.
 UI.SpaceCombat.Outcome.Indecisive=Обе стороны вышли из боя.
@@ -122,3 +129,13 @@ UI.SpaceCombat.Outcome.MissionKilledMultiple=Некоторые из наших 
 UI.SpaceCombat.Reinforcements=Корабли усиления:
 UI.SpaceCombat.CommandTarget.Fleet=Командование: Флот
 UI.SpaceCombat.CommandTarget.Group=Командование: Группа
+UI.SpaceCombat.CommandTarget.Single=Команды корабля
+
+UI.SpaceCombat.FormationTitle=Выбор формации флота
+UI.SpaceCombat.InitialVelocity=Начальная скорость
+UI.SpaceCombat.FleetHabPlacement=Положение флота перед хабом
+
+UI.SpaceCombat.Critical=Крит!
+UI.SpaceCombat.RawDamage=Сырой урон
+UI.SpaceCombat.AbsorbedDamage=Урон, поглощаемый броней
+UI.SpaceCombat.PenetratedDamage=повреждения, проникшие в системы корабля
