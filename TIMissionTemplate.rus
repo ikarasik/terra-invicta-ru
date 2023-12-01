@@ -68,6 +68,7 @@ TIMissionTemplate.description.ControlSpaceAsset=Убедите экипаж ко
 TIMissionTemplate.CriticalSuccess.ControlSpaceAsset=Мы возглавили мятеж на {targetDisplayName}, и команда присоединилась к {myFactionName}. Они передали нам обширные данные наблюдения, и этот объект будет особенно устойчивым к вражеским миссиям до {returnedValue}.
 TIMissionTemplate.Success.ControlSpaceAsset=Мы спровоцировали мятеж на {targetDisplayName}, и команда присоединилась к {myFactionName}.
 TIMissionTemplate.Failure.ControlSpaceAsset=Мне не удалось спровоцировать восстание на {targetDisplayName}. Силы здесь на страже будущих попыток мятежа, и вскоре я должен быть арестован {targetFactionName}!
+TIMissionTemplate.FailurePlus.ControlSpaceAsset=Я скоро буду арестован {0}!
 TIMissionTemplate.CriticalFailure.ControlSpaceAsset=Мне не удалось спровоцировать восстание на {targetDisplayName}. Силы здесь на страже будущих попыток мятежа, и вскоре я должен быть арестован {targetFactionName}!
 
 TIMissionTemplate.displayName.Coup=Государственный переворот
