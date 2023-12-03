@@ -30,3 +30,4 @@ UI.Army.BD_HitChance={0} шанс поражения
 UI.Army.BD_LocalForces={0} общее значение защиты региональных сил обороны
 UI.Army.BD_LFLosses=<sp>-{0} от потерь
 UI.Army.OccupationIncreaseChance={0} шанс увеличить оккупацию
+UI.Army.RightClickBehavior=Shift-<sprite=86> для развертывания армии<br/>Control-shift-<sprite=86> для развертывания всех армий в стеке<br/>Добавьте клавишу Alt для создания многорегиональных путей

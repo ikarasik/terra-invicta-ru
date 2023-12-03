@@ -8,6 +8,7 @@ UI.Operations.FlightTime=Длительность полета: {0}
 UI.Operations.Duration_hours={0} часов
 UI.Operations.Duration_days={0} дней
 UI.Operations.Duration_weeks={0} недель
+UI.Operations.Duration_years={0} лет
 UI.Operations.LaunchDate=Запуск: {0}
 UI.Operations.ArrivalDate=Прибытие: {0}
 UI.Operations.Loiter=Ожидание: {0}

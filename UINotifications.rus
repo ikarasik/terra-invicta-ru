@@ -721,3 +721,7 @@ Bombard.Log.ProjectileShotDown=<sp>Базовый урон: {0}. Снаряд б
 Bombard.Log.CounterfireKill={0}: {1} стреляет {2}: {3} уничтожен {4} повреждением. {5} пробило броню корабля.
 Bombard.Log.CounterfireHit={0}: {1} стреляет {2}: {3} поражен {4} уроном. {5} пробило броню корабля.
 Bombard.Log.CounterfireAbsorbed={0}: {1} стреляет {2}: {3} попадание; {4} поглощен урон.
+
+UI.NarrativeEvent.AllHumanNations=во всех человеческих нациях
+UI.NarrativeEvent.AllNations=во всех нациях
+UI.NarrativeEvent.AllRegions=во всех регионах 

@@ -132,3 +132,4 @@ UI.GeneralControls.MCNetSpendUnderConstruction=Мы строим модули ж
 UI.GeneralControls.MCNetGainTurnedOff=У нас есть модули жилого дома без питания, которые дали бы чистую прибыль {0}{1}, если бы все были активированы.
 UI.GeneralControls.MCNetSpendTurnedOff=У нас есть неактивные модули жилого комплекса, стоимость которых составила бы {0}{1}, если бы все они были активированы.
 UI.GeneralControls.MCFromUnderConstructionShips=Наши верфи строят корабли общей стоимостью {0}{1} после завершения строительства.
+UI.GeneralControls.QuicksaveComplete=Игра сохранена
