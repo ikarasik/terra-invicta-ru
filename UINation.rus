@@ -379,6 +379,7 @@ UI.Nation.CanEndRivalry5=-Не должно быть отклонением от
 UI.Nation.CanEndRivalry6=-Не должен быть союзником отколовшейся нации от {0}
 UI.Nation.CanEndRivalry7=-Должно быть, прошло достаточно времени с начала соперничества
 UI.Nation.CanEndRivalry8=-Невозможно положить конец соперничеству до {0}
+UI.Nation.CanEndRivalry9=-{0} не должен быть союзником {1} отколовшихся
 UI.Nation.CanUnifyFeedback1=Требования к объединению с {0}
 UI.Nation.CanUnifyFeedback2=-Не может быть в состоянии войны с {0}
 UI.Nation.CanUnifyFeedback3=-{0} должен владеть всеми контрольными точками в {1}
