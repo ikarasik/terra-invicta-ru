@@ -3355,6 +3355,7 @@ TINarrativeEventTemplate.event_infiltrated_Money_3.query=После дальне
 TINarrativeEventTemplate.event_infiltrated_Money_3.option0=Наш подход окупился.
 TINarrativeEventTemplate.event_infiltrated_Money_3.optionDetail0=<skip/>
 TINarrativeEventTemplate.event_infiltrated_Money_3.option0.Summary={targetFactionName} обнаружил утечку.
+TINarrativeEventTemplate.event_infiltrated_Money_3.optionResult0={targetFactionName} обнаружил их утечку.
 
 TINarrativeEventTemplate.displayName.event_infiltrated_Influence_1=Проникновение: Обращение
 TINarrativeEventTemplate.event_infiltrated_Influence_1.summary=Поскольку в наших рядах предатель, мы должны искать помощи извне.

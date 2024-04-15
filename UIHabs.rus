@@ -145,6 +145,7 @@ UI.Habs.DecommissionHabButton=<color=#FFFFFFFF><sprite name=warning></color>Вы
 UI.Habs.AntishipWeapon=Противокорабельное оружие: {0}
 UI.Habs.PDWeapon=Оружие точечной защиты: {0}
 UI.Habs.CancelManagementQueryButtonText=Отмена
+UI.Habs.ReplaceAllModules=Заменить все существующие модули жилых блоков.
 UI.Habs.Decommissioning=<h>Вывод из эксплуатации</h><br/>Этот модуль находится в процессе вывода из эксплуатации. Он не потребляет энергии и не может быть повторно активирован. Он может быть застроен, если весь хаб не будет выведен из эксплуатации. Вывод из эксплуатации будет завершен {0}.
 UI.Habs.DecommissionModuleQuery=Мы можем вывести этот модуль из эксплуатации. Мы должны потратить {0} на эвакуацию экипажа. Выполнение операции займет {1} дней.
 UI.Habs.Confirm=Подтвердить
@@ -189,4 +190,5 @@ UI.Habs.ViewHabTemplates=Просмотреть шаблоны Hab
 UI.Habs.FactionHabTemplatesHeader=Шаблоны жилых помещений
 UI.Habs.RebuildAllQuery=Подтверждение приведет к восстановлению всех разрушенных модулей в этом жилом доме: {0}.
 UI.Habs.CantAffordRebuild=Сейчас мы не можем себе этого позволить.
+UI.Habs.MineProductivity=Производительность шахты:
 UI.Habs.All=Все

@@ -111,6 +111,7 @@ RepairFleetOperation.displayName=Ремонт
 RepairFleetOperation.description=Исправляйте повреждения и восстанавливайте изношенные модули кораблей во флоте.
 ResupplyAndRepairOperation.displayName=Ремонт и пополнение запасов
 ResupplyAndRepairOperation.description=Заправка, перевооружение и ремонт всех кораблей этого флота.
+TIOperationTemplate.FullCost=<sp>Полная стоимость: {0}
 InterfleetRefuelOperation.displayName=Поделиться пропеллентом
 InterfleetRefuelOperation.description=Передача пропеллента между кораблями этого флота для увеличения Delta-V некоторых кораблей. Корабли должны иметь приводы, использующие одинаковое сочетание ресурсов пропеллента, чтобы иметь возможность обмена.
 AlienCrashdownOperation.displayName=Быстрая посадка

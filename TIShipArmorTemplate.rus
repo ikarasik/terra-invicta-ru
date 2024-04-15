@@ -8,6 +8,8 @@ TIShipArmorTemplate.displayName.BoronCarbideArmor=Броня из карбида
 TIShipArmorTemplate.description.BoronCarbideArmor=Прочная броня "черный алмаз", созданная путем восстановления триоксида бора в атмосфере углерода.
 TIShipArmorTemplate.displayName.CompositeArmor=Композитная броня
 TIShipArmorTemplate.description.CompositeArmor=Чередование слоев керамики и металлов обеспечивает широкую и легкую защиту.
+TIShipArmorTemplate.displayName.FoamedMetalArmor=Броня из вспененного металла
+TIShipArmorTemplate.description.FoamedMetalArmor=Вспененный титан и другие сплавы низкой плотности, покрытые керамическими пластинами, обеспечивают легкую защиту наших космических кораблей.
 TIShipArmorTemplate.displayName.NanotubeArmor=Броня из нанотрубок
 TIShipArmorTemplate.description.NanotubeArmor=Броня нового поколения, созданная путем слияния миллионов углеродных нанотрубок.
 TIShipArmorTemplate.displayName.AdamantaneArmor=Адамантовая броня
@@ -20,9 +22,28 @@ TIShipArmorTemplate.displayName.AlienAdamantaneArmor=Алмазоидная бр
 TIShipArmorTemplate.description.AlienAdamantaneArmor=Инопланетный материал, который, похоже, основан на манипуляциях с углеродом.
 TIShipArmorTemplate.displayName.AlienExoticArmor=Экзотическая броня пришельцев
 TIShipArmorTemplate.description.AlienExoticArmor=Инопланетный материал с экзотическими свойствами.
-TIShipArmorTemplate.FrontBackTonsPerPoint={0} тонн на единицу носовой или хвостовой брони
-TIShipArmorTemplate.LateralTonsPerPoint={0} тонн на единицу боковой брони
-TIShipArmorTemplate.ResourcesPerTon=Строительных ресурсов на тонну: {0}
-TIShipArmorTemplate.KineticsResistance=Сопротивление кинетическому урону
-TIShipArmorTemplate.LaserResistance=Сопротивление лазерному урону
-TIShipArmorTemplate.ChippingResistance=Дополнительная устойчивость к сколам
+
+TIShipArmorTemplate.ResourcesPerTon=Cost Per Ton:<rcol>{0}</rcol>
+TIShipArmorTemplate.KineticsResistance={0} бонус к сопротивлению кинетическому урону
+TIShipArmorTemplate.LaserResistance={0} бонус к сопротивлению лазерному урону
+TIShipArmorTemplate.ChippingResistance={0} бонус к сопротивлению сколам
+TIShipArmorTemplate.KineticsVulnerability=Снимает {0} дополнительного урона от кинетического оружия
+TIShipArmorTemplate.LaserVulnerability=Снимает {0} дополнительного урона от лазеров
+TIShipArmorTemplate.ChippingVulnerability=Заглушает {0} дополнительное разрушение брони от попаданий
+TIShipArmorTemplate.XRayResistance={0} бонус сопротивления рентгеновскому излучению оружия частиц по отношению к стали
+TIShipArmorTemplate.XRayVulnerability=Получает {0} дополнительного урона от рентгеновского излучения оружия частиц
+TIShipArmorTemplate.BaryonicResistance={0} бонусное сопротивление нейтронам оружия частиц
+TIShipArmorTemplate.BaryonicVulnerability=Снимает {0} дополнительного урона от нейтронов оружия частиц
+
+TIShipArmorTemplate.ThicknessPerPoint=Толщина на точку:<rcol>{0} см</rcol>
+
+TIShipArmorTemplate.NoseTailTonsPerPoint=Масса одной точки носовой или хвостовой брони:<rcol>{0} тонн</rcol>
+TIShipArmorTemplate.LateralTonsPerPoint=Масса одной точки боковой брони:<rcol>{0} тонн</rcol>
+
+TIShipArmorTemplate.MaxArmorThickness_Lateral=Максимальная толщина боковой брони:<rcol>{0} см</rcol>
+TIShipArmorTemplate.MaxArmorThickness_Nose=Максимальная толщина брони носа:<rcol>{0} см</rcol>.
+TIShipArmorTemplate.MaxArmorThickness_Tail=Максимальная толщина хвостовой брони:<rcol>{0} см</rcol>.
+
+TIShipArmorTemplate.MaxArmorPoints_Lateral=Максимальная боковая броня:<rcol>{0}</rcol>
+TIShipArmorTemplate.MaxArmorPoints_Nose=Максимальная броня носа:<rcol>{0}</rcol>
+TIShipArmorTemplate.MaxArmorPoints_Tail=Максимальная броня хвоста:<rcol>{0}</rcol>

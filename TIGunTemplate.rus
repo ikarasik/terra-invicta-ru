@@ -1,5 +1,7 @@
 TIGunTemplate.displayName.30mmAutocannon=30-мм автопушка
 TIGunTemplate.description.30mmAutocannon=Скорострельная автопушка, которая в первую очередь полезна в обороне, но может повредить небронированные цели в упор.
+TIGunTemplate.displayName.40mmAutocannon=40-мм автопушка
+TIGunTemplate.description.40mmAutocannon=Продвинутая автопушка, оптимизированная для космической войны и способная действовать как в нападении, так и в защите.
 TIGunTemplate.displayName.6-inchCannon=6-дюймовая пушка
 TIGunTemplate.description.6-inchCannon=Небольшая корабельная пушка ближнего действия, адаптированная для использования на нашем космическом корабле.
 TIGunTemplate.displayName.8-inchCannon=8-дюймовая пушка
