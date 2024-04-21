@@ -2917,7 +2917,7 @@ TINarrativeEventTemplate.event_TraitAlienAugmentedVsNonAlienAugmented.optionResu
 
 TINarrativeEventTemplate.displayName.event_DestroyFirstKill=Отпор
 TINarrativeEventTemplate.event_DestroyFirstKill.summary={targetCouncilorFullName} убил одного из инопланетных захватчиков, произведя большое впечатление на {secondaryTargetCouncilorFullName}.
-TINarrativeEventTemplate.event_DestroyFirstKill.query="Каково это, {targetCouncilorPersonalName}?" спрашивает {secondaryTargetCouncilorPersonalName}. «Я имею в виду убийство одного из этих инопланетных ублюдков».<br/><br/>«Это было чертовски приятно, — отвечает {targetCouncilorPersonalName}, — эти космические жуки думают, что они такие высокие и могучие со своими причудливыми космическими кораблями, но как только они падают с нами на землю, они становятся просто мясом, и несколько пуль покончат с ними."<br/><br/>"Надеюсь, скоро наступит моя очередь."<br/>< br/>"Я уверен, что вы это сделаете, нужно убить еще много инопланетян."
+TINarrativeEventTemplate.event_DestroyFirstKill.query="Каково это, {targetCouncilorPersonalName}?" спрашивает {secondaryTargetCouncilorPersonalName}. «Я имею в виду убийство одного из этих инопланетных ублюдков».<br/><br/>«Это было чертовски приятно, — отвечает {targetCouncilorPersonalName}, — эти космические жуки думают, что они такие высокие и могучие со своими причудливыми космическими кораблями, но как только они падают с нами на землю, они становятся просто мясом, и несколько пуль покончат с ними."<br/><br/>"Надеюсь, скоро наступит моя очередь."<br/><br/>"Я уверен, что вы это сделаете, нужно убить еще много инопланетян."
 TINarrativeEventTemplate.event_DestroyFirstKill.option0=Хорошая работа, {targetCouncilorPersonalName}. Вы показали миру, что этих тварей можно убить!
 TINarrativeEventTemplate.event_DestroyFirstKill.optionDetail0=<skip/>
 TINarrativeEventTemplate.event_DestroyFirstKill.optionResult0={targetFactionName} транслирует всему миру кадры убийства пришельцами.
@@ -2927,7 +2927,7 @@ TINarrativeEventTemplate.event_DestroyFirstKill.optionResult1={targetFactionName
 
 TINarrativeEventTemplate.displayName.event_DestroyFirstAce=Первоклассный убийца
 TINarrativeEventTemplate.event_DestroyFirstAce.summary={targetCouncilorFullName} становится нашим первым советником, убившим пятерых инопланетян, что привело к неофициальной церемонии.
-TINarrativeEventTemplate.event_DestroyFirstAce.query=Сформировано импровизированное собрание советников, чтобы отпраздновать подвиги {targetCouncilorPersonalName}. Другой выражает чувства группы: "Мы просто хотели сказать, что молодцы, {targetCouncilorPersonalName}. Вы делаете то, что нужно сделать. Чем скорее Земля избавится от этих паразитов, тем лучше!"<br/><br />Комната взрывается аплодисментами, и {targetCouncilorPersonalName} получает много хлопков по спине и крепких рукопожатий. Когда шум стихает, {targetCouncilorPersonalName} объявляет, что {targetCouncilorSubjectivePronoun} хочет…
+TINarrativeEventTemplate.event_DestroyFirstAce.query=Сформировано импровизированное собрание советников, чтобы отпраздновать подвиги {targetCouncilorPersonalName}. Другой выражает чувства группы: "Мы просто хотели сказать, что молодцы, {targetCouncilorPersonalName}. Вы делаете то, что нужно сделать. Чем скорее Земля избавится от этих паразитов, тем лучше!"<br/><br/>Комната взрывается аплодисментами, и {targetCouncilorPersonalName} получает много хлопков по спине и крепких рукопожатий. Когда шум стихает, {targetCouncilorPersonalName} объявляет, что {targetCouncilorSubjectivePronoun} хочет…
 TINarrativeEventTemplate.event_DestroyFirstAce.option0=…тренируйся усерднее, чем когда-либо.
 TINarrativeEventTemplate.event_DestroyFirstAce.optionDetail0="А теперь выпьем!"
 TINarrativeEventTemplate.event_DestroyFirstAce.optionResult0={actorNameWithArticleCap} сосредоточится на собственном обучении.
@@ -3419,7 +3419,7 @@ TINarrativeEventTemplate.event_PoliticalDivision.optionResult3={targetFactionNam
 
 TINarrativeEventTemplate.displayName.event_PoliticalDictate=Правило по указу
 TINarrativeEventTemplate.event_PoliticalDictate.summary=Несмотря на некоторые ограничения, диктатор может быстро изменить политику.
-TINarrativeEventTemplate.event_PoliticalDictate.query=Теперь, когда различные фракции внутри {targetNationNameWithArticle} подавлены, а люди разогреты патриотическим рвением, могущественный лидер может задать новый курс своей воодушевляющей речью и безжалостным отделом тайной полиции.<br/>< br/>"Мой народ! Под моим мудрым руководством {targetNationNameWithArticle} стал сильным! Пришло время взять эту силу и направить ее на нашу великую судьбу! Вместе мы...
+TINarrativeEventTemplate.event_PoliticalDictate.query=Теперь, когда различные фракции внутри {targetNationNameWithArticle} подавлены, а люди разогреты патриотическим рвением, могущественный лидер может задать новый курс своей воодушевляющей речью и безжалостным отделом тайной полиции.<br/><br/>"Мой народ! Под моим мудрым руководством {targetNationNameWithArticle} стал сильным! Пришло время взять эту силу и направить ее на нашу великую судьбу! Вместе мы...
 TINarrativeEventTemplate.event_PoliticalDictate.option0="завоевать само пространство!"
 TINarrativeEventTemplate.event_PoliticalDictate.optionDetail0=<skip/>
 TINarrativeEventTemplate.event_PoliticalDictate.optionResult0={targetNationNameWithArticle} стремится милитаризировать пространство.
