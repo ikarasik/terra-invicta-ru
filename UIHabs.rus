@@ -128,6 +128,7 @@ UI.Habs.SimpleList={0}, {1}, {2}
 UI.Habs.RightClickToPlace=Если вы можете построить этот модуль, вы можете щелкнуть правой кнопкой мыши, чтобы разместить его в доступном месте, или перетащить его в определенное место.
 UI.Habs.DefendedTip={0} защищал свои интересы в этом центре до {1}.
 UI.Habs.AllFactions=Все фракции
+UI.Habs.AllHumanFactions=Человеческие фракции
 UI.Habs.AllLocations=Все местоположения
 UI.Habs.InnerSystemAsteroids=Астероиды внутренней системы
 UI.Habs.InnerBelt=Внутренний пояс астероидов

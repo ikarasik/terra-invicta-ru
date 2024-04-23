@@ -33,6 +33,8 @@ UI.Global.Antimatter=Антиматерия
 UI.Global.Exotics=Экзотика
 UI.Global.Common=Общий
 UI.Global.Div=___
+UI.Global.AltDiv=─────────
+UI.Global.AltDivCentered=<align="center">─────────</align>
 UI.Global.SerialDividerWithSpace=,<sp>
 UI.Global.ListConjunction= и<sp>
 UI.Global.ListSerialConjunction= и<sp>
@@ -43,6 +45,7 @@ UI.Global.DollarValue=${0} // некоторые значения в игре р
 UI.Global.PositiveDollarValueWithSign=+${0}
 UI.Global.NegativeDollarValueWithSign=-${0}
 UI.Global.2IC={0}, {1}
+UI.Global.2ItemsSpaced={0} {1}
 UI.Global.Thousands={0}К
 UI.Global.Millions={0}М
 UI.Global.Billions={0}Б

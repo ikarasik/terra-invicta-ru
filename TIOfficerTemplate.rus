@@ -117,9 +117,7 @@ TIOfficerTemplate.OfficerDeathChance=-Снижает шанс смерти оф�
 TIOfficerTemplate.AssaultCombatValue=-Увеличивает боевую стоимость корабля на {0}
 TIOfficerTemplate.ShipDefectionChance=-Корабль никогда не перейдет на сторону другой фракции
 TIOfficerTemplate.DriveCombatThrustMultiplier=-Добавляет {0} к боевому множителю толчка корабля
-TIOfficerTemplate.MaxSurvivableCombatAcceleration=-Увеличивает максимально
-
- допустимое боевое ускорение корабля на {0} g(s)
+TIOfficerTemplate.MaxSurvivableCombatAcceleration=-Увеличивает максимально допустимое боевое ускорение корабля на {0} g(s)
 TIOfficerTemplate.MaxSurvivableCruiseAcceleration=-Увеличивает максимально допустимое крейсерское ускорение корабля на {0} g(s)
 TIOfficerTemplate.RadiationDamageReduction=-Снижает радиационный урон от частицевых орудий на {2}
 
