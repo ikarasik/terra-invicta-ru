@@ -134,7 +134,7 @@ UI.StartScreen.CustomizeCampaign.ShowTriggeredProjects=Показать запу
 UI.StartScreen.CustomizeCampaign.ShowTriggeredProjectsTooltip=Отображение статуса проектов, которые были запущены, но еще не разблокированы или пропущены вашей фракцией в кампании.
 UI.StartScreen.CustomizeCampaign.HomeNationCouncilor=Соратник-гражданин
 UI.StartScreen.CustomizeCampaign.CustomDifficultyTooltip=Изменение настроек кампании, влияющих на сложность, предотвратит получение достижений, связанных со сложностью, в этой кампании.
-UI.StartScreen.CustomizeCampaign.SkipCouncilor=Нет советника, +{0} {1} //пропустить, +(число) Значок влияния(ресурс)
+UI.StartScreen.CustomizeCampaign.CustomDifficultyOptionsText=<h>Текущие настройки отключат достижения, связанные с повышенной сложностью</h>.UI.StartScreen.CustomizeCampaign.SkipCouncilor=Нет советника, +{0} {1} //пропустить, +(число) Значок влияния(ресурс)
 UI.StartScreen.CustomizeCampaign.HomeNationCouncilorTip=Если выбрано, родная нация вашего первого советника будет выбрана из региональных настроек вашего компьютера. В противном случае он будет случайным.
 UI.StartScreen.CustomizeCampaign.NationalIPModifier=Национальная ставка инвестиций
 UI.StartScreen.CustomizeCampaign.AverageMonthlyEvents=Среднее количество событий в месяц

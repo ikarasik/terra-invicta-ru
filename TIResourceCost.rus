@@ -1,5 +1,8 @@
-TIResourceCost.Cost=Цена: {0}
-TIResourceCost.CostWithCompletionTime=Цена: {0} ({1} день)
-TIResourceCost.WithCompletionTime={0} ({1} день)
+TIResourceCost.Cost=Стоимость: {0}
+TIResourceCost.NoCost=Нет затрат
+TIResourceCost.CostWithCompletionTime=Стоимость: {0} ({1} дней)
+TIResourceCost.CostWithCompletionTime_Hours=Стоимость: {0} ({1} часов)
+TIResourceCost.WithCompletionTime={0} ({1} дней)
+TIResourceCost.WithCompletionTime_Hours={0} ({1} часов)
 TIResourceCost.OnEarth=На Земле: {0}
 TIResourceCost.InSpace=В космосе: {0}
