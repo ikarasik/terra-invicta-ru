@@ -139,7 +139,9 @@ UI.SpaceCombat.Warning.WeaponStatus.Good=Оружие и огневое упра
 UI.SpaceCombat.Warning.ShipSystemStatus.Critical=Критические системы корабля вышли из строя.
 UI.SpaceCombat.Warning.ShipSystemStatus.Damaged=Системы корабля повреждены.
 UI.SpaceCombat.Warning.ShipSystemStatus.Good=Системы корабля функционируют.
-UI.SpaceCombat.Warning.DamConStatus.Damaged=Система управления повреждений работает с сниженной эффективностью. Прогресс по ремонту корабля замедлен.
+UI.SpaceCombat.Warning.DamConStatus.Disabled=Корабль выполняет поворот с высокими перегрузками. Контроль повреждений временно приостановлен.
+UI.SpaceCombat.Warning.DamConStatus.DamagedAndDisabled=Корабль выполняет поворот с высокими перегрузками. Контроль повреждений временно приостановлен. <br/><br/>Контроль повреждений работает с пониженной эффективностью. Прогресс ремонта корабля замедлен.
+UI.SpaceCombat.Warning.DamConStatus.Damaged=Контроль повреждений работает с пониженной эффективностью. Прогресс ремонта корабля замедлен.
 UI.SpaceCombat.Warning.DamConStatus.Critical=Система управления повреждениями полностью отключена. Корабль не может быть отремонтирован.
 
 UI.SpaceCombat.Offline=Отключено

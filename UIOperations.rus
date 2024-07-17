@@ -5,6 +5,7 @@ UI.Operations.Acceleration=Ускорение: {0} g
 UI.Operations.DV={0}/{1} км/с Delta-V
 UI.Operations.SplitFleetLineItem={0}{1}<rcol>{2}/{3} км/с Delta-V</rcol>
 UI.Operations.FlightTime=Длительность полета: {0}
+UI.Operations.Duration_minutes={0} минут
 UI.Operations.Duration_hours={0} часов
 UI.Operations.Duration_days={0} дней
 UI.Operations.Duration_weeks={0} недель

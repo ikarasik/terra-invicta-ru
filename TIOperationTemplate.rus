@@ -1,11 +1,15 @@
-DeployArmyOperation.displayName=Развернуть армию
-DeployArmyOperation.description=Переместите эту армию в соседний регион, включая войска союзников или противников военного времени. Армии вступят в бой с вражескими армиями и займут вражеские регионы. Военно-морские армии могут перемещаться между прибрежными регионами по всему миру, если ни одна из воюющих держав не имеет превосходства на море.
+DeployArmyOperation_OpenTarget.displayName=Развернуть армию
+DeployArmyOperation_OpenTarget.description=Переместите эту армию в соседний регион, включая войска союзников или противников военного времени. Армии вступят в бой с вражескими армиями и займут вражеские регионы. Военно-морские армии могут перемещаться между прибрежными регионами по всему миру, если ни одна из воюющих держав не имеет превосходства на море.
 DeployArmiesOperation.displayName=Развернуть армии
 DeployArmiesOperation.description=Переместите эту и все подходящие армии вашей фракции отсюда в соседний регион.
 ArmyGoHomeOperation.displayName=Воздушная перевозка домой
 ArmyGoHomeOperation.description=Верните эту армию в родной регион в мирное время. Операция не будет завершена, если родная страна находится в состоянии войны.
 AllArmiesGoHomeOperation.displayName=Возвращение всех домой
 AllArmiesGoHomeOperation.description=Возвращение всех подходящих армий вашей фракции в этом регионе в их родной регион в мирное время. Операция не будет завершена, если родная страна находится в состоянии войны.
+DeployArmyOperation_TargetHome.displayName=Армия, домой
+DeployArmyOperation_TargetHome.description=Развернуть армию в ее родной регион.
+AllArmiesPathHomeOperation.displayName=Отправить все армии домой
+AllArmiesPathHomeOperation.description=Развернуть все подходящие армии фракции в этом регионе в их родные регионы.
 AssaultAlienAssetOperation.displayName=Нападение на инопланетный объект
 AssaultAlienAssetOperation.description=Начать атаку на фиксированную инопланетную цель.
 AssaultAlienAssetOperation.facility.success.hed={0} Уничтожает инопланетную установку

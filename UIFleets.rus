@@ -317,4 +317,4 @@ UI.Fleets.NumShipsSingle={0} корабль
 UI.Fleets.NumShipsPlural={0} кораблей
 UI.Fleets.RefitIterationSuffix=Блок
 UI.Fleets.NIS={0}+{1}
-UI.Fleets.Explosive=<color=#FFFFFF><sprite name=warning></color>Этот модуль может взорваться, если получит урон.
+UI.Fleets.Explosive=<color=#FFFFFFFF><sprite name=warning></color>Этот модуль может взорваться, если получит урон.
