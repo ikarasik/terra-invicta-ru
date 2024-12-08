@@ -254,3 +254,5 @@ TIFactionTemplate.Diplomacy.Alien.Appease.Tolerance=Вас терпят (<color=
 TIFactionTemplate.Diplomacy.Alien.Cooperate.War=Нежелательное препятствие (<color=#9964FF>Устранить угрозу</color>).
 TIFactionTemplate.Diplomacy.Alien.Cooperate.Conflict=Прекращение. Прекратить. Прекратить. (<color=#9964FF>Угроза. Угроза. Угроза.</color>)
 TIFactionTemplate.Diplomacy.Alien.Cooperate.Tolerance=Связь=приемлемо (<color=#9964FF>Человек=убедительный?</color>).
+
+
