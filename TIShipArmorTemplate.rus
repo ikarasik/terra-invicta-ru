@@ -47,3 +47,4 @@ TIShipArmorTemplate.MaxArmorThickness_Tail=Максимальная толщин
 TIShipArmorTemplate.MaxArmorPoints_Lateral=Максимальная боковая броня:<rcol>{0}</rcol>
 TIShipArmorTemplate.MaxArmorPoints_Nose=Максимальная броня носа:<rcol>{0}</rcol>
 TIShipArmorTemplate.MaxArmorPoints_Tail=Максимальная броня хвоста:<rcol>{0}</rcol>
+
