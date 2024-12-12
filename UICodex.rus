@@ -22,9 +22,9 @@ UI.Codex.codex_resources10=мк: микро- (.000 001)
 UI.Codex.codex_resources11=н: нано- (.000 000 001)
 UI.Codex.codex_resources12=п: пико- (.000 000 000 001) // 1e-12
 UI.Codex.codex_resources13=ф: фемто- (.000 000 000 000 001)
-UI.Codex.codex_resources14=а: atto- (.000 000 000 000 000 001)
-UI.Codex.codex_resources15=з: zepto- (.000 000 000 000 000 000 001)
-UI.Codex.codex_resources16=и: yocto- (.000 000 000 000 000 000 000 001)
+UI.Codex.codex_resources14=а: атто- (.000 000 000 000 000 001)
+UI.Codex.codex_resources15=з: зепто- (.000 000 000 000 000 000 001)
+UI.Codex.codex_resources16=и: иокто- (.000 000 000 000 000 000 000 001)
 UI.Codex.codex_money.Title=<color=#FFFFFFFF><sprite name="currency"></color> Деньги
 UI.Codex.codex_money0=<LOC,UI.GeneralControls.MoneyDetail>
 UI.Codex.codex_money1=<LOC,UI.GeneralControls.MoneySource>
