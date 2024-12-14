@@ -34,7 +34,7 @@ UI.Codex.codex_influence1=<LOC,UI.GeneralControls.InfluenceSource>
 UI.Codex.codex_ops.Title=<color=#FFFFFFFF><sprite name="ops"></color> Операции
 UI.Codex.codex_ops0=<LOC,UI.GeneralControls.OpsDetail>
 UI.Codex.codex_ops1=<LOC,UI.GeneralControls.OpsSource>
-UI.Codex.codex_boost.Title=<color=#FFFFFFFF><sprite name="boost"></color> Повышение
+UI.Codex.codex_boost.Title=<color=#FFFFFFFF><sprite name="boost"></color> Ускорители
 UI.Codex.codex_boost0=<LOC,UI.GeneralControls.BoostDetail>
 UI.Codex.codex_boost1=<LOC,UI.GeneralControls.BoostSource>
 UI.Codex.codex_missionControl.Title=<color=#FFFFFFFF><sprite name="mission_control"></color> Управление полетами
@@ -161,7 +161,7 @@ UI.Codex.codex_priority_spaceDevelopment.Title=<color=#FFFFFFFF><sprite name=fun
 UI.Codex.codex_priority_spaceDevelopment0=<LOC,UI.Nation.SpaceDevelopmentPriorityGeneric>
 UI.Codex.codex_priority_spaceflight.Title=<color=#FFFFFFFF><sprite name=spaceflight_program></color>Программа космических полетов
 UI.Codex.codex_priority_spaceflight0=<LOC,UI.Nation.SpaceflightProgramPriorityGeneric>
-UI.Codex.codex_priority_launchFacilities.Title=<color=#FFFFFFFF><sprite name=boost_org></color>Boost
+UI.Codex.codex_priority_launchFacilities.Title=<color=#FFFFFFFF><sprite name=boost_org></color>Ускорители
 UI.Codex.codex_priority_launchFacilities0=<LOC,UI.Nation.LaunchFacilitiesPriorityGeneric>
 UI.Codex.codex_priority_missionControl.Title=<color=#FFFFFFFF><sprite name=mission_control_org></color>Mission Control
 UI.Codex.codex_priority_missionControl0=<LOC,UI.Nation.MissionControlPriorityGeneric>
