@@ -157,7 +157,7 @@ UI.Objectives.NationInfoCanvas.Funding.Desc=Эти средства нация �
 UI.Objectives.NationInfoCanvas.Research.Name=Ежемесячные Исследования
 UI.Objectives.NationInfoCanvas.Research.Desc=Производство исследований в нации определяется уровнем ее образования, экономики, сплоченности, демократии и беспорядков.
 
-UI.Objectives.NationInfoCanvas.Boost.Name=Ежемесячное ускорение
+UI.Objectives.NationInfoCanvas.Boost.Name=Ежемесячные Ускорители
 UI.Objectives.NationInfoCanvas.Boost.Desc=Способность нации поддерживать развитие, измеряемая в декатонах в месяц.
 
 UI.Objectives.NationInfoCanvas.MissionControl.Name=Управление Миссиями
