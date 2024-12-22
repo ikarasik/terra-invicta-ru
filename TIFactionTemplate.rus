@@ -19,11 +19,11 @@ TIFactionTemplate.adjective.AlienCouncil.Later=Гидр
 TIFactionTemplate.leaderAddress.ResistCouncil=Командующий
 TIFactionTemplate.leaderAddress.DestroyCouncil=Полковник
 TIFactionTemplate.leaderAddress.ExploitCouncil=Председатель
-TIFactionTemplate.leaderAddress.SubmitCouncil=Наставник
+TIFactionTemplate.leaderAddress.SubmitCouncil=Наставница
 TIFactionTemplate.leaderAddress.AppeaseCouncil=Комиссар
 TIFactionTemplate.leaderAddress.CooperateCouncil=Канцлер
 TIFactionTemplate.leaderAddress.EscapeCouncil=Директор
-TIFactionTemplate.leaderAddress.AlienCouncil=Военный лидер
+TIFactionTemplate.leaderAddress.AlienCouncil=Господин войны
 TIFactionTemplate.leader.ResistCouncil=Фиона Айоаде
 TIFactionTemplate.leader.DestroyCouncil=Ханс Кастильо
 TIFactionTemplate.leader.ExploitCouncil=Сорен ван Вейк
@@ -32,10 +32,10 @@ TIFactionTemplate.leader.AppeaseCouncil=Киран Банерджи
 TIFactionTemplate.leader.CooperateCouncil=Ли Цинчжао
 TIFactionTemplate.leader.EscapeCouncil=Халид Аль-Ашгар
 TIFactionTemplate.leader.AlienCouncil=Меч Зимы
-TIFactionTemplate.fullLeader.ResistCouncil=Командующий Фиона Айоаде, Сопротивление
+TIFactionTemplate.fullLeader.ResistCouncil=Коммандер Фиона Айоаде, Сопротивление
 TIFactionTemplate.fullLeader.DestroyCouncil=Полковник Ханс Кастильо, Человечество Прежде Всего
 TIFactionTemplate.fullLeader.ExploitCouncil=Председатель Сорен ван Вейк, Инициатива
-TIFactionTemplate.fullLeader.SubmitCouncil=Наставник Джудит Хауэлл, Слуги
+TIFactionTemplate.fullLeader.SubmitCouncil=Наставница Джудит Хауэлл, Слуги
 TIFactionTemplate.fullLeader.AppeaseCouncil=Комиссар Киран Банерджи, Протекторат
 TIFactionTemplate.fullLeader.CooperateCouncil=Канцлер Ли Цинчжао, Академия
 TIFactionTemplate.fullLeader.EscapeCouncil=Директор Халид Аль-Ашгар, Проект Исход
@@ -48,9 +48,9 @@ TIFactionTemplate.leader.born.AppeaseCouncil=Тируванантапурам, �
 TIFactionTemplate.leader.born.CooperateCouncil=Шанхай, Китай
 TIFactionTemplate.leader.background.ResistCouncil=Шпион
 TIFactionTemplate.leader.background.DestroyCouncil=Офицер
-TIFactionTemplate.leader.background.ExploitCouncil=Магнат
+TIFactionTemplate.leader.background.ExploitCouncil=Олигарх
 TIFactionTemplate.leader.background.EscapeCouncil=Техномагнат
-TIFactionTemplate.leader.background.SubmitCouncil=Евангелист
+TIFactionTemplate.leader.background.SubmitCouncil=Проповедник
 TIFactionTemplate.leader.background.AppeaseCouncil=Политик
 TIFactionTemplate.leader.background.CooperateCouncil=Учёный
 TIFactionTemplate.leader.description.ResistCouncil=Капитан, Британский корпус военной разведки, в отставке, 2006 г.; оперативный сотрудник, местоположение не раскрывается, Секретная разведывательная служба, 2006–2007 гг.; связь СИС с Центром контртерроризма США, 2008–2009 гг.; начальник станции, Лагос, 2009–2012 гг.; начальник станции, Исламабад, 2012–2014 гг.; заместитель начальника по африканским делам, 2014–2015 гг.; старший советник повстанческой группы, местоположение не раскрывается, 2016 г. – настоящее время.
@@ -254,5 +254,6 @@ TIFactionTemplate.Diplomacy.Alien.Appease.Tolerance=Вы терпимы (<color=
 TIFactionTemplate.Diplomacy.Alien.Cooperate.War=Нежелательная преграда (<color=#9964FF>Уничтожить угрозу</color>).
 TIFactionTemplate.Diplomacy.Alien.Cooperate.Conflict=Прекратите. Прекратите. Прекратите. (<color=#9964FF>Угроза. Угроза. Угроза.</color>)
 TIFactionTemplate.Diplomacy.Alien.Cooperate.Tolerance=Коммуникация=приемлема (<color=#9964FF>Человек=можно ли убедить?</color>).
+
 
 
