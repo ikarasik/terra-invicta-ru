@@ -1125,6 +1125,19 @@ TINarrativeEventTemplate.event_CollateralDamage.option2=Финансируйте
 TINarrativeEventTemplate.event_CollateralDamage.optionDetail2=<skip/>
 TINarrativeEventTemplate.event_CollateralDamage.optionResult2={actorNameWithArticleCap} профинансировал программы помощи для пострадавших мирных жителей {targetRegionNameSentIn}.
 
+TINarrativeEventTemplate.displayName.event_SnapElection=Досрочные выборы
+TINarrativeEventTemplate.event_SnapElection.summary=Действующее правительство {targetNationNameWithArticle} назначило досрочные выборы.
+TINarrativeEventTemplate.event_SnapElection.query=На этих выборах могут быть разыграны все места в законодательном органе {targetNationNameWithArticle}.<br/><br/>Из-за неожиданного момента объявления факта выборов популярность будет главным определяющим фактором для того, кто выйдет победителем. В настоящее время кандидаты, поддерживающие {secondaryFactionName}, лидируют в опросах общественного мнения.
+TINarrativeEventTemplate.event_SnapElection.option0=Пусть победят лучшие кандидаты!
+TINarrativeEventTemplate.event_SnapElection.optionDetail0=<skip/>
+TINarrativeEventTemplate.event_SnapElection.optionResult0=Состоялись досрочные выборы {targetNationNameWithArticleAndPlacePrep}.
+TINarrativeEventTemplate.event_SnapElection.option1=Сложить колоду в нашу пользу.
+TINarrativeEventTemplate.event_SnapElection.optionDetail1=<skip/>
+TINarrativeEventTemplate.event_SnapElection.optionResult1={actorNameWithArticleCap} сфальсифицировал досрочные выборы {targetNationNameWithArticleAndPlacePrep}.
+TINarrativeEventTemplate.event_SnapElection.option2=Отложите выборы по соображениям общественной безопасности.
+TINarrativeEventTemplate.event_SnapElection.optionDetail2=<skip/>
+TINarrativeEventTemplate.event_SnapElection.optionResult2={actorNameWithArticleCap} отложил досрочные выборы {targetNationNameWithArticleAndPlacePrep}.
+
 TINarrativeEventTemplate.displayName.event_ParamilitaryViolence_Defender=Военное Насилие
 TINarrativeEventTemplate.event_ParamilitaryViolence_Defender.summary=У нас есть веские доказательства того, что {secondaryTargetNationAdjective} военизированные группы совершают зверства в {targetRegionNameSentIn}.
 TINarrativeEventTemplate.event_ParamilitaryViolence_Defender.query=Правительство {secondaryTargetNationNameWithArticle} естественно отрицает любую причастность, но мы обязаны ответить в любом случае.
@@ -1303,7 +1316,7 @@ TINarrativeEventTemplate.event_KesslerSyndrome.optionDetail0=<skip/>
 TINarrativeEventTemplate.event_KesslerSyndrome.optionResult0=Низкая орбита Земли стала зоной повышенной опасности.
 
 TINarrativeEventTemplate.displayName.event_OrbitalDebrisStrike=Удар Орбитального Мусора
-TINarrativeEventTemplate.event_OrbitalDebrisStrike.summary=Мусор от недавних сражений и испытаний оружия на орбите {targetOrbitName} направляется к {targetHabName}.
+TINarrativeEventTemplate.event_OrbitalDebrisStrike.summary=Мусор от недавних сражений и испытаний оружия на {targetOrbitName} направляется к {targetHabName}.
 TINarrativeEventTemplate.event_OrbitalDebrisStrike.query=Облако мусора широко рассредоточено, что угрожает множеству участков {targetHabName}. Хотя отдельные фрагменты невелики, каждый из них способен уничтожить ценное оборудование и модули.<br/><br/>Установка защитных модулей или размещение военных кораблей может предотвратить подобные ситуации в будущем.
 TINarrativeEventTemplate.event_OrbitalDebrisStrike.option0=Еще одна жертва войны.
 TINarrativeEventTemplate.event_OrbitalDebrisStrike.optionDetail0=<skip/>
