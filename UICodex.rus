@@ -1,4 +1,6 @@
 UI.Codex.Title=Кодекс
+UI.Codex.ListContainerHeader=Элементы кодекса
+UI.Codex.DetailContainerHeader=Детали кодекса
 UI.Codex.codex_welcome.Title=Введение
 UI.Codex.codex_welcome0=Этот кодекс содержит информацию об игре в Terra Invicta. Выберите тему слева для получения подробной информации об игровой механике.<br/><br/>Новые темы могут иногда появляться, когда технологии открывают новые механики.<br/><br/>Чтобы узнать, как перемещаться по игровым интерфейсам, пожалуйста, начать кампанию за Сопротивление с активированным обучением.
 UI.Codex.codex_factions.Title=Фракции
@@ -25,7 +27,7 @@ UI.Codex.codex_resources13=ф: фемто- (.000 000 000 000 001)
 UI.Codex.codex_resources14=а: атто- (.000 000 000 000 000 001)
 UI.Codex.codex_resources15=з: зепто- (.000 000 000 000 000 000 001)
 UI.Codex.codex_resources16=и: иокто- (.000 000 000 000 000 000 000 001)
-UI.Codex.codex_money.Title=<color=#FFFFFFFF><sprite name="currency"></color> Деньги
+UI.Codex.codex_money.Title=Деньги
 UI.Codex.codex_money0=<LOC,UI.GeneralControls.MoneyDetail>
 UI.Codex.codex_money1=<LOC,UI.GeneralControls.MoneySource>
 UI.Codex.codex_influence.Title=<color=#FFFFFFFF><sprite name="influence"></color> Влияние
@@ -63,6 +65,7 @@ UI.Codex.codex_exotics.Title=<color=#FFFFFFFF><sprite name="exotics"></color> Э
 UI.Codex.codex_exotics0=<LOC,UI.GeneralControls.ExoticsDetail>
 UI.Codex.codex_diplomacy.Title=Дипломатия фракции
 UI.Codex.codex_diplomacy0=Используя миссию <h>Связаться</h> с советником из другой фракции, советник может инициировать торговые переговоры с лидером этой фракции. Успешные сделки могут снизить враждебность между фракциями.
+UI.Codex.codex_diplomacy1=Однако, все человеческие фракции в конечном итоге имеют несовместимые идеологии и противоположные цели, и они будут рассматривать любые дружественные отношения как временные в лучшем случае.
 UI.Codex.codex_councilors.Title=Советники
 UI.Codex.codex_councilors0=Советники являются основными доверенными лицами фракции на Земле и могут также отправляться в космос, чтобы продвигать там свои интересы. Первоначально у фракций может быть четыре советника, но некоторые проекты позволяют им увеличить размер своего совета до шести. Их основная роль заключается в выполнении <h>миссий</h> для своей фракции.
 UI.Codex.codex_professions.Title=Профессии

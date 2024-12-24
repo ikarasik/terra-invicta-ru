@@ -81,7 +81,12 @@ UI.StartScreen.Skirmish.Begin=Начать
 UI.StartScreen.Skirmish.Header=Настройка быстрого боя
 UI.StartScreen.Skirmish.Player1Header=Ваш флот
 UI.StartScreen.Skirmish.Player2Header=АИ флот
-UI.StartScreen.Skirmish.NoHab=Нет хаба
+UI.StartScreen.Skirmish.LocationTitle=ЛОКАЦИЯ
+UI.StartScreen.Skirmish.HabTitle=ХАБ
+UI.StartScreen.Skirmish.NoHab=Нет Хаба
+UI.StartScreen.Skirmish.Player1AddShips=ДОБАВИТЬ КОРАБЛИ ИГРОКА
+UI.StartScreen.Skirmish.Player2AddShips=ДОБАВИТЬ КОРАБЛИ ИИ
+UI.StartScreen.Skirmish.CloseAddShips=ЗАКРЫТЬ
 UI.StartScreen.SkirmishShipDropdownLineItem={0}<color=#00000000>:</color><rcol>{1}{2}</rcol>										// COLON IS REQUIRED IN BY CODE
 UI.StartScreen.Skirmish.Import=Импортировать из сохранения ...
 UI.StartScreen.NewGameOptions=Параметры новой игры

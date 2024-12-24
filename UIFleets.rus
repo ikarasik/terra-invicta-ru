@@ -318,3 +318,7 @@ UI.Fleets.NumShipsPlural={0} кораблей
 UI.Fleets.RefitIterationSuffix=Тип
 UI.Fleets.NIS={0}+{1}
 UI.Fleets.Explosive=<color=#FFFFFFFF><sprite name=warning></color>Этот модуль может взорваться, если получит урон.
+UI.Fleets.FleetsListTab=Список флотов
+UI.Fleets.ShipDetailTab=Детали корабля
+UI.Fleets.AlertLevel=Уровень тревоги
+UI.Fleets.ArrivalTime=Время прибытия

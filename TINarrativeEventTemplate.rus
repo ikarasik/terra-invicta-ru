@@ -1126,15 +1126,15 @@ TINarrativeEventTemplate.event_CollateralDamage.optionDetail2=<skip/>
 TINarrativeEventTemplate.event_CollateralDamage.optionResult2={actorNameWithArticleCap} профинансировал программы помощи для пострадавших мирных жителей {targetRegionNameSentIn}.
 
 TINarrativeEventTemplate.displayName.event_SnapElection=Досрочные выборы
-TINarrativeEventTemplate.event_SnapElection.summary=Действующее правительство {targetNationNameWithArticle} назначило досрочные выборы.
-TINarrativeEventTemplate.event_SnapElection.query=На этих выборах могут быть разыграны все места в законодательном органе {targetNationNameWithArticle}.<br/><br/>Из-за неожиданного момента объявления факта выборов популярность будет главным определяющим фактором для того, кто выйдет победителем. В настоящее время кандидаты, поддерживающие {secondaryFactionName}, лидируют в опросах общественного мнения.
+TINarrativeEventTemplate.event_SnapElection.summary=Действующее правительство {targetNationNameWithArticle} объявило о проведении досрочных выборов.
+TINarrativeEventTemplate.event_SnapElection.query=Все места в законодательном органе {targetNationNameWithArticle} будут оспариваться на этих выборах.<br/><br/>Из-за неожиданного объявления о проведении выборов главным определяющим фактором победы станет популярность. В настоящее время кандидаты, поддерживающие {secondaryFactionName}, лидируют в опросах.
 TINarrativeEventTemplate.event_SnapElection.option0=Пусть победят лучшие кандидаты!
 TINarrativeEventTemplate.event_SnapElection.optionDetail0=<skip/>
-TINarrativeEventTemplate.event_SnapElection.optionResult0=Состоялись досрочные выборы {targetNationNameWithArticleAndPlacePrep}.
-TINarrativeEventTemplate.event_SnapElection.option1=Сложить колоду в нашу пользу.
+TINarrativeEventTemplate.event_SnapElection.optionResult0=Досрочные выборы состоялись {targetNationNameWithArticleAndPlacePrep}.
+TINarrativeEventTemplate.event_SnapElection.option1=Сфальсифицировать результаты в нашу пользу.
 TINarrativeEventTemplate.event_SnapElection.optionDetail1=<skip/>
 TINarrativeEventTemplate.event_SnapElection.optionResult1={actorNameWithArticleCap} сфальсифицировал досрочные выборы {targetNationNameWithArticleAndPlacePrep}.
-TINarrativeEventTemplate.event_SnapElection.option2=Отложите выборы по соображениям общественной безопасности.
+TINarrativeEventTemplate.event_SnapElection.option2=Отложить выборы по соображениям общественной безопасности.
 TINarrativeEventTemplate.event_SnapElection.optionDetail2=<skip/>
 TINarrativeEventTemplate.event_SnapElection.optionResult2={actorNameWithArticleCap} отложил досрочные выборы {targetNationNameWithArticleAndPlacePrep}.
 
