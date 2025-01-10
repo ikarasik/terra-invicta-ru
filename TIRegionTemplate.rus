@@ -319,6 +319,8 @@ TIRegionTemplate.displayName.Adelaide=Аделаида
 TIRegionTemplate.displayName.Darwin=Дарвин
 TIRegionTemplate.displayName.Melbourne=Мельбурн
 
+TIRegionTemplate.displayName.SakhalinKurils=Южно-Сахалинск  
+
 TIRegionTemplate.MissionControlName.Afghanistan=
 TIRegionTemplate.MissionControlName.Algeria=
 TIRegionTemplate.MissionControlName.Angola=
@@ -571,7 +573,7 @@ TIRegionTemplate.MissionControlName.Villavicencio=
 TIRegionTemplate.MissionControlName.Kisangani=
 TIRegionTemplate.MissionControlName.DireDiwa=
 TIRegionTemplate.MissionControlName.Bavaria=Европейский центр операций космического агентства
-TIRegionTemplate.MissionControlName.Gujarat=Центр космических приложений
+TIRegionTemplate.MissionControlName.Gujarat=Центр прикладной космонавтики
 TIRegionTemplate.MissionControlName.Bangalore=Центр космических исследований Викрама Сарабхаи
 TIRegionTemplate.MissionControlName.Raipur=
 TIRegionTemplate.MissionControlName.Indore=
@@ -637,8 +639,8 @@ TIRegionTemplate.MissionControlName.Adelaide=
 TIRegionTemplate.MissionControlName.Darwin=
 TIRegionTemplate.MissionControlName.Melbourne=
 
+TIRegionTemplate.MissionControlName.SakhalinKurils=
 
-TIRegionTemplate.MissionControlName.CombinedIsrael=Израильское космическое агентство
 
 TIRegionTemplate.BoostFacilityName.Afghanistan=
 TIRegionTemplate.BoostFacilityName.Algeria=Центр запуска Реггане
@@ -959,6 +961,9 @@ TIRegionTemplate.BoostFacilityName.Mombasa=Космический центр Б�
 TIRegionTemplate.BoostFacilityName.Adelaide=
 TIRegionTemplate.BoostFacilityName.Darwin=
 TIRegionTemplate.BoostFacilityName.Melbourne=
+
+TIRegionTemplate.BoostFacilityName.SakhalinKurils=
+
 
 TIRegionAlienEntityState.displayNameWithLocation={0}-{1}
 TIRegionAlienEntityState.BasicDescriptor=Инопланетные явления
@@ -1301,6 +1306,8 @@ TIRegionTemplate.displayNameSentIn.Adelaide=в регионе Аделаида
 TIRegionTemplate.displayNameSentIn.Darwin=в регионе Дарвин
 TIRegionTemplate.displayNameSentIn.Melbourne=в регионе Мельбурн
 
+TIRegionTemplate.displayNameSentIn.SakhalinKurils=в регионе Южно-Сахалинск  
+
 TIRegionTemplate.displayNameSentOf.Afghanistan=из региона Кабул
 TIRegionTemplate.displayNameSentOf.Algeria=из региона Алжир
 TIRegionTemplate.displayNameSentOf.Angola=из региона Луанда
@@ -1621,6 +1628,8 @@ TIRegionTemplate.displayNameSentOf.Adelaide=региона Аделаида
 TIRegionTemplate.displayNameSentOf.Darwin=региона Дарвин
 TIRegionTemplate.displayNameSentOf.Melbourne=региона Мельбурн
 
+TIRegionTemplate.displayNameSentOf.SakhalinKurils=региона Южно-Сахалинск  
+
 TIRegionTemplate.STOFighterName.Afghanistan=Афган  
 TIRegionTemplate.STOFighterName.Tirana=Ангел  
 TIRegionTemplate.STOFighterName.Algeria=Стрела  
@@ -1850,6 +1859,7 @@ TIRegionTemplate.STOFighterName.Novgorod=Бритва
 TIRegionTemplate.STOFighterName.Rostovskaya=Петух  
 TIRegionTemplate.STOFighterName.RussianFarEast=Родео  
 TIRegionTemplate.STOFighterName.Sakha=Бунтарь  
+TIRegionTemplate.STOFighterName.SakhalinKurils=Кролик  
 TIRegionTemplate.STOFighterName.Surgut=Угонщик  
 TIRegionTemplate.STOFighterName.Urals=Ворон  
 TIRegionTemplate.STOFighterName.Volga=Рубин  
@@ -1924,4 +1934,3 @@ TIRegionTemplate.STOFighterName.Aden=Варлорд
 TIRegionTemplate.STOFighterName.Yemen=Вейдер  
 TIRegionTemplate.STOFighterName.Zambia=Зета  
 TIRegionTemplate.STOFighterName.Zimbabwe=Зомби  
->>>>>>> Stashed changes

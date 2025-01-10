@@ -298,6 +298,7 @@ UI.Fleets.TwoColumn={0}<rcol>{1}</rcol>
 UI.Fleets.Build=Построить
 UI.Fleets.Upgrade=Обновить
 UI.Fleets.Obsolete=Устарело
+UI.Fleets.HideObsolete=Скрыть устаревшие  
 UI.Fleets.Construct=Построить новый корабль
 UI.Fleets.Refit=Переоборудовать пристыкованный корабль
 UI.Fleets.DockedShips=Пристыкованные корабли

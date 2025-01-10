@@ -68,7 +68,6 @@ UI.Intel.GlobalDataEarthPop=Население Земли<rcol>{0}</rcol>
 UI.Intel.GlobalDataSpacePop=Население Космоса<rcol>{0}</rcol>
 UI.Intel.GlobalDataGDP=ВВП<rcol>${0}</rcol>
 UI.Intel.GlobalDataPerCapitaGDP=ВВП на душу населения<rcol>${0}</rcol>
-UI.Intel.GlobalDataData=Население Земли<rcol>{0}</rcol><br/>Космическое население<rcol>{1}</rcol><br/>ВВП<rcol>${2}</rcol><br/>ВВП на душу населения<rcol>${3}</rcol>
 UI.Intel.LaunchWindowText={0}{1}{2}
 UI.Intel.EarthLaunchWindow=Окно запуска с Земли
 UI.Intel.ProspectTipText=Запустить разведывательный зонд<br/>{0}
