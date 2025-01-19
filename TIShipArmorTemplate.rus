@@ -41,8 +41,8 @@ TIShipArmorTemplate.NoseTailTonsPerPoint=Масса одной точки нос
 TIShipArmorTemplate.LateralTonsPerPoint=Масса одной точки боковой брони:<rcol>{0} тонн</rcol>
 
 TIShipArmorTemplate.MaxArmorThickness_Lateral=Максимальная толщина боковой брони:<rcol>{0} см</rcol>
-TIShipArmorTemplate.MaxArmorThickness_Nose=Максимальная толщина брони носа:<rcol>{0} см</rcol>.
-TIShipArmorTemplate.MaxArmorThickness_Tail=Максимальная толщина хвостовой брони:<rcol>{0} см</rcol>.
+TIShipArmorTemplate.MaxArmorThickness_Nose=Максимальная толщина брони носа:<rcol>{0} см</rcol>
+TIShipArmorTemplate.MaxArmorThickness_Tail=Максимальная толщина хвостовой брони:<rcol>{0} см</rcol>
 
 TIShipArmorTemplate.MaxArmorPoints_Lateral=Максимальная боковая броня:<rcol>{0}</rcol>
 TIShipArmorTemplate.MaxArmorPoints_Nose=Максимальная броня носа:<rcol>{0}</rcol>
