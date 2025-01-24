@@ -14,11 +14,11 @@ TIUtilityModuleTemplate.displayName.RepairBay=Ремонтный отсек
 TIUtilityModuleTemplate.description.RepairBay=Расширенная команда по устранению повреждений и мастерская для проведения более масштабного ремонта вдали от верфи. <br><br/>Значительно повышает эффективность работы команд устранения повреждений во время боя. Вне боя ремонтный отсек позволяет частично ремонтировать мостик, жизнеобеспечение, батареи и модули управления повреждениями, а также увеличивает лимит ремонта уничтоженных модулей с 5% до 25%. <br><br/><h>Обратите внимание, что некоторые модули, такие как оружие и утилитарные модули, могут быть отремонтированы только на станции после уничтожения.</h>
 TIUtilityModuleTemplate.displayName.SalvageBay=Склад для утилизации
 TIUtilityModuleTemplate.description.SalvageBay=Эскадрон дронов и техники, собирающий материалы с уничтоженных кораблей после боя. Увеличивает наши ресурсы для утилизации до {8}. Флот не может увеличить бонус от утилизации выше 50%.
-TIUtilityModuleTemplate.displayName.MarineAssaultUnit=Штурмовая единица морпехов
+TIUtilityModuleTemplate.displayName.MarineAssaultUnit=Космодесант - Оперативники 
 TIUtilityModuleTemplate.description.MarineAssaultUnit=Позволяет кораблю проводить штурмы обитаемых объектов. Штурмовой показатель: <color=#FFFFFFFF><sprite name="army_level"></color>{3}.
-TIUtilityModuleTemplate.displayName.AdvancedMarineAssaultUnit=Продвинутая штурмовая единица морпехов
+TIUtilityModuleTemplate.displayName.AdvancedMarineAssaultUnit=Космодесант - Специалисты
 TIUtilityModuleTemplate.description.AdvancedMarineAssaultUnit=Позволяет кораблю проводить штурмы обитаемых объектов. Штурмовой показатель: <color=#FFFFFFFF><sprite name="army_level"></color>{3}.
-TIUtilityModuleTemplate.displayName.EliteMarineAssaultUnit=Элитная штурмовая единица морпехов
+TIUtilityModuleTemplate.displayName.EliteMarineAssaultUnit=Космодесант - Элита
 TIUtilityModuleTemplate.description.EliteMarineAssaultUnit=Позволяет кораблю проводить штурмы обитаемых объектов. Штурмовой показатель: <color=#FFFFFFFF><sprite name="army_level"></color>{3}.
 TIUtilityModuleTemplate.displayName.Spartans=Спартанцы
 TIUtilityModuleTemplate.description.Spartans=Фанатичная и элитная штурмовая единица морпехов для наших кораблей. Штурмовой показатель: <color=#FFFFFFFF><sprite name="army_level"></color>{3}.

@@ -1,4 +1,4 @@
-UI.GeneralControls.Objectives={0} Цели																		  		// прилагательное для фракции
+UI.GeneralControls.Objectives=Цели {0}																		  		// прилагательное для фракции
 UI.GeneralControls.ResourcesGain={0}+{1}																				// значение + ежедневный прирост
 UI.GeneralControls.ResourcesLoss={0}{1}																					// значение, ежедневный прирост
 UI.GeneralControls.ResourcesSmallLoss={0}-{1}																			// значение, ежедневный прирост. Этот формат компенсирует удаление знака минуса для отрицательных значений, которые усечены форматом "N2".
@@ -138,3 +138,4 @@ UI.GeneralControls.MCNetGainTurnedOff=У нас есть неактивные м
 UI.GeneralControls.MCNetSpendTurnedOff=У нас есть неактивные модули станций, которые обеспечат чистые затраты {0}{1}, если все будут активированы.
 UI.GeneralControls.MCFromUnderConstructionShips=Наши верфи строят корабли с общей стоимостью {0}{1}, которые будут завершены.
 UI.GeneralControls.QuicksaveComplete=Игра сохранена
+UI.GeneralControls.GlobalSearch=Поиск  
