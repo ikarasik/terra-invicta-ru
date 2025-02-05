@@ -10,7 +10,7 @@ TIOfficerTemplate.displayName.Officer_Propulsion=Офицер по движит�
 TIOfficerTemplate.displayName.Officer_Medical=Медицинский офицер
 TIOfficerTemplate.displayName.Officer_CIC=Офицер боевого информационного центра (БИЦ)
 TIOfficerTemplate.displayName.Officer_Intel=Офицер разведки
-TIOfficerTemplate.displayName.Officer_Marine=Офицер морской пехоты
+TIOfficerTemplate.displayName.Officer_Marine=Офицер космической пехоты
 TIOfficerTemplate.displayName.Officer_Supply=Офицер снабжения
 TIOfficerTemplate.displayName.Officer_Chief=Старшина экипажа
 
@@ -26,7 +26,7 @@ TIOfficerTemplate.description.Officer_Propulsion=Офицер, отвечающ�
 TIOfficerTemplate.description.Officer_Medical=Офицер, отвечающий за здоровье и жизнь экипажа.
 TIOfficerTemplate.description.Officer_CIC=Офицер, отвечающий за боевой центр и активные системы защиты корабля.
 TIOfficerTemplate.description.Officer_Intel=Офицер, отвечающий за разведывательную информацию о противнике.
-TIOfficerTemplate.description.Officer_Marine=Офицер, командующий морской пехотой корабля.
+TIOfficerTemplate.description.Officer_Marine=Офицер, командующий космической пехотой корабля.
 TIOfficerTemplate.description.Officer_Supply=Офицер, отвечающий за запасы корабля.
 TIOfficerTemplate.description.Officer_Chief=Старший унтер-офицер корабля, представляющий интересы экипажа.
 
@@ -42,7 +42,7 @@ TIOfficerTemplate.Officer_Propulsion_1=Младший лейтенант
 TIOfficerTemplate.Officer_Medical_1=Бортовой врач
 TIOfficerTemplate.Officer_CIC_1=Мичман
 TIOfficerTemplate.Officer_Intel_1=Мичман
-TIOfficerTemplate.Officer_Marine_1=Лейтенант морской пехоты
+TIOfficerTemplate.Officer_Marine_1=Лейтенант космической пехоты
 TIOfficerTemplate.Officer_Supply_1=Мичман
 TIOfficerTemplate.Officer_Chief_1=Главный старшина
 
@@ -58,7 +58,7 @@ TIOfficerTemplate.Officer_Propulsion_2=Младший лейтенант
 TIOfficerTemplate.Officer_Medical_2=Врач
 TIOfficerTemplate.Officer_CIC_2=Младший лейтенант
 TIOfficerTemplate.Officer_Intel_2=Младший лейтенант
-TIOfficerTemplate.Officer_Marine_2=Капитан морской пехоты
+TIOfficerTemplate.Officer_Marine_2=Капитан космической пехоты
 TIOfficerTemplate.Officer_Supply_2=Младший лейтенант
 TIOfficerTemplate.Officer_Chief_2=Старший главный старшина
 
@@ -74,7 +74,7 @@ TIOfficerTemplate.Officer_Propulsion_3=Лейтенант
 TIOfficerTemplate.Officer_Medical_3=Старший врач
 TIOfficerTemplate.Officer_CIC_3=Лейтенант
 TIOfficerTemplate.Officer_Intel_3=Лейтенант
-TIOfficerTemplate.Officer_Marine_3=Майор морской пехоты
+TIOfficerTemplate.Officer_Marine_3=Майор космической пехоты
 TIOfficerTemplate.Officer_Supply_3=Лейтенант
 TIOfficerTemplate.Officer_Chief_3=Главный мастер-старшина
 
@@ -87,7 +87,7 @@ TIOfficerTemplate.MissileWeapons=-Требуются ракетные систе
 TIOfficerTemplate.EnergyWeapons=-Требуются лазерные или энергетические оружейные системы на корабле
 TIOfficerTemplate.GunWeapons=-Требуются магнитные, плазменные или артиллерийские системы на корабле
 TIOfficerTemplate.DefenseWeapons=-Требуется оружие с режимом защиты на корабле
-TIOfficerTemplate.Marines=-Требуются морские пехотинцы на корабле
+TIOfficerTemplate.Marines=-Требуются космические пехотинцы на корабле
 TIOfficerTemplate.TunableDrive=-Требуется двигатель с боевым тяговым коэффициентом больше 1
 
 TIOfficerTemplate.FleetMissionControl=-Снижает стоимость управления миссией флота на {2}
@@ -138,4 +138,4 @@ TIOfficerTemplate.CombatKill=-Корабль уничтожает вражеск
 TIOfficerTemplate.CombatKill_Guns=-Корабль уничтожает вражеский корабль или боевой модуль в бою с использованием магнитного, плазменного или артиллерийского оружия                  
 TIOfficerTemplate.CombatKill_Missiles=-Корабль уничтожает вражеский корабль или боевой модуль в бою с использованием ракет
 TIOfficerTemplate.CombatKill_Beam=-Корабль уничтожает вражеский корабль или боевой модуль в бою с использованием лазеров или энергетических пушек
-TIOfficerTemplate.SuccessfulMarineAssault=-Корабль участвует в успешном штурме морской пехоты
+TIOfficerTemplate.SuccessfulMarineAssault=-Корабль участвует в успешном штурме космической пехоты

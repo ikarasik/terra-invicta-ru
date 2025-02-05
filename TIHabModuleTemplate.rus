@@ -340,7 +340,7 @@ HabModuleSpecialRule.Stability=-Модуль предоставляет {0} ма
 HabModuleSpecialRule.Efficiency=-Модуль предоставляет {1} бонус к производству <color=#FFFFFFFF><sprite name="currency"><sprite name="influence"><sprite name="ops"><sprite name="research"><sprite name="water"><sprite name="metal"><sprite name="metal_noble"><sprite name="volatiles"><sprite name="radioactive"></color>.
 HabModuleSpecialRule.HarvestHelium3=-При активации все двигатели термоядерного синтеза Гелиона этой фракции не расходуют радионуклеиды в качестве топлива.
 HabModuleSpecialRule.UsesHelium3=-Этот модуль термоядерного синтеза работает на гелии-3. Если у фракции есть активная шахта по добыче гелия-3, для его строительства и содержания будет использоваться вода вместо делящихся материалов.  
-HabModuleSpecialRule.RepairsMarineShipModules=-Этот модуль, в сочетании с модулем строительства кораблей, позволяет строить и ремонтировать корабельные модули с использованием морской пехоты.  
+HabModuleSpecialRule.RepairsMarineShipModules=-Этот модуль, в сочетании с модулем строительства кораблей, позволяет строить и ремонтировать корабельные модули с использованием космической пехоты.  
 HabModuleSpecialRule.RepairsHabKitShipModules=-Этот модуль, в сочетании с модулем строительства кораблей, позволяет строить и ремонтировать модули, создающие новые орбитальные станции.  
 HabModuleSpecialRule.StaticHab=<skip/>  
 

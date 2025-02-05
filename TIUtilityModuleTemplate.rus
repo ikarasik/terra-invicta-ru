@@ -122,5 +122,5 @@ TIUtilityModuleTemplate.description.RequiresFusionDrive=<h>Требуется я
 TIUtilityModuleTemplate.description.RequiresNonISRUDrive=<h>Не допускается на кораблях с двигателями, имеющими встроенные возможности ISRU.</h>  
 TIUtilityModuleTemplate.description.ConsTier=<h>Допускается только на более крупных корпусах.</h>  
 TIUtilityModuleTemplate.description.ImmuneToDamage=<h>Этот модуль не может быть поврежден.</h>  
-TIUtilityModuleTemplate.description.RepairOnlyWhenMarineModulePresent=<h>Может быть отремонтирован только на орбитальных базах с кораблестроительным модулем и модулем морской пехоты. Постройка этого модуля на базе без модуля морской пехоты приведет к отключению модуля до его ремонта.</h>  
+TIUtilityModuleTemplate.description.RepairOnlyWhenMarineModulePresent=<h>Может быть отремонтирован только на орбитальных базах с кораблестроительным модулем и модулем космической пехоты. Постройка этого модуля на базе без модуля космической пехоты приведет к отключению модуля до его ремонта.</h>  
 TIUtilityModuleTemplate.description.RepairOnlyWhenConstructionModulePresent=<h>Может быть отремонтирован только на орбитальных базах с кораблестроительным модулем и модулем, способным создавать базы. Постройка этого модуля на базе без модуля основания баз приведет к отключению модуля до его ремонта.</h>  
