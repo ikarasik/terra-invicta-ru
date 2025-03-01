@@ -58,6 +58,10 @@ TIObjectiveTemplate.MilestoneFulfilled.AlienMegafaunaSpawns=Инопланетн
 TIObjectiveTemplate.MilestoneFulfilled.Summary.AlienMegafaunaSpawns=На Земле обнаружен новый и огромный вид пришельцев.  
 TIObjectiveTemplate.MilestoneFulfilled.Detail.AlienMegafaunaSpawns=Там, где раньше земли, изменённые пришельцами, казались почти зловеще неподвижными, теперь через инопланетную растительность движутся гигантские, чудовищные силуэты. До сих пор находились те, кто отрицал присутствие внеземных существ на нашей планете, но поразительные кадры этих огромных новых созданий способны разрушить убеждения даже самых яростных скептиков.<br/><br/>Их титанические тела заслоняют свет; земля содрогается под их шагами. Деревья и здания сметаются прочь, как бумажные, или вырываются с корнями гигантскими щупальцами, словно крошечные ростки, а воздух на многие мили вокруг, кажется, дрожит от их оглушительного рева. Теперь весь мир знает: гиганты среди нас.
 
+TIObjectiveTemplate.MilestoneFulfilled.AlienInfrastructureExists=Контакт с пришельцами  
+TIObjectiveTemplate.MilestoneFulfilled.Summary.AlienInfrastructureExists=Пришельцы установили заметное присутствие на Земле.  
+TIObjectiveTemplate.MilestoneFulfilled.Detail.AlienInfrastructureExists=Пришельцы продвигают свои планы на Земле и создают стационарные, защищённые установки на территориях, которые, по-видимому, считают своими.  
+
 TIObjectiveTemplate.MilestoneFulfilled.TutorialAssignMission=Назначена миссия  
 TIObjectiveTemplate.MilestoneFulfilled.TutorialGainControlPoint=Получена точка контроля  
 TIObjectiveTemplate.MilestoneFulfilled.TutorialCheckNationalPriority=Проверены приоритеты нации  

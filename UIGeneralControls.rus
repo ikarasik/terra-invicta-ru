@@ -139,3 +139,4 @@ UI.GeneralControls.MCNetSpendTurnedOff=У нас есть неактивные �
 UI.GeneralControls.MCFromUnderConstructionShips=Наши верфи строят корабли с общей стоимостью {0}{1}, которые будут завершены.
 UI.GeneralControls.QuicksaveComplete=Игра сохранена
 UI.GeneralControls.GlobalSearch=Поиск  
+UI.GeneralControls.FinderTitle=Активы Фракции

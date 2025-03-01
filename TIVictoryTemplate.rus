@@ -34,25 +34,38 @@ TIVictoryCondition.FreePlanets_DefeatNonVeryProAlienFactions_Region=Уничто
 TIVictoryCondition.FreePlanets_DefeatExtremists_PlanetarySystem=Уничтожьте все станции уровня {0} и выше, принадлежащие пришельцам и человеческим экстремистским фракциям ({2}), в системе {1}  
 TIVictoryCondition.FreePlanets_DefeatExtremists_Region=Уничтожьте все станции уровня {0} и выше, принадлежащие пришельцам и человеческим экстремистским фракциям ({2}), на следующих объектах: {1}  
 
-TIVictoryCondition.FreeFleets_DefeatAliens_All=Уничтожьте все флоты пришельцев с боевой мощью {0} и выше  
-TIVictoryCondition.FreeFleets_DefeatAliensAndAllies_All=Уничтожьте все флоты с боевой мощью {0} и выше, принадлежащие пришельцам и их человеческим союзникам ({2})  
-TIVictoryCondition.FreeFleets_DefeatEveryone_All=Уничтожьте все флоты с боевой мощью {0} и выше, не принадлежащие нашей фракции  
-TIVictoryCondition.FreeFleets_DefeatAntiAlienFactions_All=Уничтожьте все флоты с боевой мощью {0} и выше, принадлежащие антипришельцевым фракциям ({2})  
-TIVictoryCondition.FreeFleets_DefeatNonVeryProAlienFactions_All=Уничтожьте все флоты с боевой мощью {0} и выше, принадлежащие фракциям, не союзным пришельцам ({2})  
-TIVictoryCondition.FreeFleets_DefeatExtremists_All=Уничтожьте все флоты с боевой мощью {0} и выше, принадлежащие пришельцам и человеческим экстремистским фракциям ({2})  
+TIVictoryCondition.FreeBases_DefeatAliens_PlanetarySystem=Уничтожить все базы пришельцев уровня {0} и выше в планетарной системе {1}  
+TIVictoryCondition.FreeBases_DefeatAliens_Region=Уничтожить все базы пришельцев уровня {0} и выше на следующих объектах: {1}  
+TIVictoryCondition.FreeBases_DefeatAliensAndAllies_PlanetarySystem=Уничтожить все базы уровня {0} и выше, принадлежащие пришельцам и их человеческим сторонникам ({2}), в системе {1}  
+TIVictoryCondition.FreeBases_DefeatAliensAndAllies_Region=Уничтожить все базы уровня {0} и выше, принадлежащие пришельцам и их человеческим сторонникам ({2}), на следующих объектах: {1}  
+TIVictoryCondition.FreeBases_DefeatEveryone_PlanetarySystem=Уничтожить все базы уровня {0} и выше, не принадлежащие нашей фракции, в планетарной системе {1}  
+TIVictoryCondition.FreeBases_DefeatEveryone_Region=Уничтожить все базы уровня {0} и выше, не принадлежащие нашей фракции, на следующих объектах: {1}  
+TIVictoryCondition.FreeBases_DefeatAntiAlienFactions_PlanetarySystem=Уничтожить все базы уровня {0} и выше, принадлежащие анти-инопланетным фракциям ({2}), в планетарной системе {1}  
+TIVictoryCondition.FreeBases_DefeatAntiAlienFactions_Region=Уничтожить все базы уровня {0} и выше, принадлежащие анти-инопланетным фракциям ({2}), на следующих объектах: {1}  
+TIVictoryCondition.FreeBases_DefeatNonVeryProAlienFactions_PlanetarySystem=Уничтожить все базы уровня {0} и выше, принадлежащие фракциям, не союзным пришельцам ({2}), в планетарной системе {1}  
+TIVictoryCondition.FreeBases_DefeatNonVeryProAlienFactions_Region=Уничтожить все базы уровня {0} и выше, принадлежащие фракциям, не союзным пришельцам ({2}), на следующих объектах: {1}  
+TIVictoryCondition.FreeBases_DefeatExtremists_PlanetarySystem=Уничтожить все базы уровня {0} и выше, принадлежащие пришельцам и экстремистским человеческим фракциям ({2}), в планетарной системе {1}  
+TIVictoryCondition.FreeBases_DefeatExtremists_Region=Уничтожить все базы уровня {0} и выше, принадлежащие пришельцам и экстремистским человеческим фракциям ({2}), на следующих объектах: {1}  
 
-TIVictoryCondition.FreeFleets_DefeatAliens_PlanetarySystem=Уничтожьте все флоты пришельцев с боевой мощью {0} и выше в планетной системе {1}  
-TIVictoryCondition.FreeFleets_DefeatAliens_Region=Уничтожьте все флоты пришельцев с боевой мощью {0} и выше на следующих объектах: {1}  
-TIVictoryCondition.FreeFleets_DefeatAliensAndAllies_PlanetarySystem=Уничтожьте все флоты с боевой мощью {0} и выше, принадлежащие пришельцам и их человеческим союзникам ({2}), в системе {1}  
-TIVictoryCondition.FreeFleets_DefeatAliensAndAllies_Region=Уничтожьте все флоты с боевой мощью {0} и выше, принадлежащие пришельцам и их человеческим союзникам ({2}), на следующих объектах: {1}  
-TIVictoryCondition.FreeFleets_DefeatEveryone_PlanetarySystem=Уничтожьте все флоты с боевой мощью {0} и выше, не принадлежащие нашей фракции, в планетной системе {1}  
-TIVictoryCondition.FreeFleets_DefeatEveryone_Region=Уничтожьте все флоты с боевой мощью {0} и выше, не принадлежащие нашей фракции, на следующих объектах: {1}  
-TIVictoryCondition.FreeFleets_DefeatAntiAlienFactions_PlanetarySystem=Уничтожьте все флоты с боевой мощью {0} и выше, принадлежащие антипришельцевым фракциям ({2}), в планетной системе {1}  
-TIVictoryCondition.FreeFleets_DefeatAntiAlienFactions_Region=Уничтожьте все флоты с боевой мощью {0} и выше, принадлежащие антипришельцевым фракциям ({2}), на следующих объектах: {1}  
-TIVictoryCondition.FreeFleets_DefeatNonVeryProAlienFactions_PlanetarySystem=Уничтожьте все флоты с боевой мощью {0} и выше, принадлежащие фракциям, не союзным пришельцам ({2}), в планетной системе {1}  
-TIVictoryCondition.FreeFleets_DefeatNonVeryProAlienFactions_Region=Уничтожьте все флоты с боевой мощью {0} и выше, принадлежащие фракциям, не союзным пришельцам ({2}), на следующих объектах: {1}  
-TIVictoryCondition.FreeFleets_DefeatExtremists_PlanetarySystem=Уничтожьте все флоты с боевой мощью {0} и выше, принадлежащие пришельцам и человеческим экстремистским фракциям ({2}), в планетной системе {1}  
-TIVictoryCondition.FreeFleets_DefeatExtremists_Region=Уничтожьте все флоты с боевой мощью {0} и выше, принадлежащие пришельцам и человеческим экстремистским фракциям ({2}), на следующих объектах: {1}  
+TIVictoryCondition.FreeFleets_DefeatAliens_All=Уничтожить все флоты пришельцев с боевой мощью {0} и выше  
+TIVictoryCondition.FreeFleets_DefeatAliensAndAllies_All=Уничтожить все флоты с боевой мощью {0} и выше, принадлежащие пришельцам и их человеческим сторонникам ({2})  
+TIVictoryCondition.FreeFleets_DefeatEveryone_All=Уничтожить все флоты с боевой мощью {0} и выше, не принадлежащие нашей фракции  
+TIVictoryCondition.FreeFleets_DefeatAntiAlienFactions_All=Уничтожить все флоты с боевой мощью {0} и выше, принадлежащие анти-инопланетным фракциям ({2})  
+TIVictoryCondition.FreeFleets_DefeatNonVeryProAlienFactions_All=Уничтожить все флоты с боевой мощью {0} и выше, принадлежащие фракциям, не союзным пришельцам ({2})  
+TIVictoryCondition.FreeFleets_DefeatExtremists_All=Уничтожить все флоты с боевой мощью {0} и выше, принадлежащие пришельцам и экстремистским человеческим фракциям ({2})  
+
+TIVictoryCondition.FreeFleets_DefeatAliens_PlanetarySystem=Уничтожить все флоты пришельцев с боевой мощью {0} и выше в планетарной системе {1}  
+TIVictoryCondition.FreeFleets_DefeatAliens_Region=Уничтожить все флоты пришельцев с боевой мощью {0} и выше на следующих объектах: {1}  
+TIVictoryCondition.FreeFleets_DefeatAliensAndAllies_PlanetarySystem=Уничтожить все флоты с боевой мощью {0} и выше, принадлежащие пришельцам и их человеческим сторонникам ({2}), в системе {1}  
+TIVictoryCondition.FreeFleets_DefeatAliensAndAllies_Region=Уничтожить все флоты с боевой мощью {0} и выше, принадлежащие пришельцам и их человеческим сторонникам ({2}), на следующих объектах: {1}  
+TIVictoryCondition.FreeFleets_DefeatEveryone_PlanetarySystem=Уничтожить все флоты с боевой мощью {0} и выше, не принадлежащие нашей фракции, в планетарной системе {1}  
+TIVictoryCondition.FreeFleets_DefeatEveryone_Region=Уничтожить все флоты с боевой мощью {0} и выше, не принадлежащие нашей фракции, на следующих объектах: {1}  
+TIVictoryCondition.FreeFleets_DefeatAntiAlienFactions_PlanetarySystem=Уничтожить все флоты с боевой мощью {0} и выше, принадлежащие анти-инопланетным фракциям ({2}), в планетарной системе {1}  
+TIVictoryCondition.FreeFleets_DefeatAntiAlienFactions_Region=Уничтожить все флоты с боевой мощью {0} и выше, принадлежащие анти-инопланетным фракциям ({2}), на следующих объектах: {1}  
+TIVictoryCondition.FreeFleets_DefeatNonVeryProAlienFactions_PlanetarySystem=Уничтожить все флоты с боевой мощью {0} и выше, принадлежащие фракциям, не союзным пришельцам ({2}), в планетарной системе {1}  
+TIVictoryCondition.FreeFleets_DefeatNonVeryProAlienFactions_Region=Уничтожить все флоты с боевой мощью {0} и выше, принадлежащие фракциям, не союзным пришельцам ({2}), на следующих объектах: {1}  
+TIVictoryCondition.FreeFleets_DefeatExtremists_PlanetarySystem=Уничтожить все флоты с боевой мощью {0} и выше, принадлежащие пришельцам и экстремистским человеческим фракциям ({2}), в планетарной системе {1}  
+TIVictoryCondition.FreeFleets_DefeatExtremists_Region=Уничтожить все флоты с боевой мощью {0} и выше, принадлежащие пришельцам и экстремистским человеческим фракциям ({2}), на следующих объектах: {1}  
 
 
 TIVictoryCondition.Complete=Завершено  
