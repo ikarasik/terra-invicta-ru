@@ -695,7 +695,7 @@ TINarrativeEventTemplate.event_MissileTests.option1.outcome0.Detail=Испыта
 
 TINarrativeEventTemplate.displayName.event_PunitiveSanctions=Карательные санкции
 TINarrativeEventTemplate.event_PunitiveSanctions.summary={targetNationNameWithArticleCap} глубоко обеспокоена недавними провокационными действиями {secondaryTargetNationNameWithArticle}.
-TINarrativeEventTemplate.event_PunitiveSanctions.query=Политики {targetNationNameWithArticleAndPlacePrep} предложили ввести экономические санкции против {secondaryTargetNationNameWithArticle}, чтобы наложить издержки за её последние провокации.
+TINarrativeEventTemplate.event_PunitiveSanctions.query=Политики {targetNationNameWithArticleAndPlacePrep} предложили ввести экономические санкции против {secondaryTargetNationNameWithArticle}, чтобы заставить их поплатиться за её последние провокации.
 TINarrativeEventTemplate.event_PunitiveSanctions.option0=Отправьте строгое письмо с осуждением.
 TINarrativeEventTemplate.event_PunitiveSanctions.optionDetail0=Ничего не происходит.
 TINarrativeEventTemplate.event_PunitiveSanctions.optionResult0={targetNationNameWithArticleCap} отказалась вводить санкции против {secondaryTargetNationNameWithArticle}.
