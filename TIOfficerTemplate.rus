@@ -120,6 +120,7 @@ TIOfficerTemplate.DriveCombatThrustMultiplier=-Добавляет {0} к бое�
 TIOfficerTemplate.MaxSurvivableCombatAcceleration=-Увеличивает максимальное допустимое ускорение корабля в бою на {0} g
 TIOfficerTemplate.MaxSurvivableCruiseAcceleration=-Увеличивает максимальное допустимое ускорение корабля в круизном режиме на {0} g
 TIOfficerTemplate.RadiationDamageReduction=-Снижает урон от радиации, нанесенный энергетическим оружием, на {2}
+TIOfficerTemplate.NoDemotionOnTransfer=-Не потеряет уровень при переводе на другой корабль
 
 TIOfficerTemplate.OfficerShipNameAndJob={0}: {1}, {2}            // название корабля: звание + имя, должность
 TIOfficerTemplate.OfficerNameAndJob={0}, {1}                    // звание + имя, должность

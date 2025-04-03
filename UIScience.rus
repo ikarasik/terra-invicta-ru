@@ -1,108 +1,121 @@
-UI.Science.GlobalPanelHeader=Глобальные исследования
-UI.Science.EngineeringPanelHeader=Инженерные проекты
-UI.Science.OrgProjectRequiredExplainer=Приобретите для одного из ваших советников организацию, дающую право на инженерный проект, чтобы разблокировать эту дополнительную возможность проекта.<br/><br/>Дополнительные организации, дающие право на проект, будут давать бонусы для всех наших проектов.
-UI.Science.HabProjectRequiredExplainer=Постройте модуль в одном из ваших хабов, который дает возможность выполнить инженерный проект, чтобы разблокировать эту дополнительную возможность проекта.<br/><br/>Дополнительные хаб-модули, дающие возможность получить бонусы для всех наших проектов
+UI.Science.ResearchPanelHeader=Исследования и Разработка
+UI.Science.GlobalPanelHeader=Глобальные Исследования
+UI.Science.Research=Исследования
+UI.Science.EngineeringPanelHeader=Проекты в области инженерии {0}
+UI.Science.OrgProjectRequiredExplainer=Получите организацию для одного из ваших советников, которая предоставляет инженерный проект, чтобы разблокировать эту дополнительную возможность проектов.<br/><br/>Дополнительные организации, предоставляющие проекты, будут давать бонусы для всех наших проектов.
+UI.Science.HabProjectRequiredExplainer=Постройте модуль на одном из ваших хабов, который предоставляет инженерный проект, чтобы разблокировать эту дополнительную возможность проектов.<br/><br/>Дополнительные модули хабов, предоставляющие проекты, будут давать бонусы для всех наших проектов.
 UI.Science.Category.Energy=Энергетика
-UI.Science.Category.InformationScience=Информатика
-UI.Science.Category.LifeScience=Биология
-UI.Science.Category.Materials=Материалы
-UI.Science.Category.MilitaryScience=Военное дело
-UI.Science.Category.SocialScience=Социология
-UI.Science.Category.SpaceScience=Освоение космоса
+UI.Science.Category.InformationScience=Информационные технологии
+UI.Science.Category.LifeScience=Биотехнологии
+UI.Science.Category.Materials=Материаловедение
+UI.Science.Category.MilitaryScience=Военные технологии
+UI.Science.Category.SocialScience=Социальные науки
+UI.Science.Category.SpaceScience=Космические науки
 UI.Science.Category.Xenology=Ксенология
-UI.Science.CategoryDescription.Energy=Исследования энергии связаны с изучением физики высоких энергий и электромагнетизма. Сосредоточение внимания на этих технологиях приведет к открытиям в области двигателей, управления питанием и систем оружия направленной энергии.
-UI.Science.CategoryDescription.InformationScience=Информатика — это наука о сборе и анализе информации, в первую очередь с помощью технических средств. Он включает исследования в области вычислений, искусственного интеллекта, автоматизации и сетей.
-UI.Science.CategoryDescription.LifeScience=Технологии наук о жизни касаются выживания людей в космической среде, геномики, медицины и аугментации человека.
-UI.Science.CategoryDescription.Materials=Изучение технологий материаловедения охватывает такие области, как химия, строительство и нанотехнологии.
-UI.Science.CategoryDescription.MilitaryScience=Категория "Военная наука" охватывает вооружение новых технологий и разработку как наземных, так и космических военных доктрин.
-UI.Science.CategoryDescription.SocialScience=Социальные технологии и проекты охватывают широкий спектр человеческих дел: политику, экономику, средства массовой информации и коммуникации, даже сам механизм исследования.
-UI.Science.CategoryDescription.SpaceScience=Изучение космических наук направлено на то, чтобы подготовить нас к исследованию и освоению Солнечной системы.
-UI.Science.CategoryDescription.Xenology=Ксенология касается изучения инопланетян: их биологии, их методов и их общей цели на Земле и в нашей Солнечной системе. Все исследования ксенологии будут осуществляться как частные проекты нашей фракции.
+UI.Science.CategoryDescription.Energy=Исследования в области энергетики касаются изучения физики высоких энергий и электромагнетизма. Углубленное изучение этих технологий приведет к открытиям в генерации энергии и системах оружия с направленной энергией.
+UI.Science.CategoryDescription.InformationScience=Информационные технологии изучают сбор и анализ данных, главным образом с помощью технических средств. Это включает исследования в области вычислений, искусственного интеллекта, автоматизации и сетей.
+UI.Science.CategoryDescription.LifeScience=Технологии в области биотехнологий связаны с выживанием человека в космосе, геномикой, медициной и человеческими улучшениями.
+UI.Science.CategoryDescription.Materials=Исследования в области материаловедения охватывают такие области, как химия, строительство и нанотехнологии.
+UI.Science.CategoryDescription.MilitaryScience=Категория военных технологий включает создание оружия на основе новых технологий и разработку военных доктрин для земных и космических операций.
+UI.Science.CategoryDescription.SocialScience=Технологии и проекты в области социальных наук охватывают широкий спектр человеческой деятельности: политику, экономику, медиа и коммуникации, а также сам механизм исследований.
+UI.Science.CategoryDescription.SpaceScience=Исследования в области космических наук нацелены на подготовку к освоению и развитию Солнечной системы.
+UI.Science.CategoryDescription.Xenology=Ксенология изучает инопланетян: их биологию, методы и общую цель на Земле и в нашей Солнечной системе. Все исследования в области ксенологии будут выполняться как проекты, закрытые для других фракций.
 UI.Science.SelectTechTitle=Выберите технологию для исследования
-UI.Science.SelectTechListText={0}<rcol>{1}{2}</rcol> // отображаемое название технологии, стоимость исследования, спрайт RP</
-UI.Science.SelectTechButton=<size=11>Начать исследование</size>
-UI.Science.ArchivesButton=Архивы
+UI.Science.SelectTechListText={0}<rcol>{1}{2}</rcol>																						// название технологии, стоимость исследования, иконка ОИ
+UI.Science.SelectTechButton=Начать исследование
+UI.Science.ArchivesButton=Архив
 UI.Science.SelectProjectTitle=Выберите инженерный проект
-UI.Science.SelectProjectListText={0}<rcol>{1} / {2}{3}</rcol> // название проекта, текущий прогресс, стоимость исследования, спрайт RP</
+UI.Science.SelectProjectListText={0}<rcol>{1} / {2}{3}</rcol>																// название проекта, текущий прогресс, стоимость исследования, иконка ОИ
 UI.Science.SelectProjectButton=Выбрать проект
-UI.Science.ArchivesOverlayTitle=Архивы исследований Совета
-UI.Science.Panel.EstimatedCompletion= (Предполагаемое завершение: {0}) // Дата завершения, рассчитанная в коде
-UI.Science.Panel.OverallProgress={0} / {1}{2} // накопленное исследование, стоимость исследования, спрайт RP
-UI.Science.Panel.MyFactionContribution={0} внес вклад {1}{2} в это исследование. // название фракции игрока, вклад RP, спрайт RP
-UI.Science.Panel.TechDetailsButton=<size=12>Технические детали</size>
-UI.Science.Panel.TechTreeButton=<size=12>Дерево технологий</size>
-UI.Science.Panel.ProjectDetailsButton=<size=12>Сведения о проекте</size>
-UI.Science.Panel.ChangeProjectButton=<size=12>Изменить проект</size>
-UI.Science.Panel.DailyContributionFraction={0} ({1}{2}/день) // вес фракции в слоте, указывает на слот, спрайт RP
+UI.Science.ArchivesOverlayTitle=Архив исследований Совета
+UI.Science.Panel.EstimatedCompletion= (Ориентировочное завершение: {0})													// дата завершения, рассчитывается в коде
+UI.Science.Panel.OverallProgress={0} / {1}{2}																	// накопленные исследования, стоимость исследования, иконка ОИ
+UI.Science.Panel.MyFactionContribution={0} внесла вклад в размере {1}{2} в это исследование.								// название фракции игрока, вклад в ОИ, иконка ОИ
+UI.Science.Panel.TechDetailsButton=Детали технологии
+UI.Science.Panel.TechTreeButton=Дерево технологий
+UI.Science.Panel.TechTreeButtonShow=Показать в дереве технологий
+UI.Science.Panel.ProjectDetailsButton=Детали проекта
+UI.Science.Panel.ChangeProjectButton=Сменить проект
+UI.Science.Panel.DailyContributionFraction={0} ({1}{2}/день)
 UI.Science.Panel.PositiveBonus=+{0}
-UI.Science.Panel.ResearchTypeTooltip_HQNoBonus=Этот проект исследуется в штаб-квартире {0}. Мы можем увеличить скорость, с которой исследуются наши проекты, путем приобретения нескольких организаций, предоставляющих проекты, и модулей среды обитания. // фракционное прилагательное
-UI.Science.Panel.ResearchTypeTooltip_HQ=Этот проект исследуется в штаб-квартире {0}. Наши организации, предоставляющие проекты, и модули среды обитания обеспечивают бонус {1} к скорости исследования для всех наших проектов. // фракционное прилагательное
-UI.Science.Panel.ResearchTypeTooltip_NoOrgBonus=Приобретите несколько организаций, предоставляющих инженерный проект, чтобы получить бонус к скорости исследования всех наших проектов.
-UI.Science.Panel.ResearchTypeTooltip_NoHabBonus=Создайте несколько жилых модулей, которые предоставляют дополнительные инженерные проекты, чтобы получить бонус к скорости исследований для всех наших проектов.
-UI.Science.Panel.ResearchTypeTooltip_NoOrgBonus2=Приобретите несколько организаций, предоставляющих дополнительные инженерные проекты, чтобы получить бонус к скорости исследований для всех наших проектов. Наши центры в настоящее время предоставляют бонус {0} к скорости исследования для всех наших проектов.
-UI.Science.Panel.ResearchTypeTooltip_NoHabBonus2=Создайте несколько жилых модулей, которые позволят инженерному проекту получить бонус к скорости исследования для всех наших проектов. В настоящее время наши организации предоставляют бонус в размере {0} к скорости исследования для всех наших проектов.
-UI.Science.Panel.ResearchTypeTooltip_OrgsBonus=У наших советников есть организации, которые предоставляют {0} инженерных проектов. Эти организации и наши центры дают бонус {1} к скорости исследования для всех наших проектов.
-UI.Science.Panel.ResearchTypeTooltip_HabsBonus=В наших центрах есть модули, обеспечивающие {0} инженерных проектов. Эти модули и наши организации обеспечивают бонус {1} к скорости исследования для всех наших проектов.
-UI.Science.Panel.TechCategoryTooltip_Bonus=Мы получаем бонус {0} к скорости исследования в {1} из следующих источников:
-UI.Science.Panel.Habs= {0} из модулей хаба
-UI.Science.Panel.Orgs= {0} из организаций
-UI.Science.Panel.Councilors= {0} от советников
-UI.Science.Panel.Investigations= {0} из расследований инопланетной деятельности
-UI.Science.Panel.Fleets= {0} с кораблей
-UI.Science.Panel.DiminishingReturns=Бонусы от жилых модулей, организаций, советников и флотов подлежат уменьшению, если совокупный бонус превышает 50%.
-UI.Science.Panel.TechCategoryTooltip_NoBonus=Мы не получаем никаких бонусов к исследованиям в {0}.
-UI.Science.Panel.TechCategoryTooltip_Malus=Наше исследование {0} технологий в настоящее время замедляется.
-UI.Science.Panel.BonusDistribution=Общий бонус был уменьшен с {0} до {1}, так как с использованием бонуса этой категории ведется несколько расследований.
-UI.Science.Panel.SelectNewTech=Выбрать новую технологию
-UI.Science.Panel.SelectNewProject=Выбрать новый проект
+UI.Science.Panel.ResearchTypeTooltip_HQNoBonus=Этот проект исследуется в штаб-квартире {0}. Мы можем увеличить скорость исследования наших проектов, получив несколько организаций и модулей хабов, предоставляющих проекты. // прилагательное фракции
+UI.Science.Panel.ResearchTypeTooltip_HQ=Этот проект исследуется в штаб-квартире {0}. Наши организации и модули хабов, предоставляющие проекты, обеспечивают бонус {1} к скорости исследования всех наших проектов. // прилагательное фракции
+UI.Science.Panel.ResearchTypeTooltip_NoOrgBonus=Получите несколько организаций, предоставляющих инженерные проекты, чтобы получить бонус к скорости исследования всех наших проектов.
+UI.Science.Panel.ResearchTypeTooltip_NoHabBonus=Постройте несколько модулей хабов, предоставляющих дополнительные инженерные проекты, чтобы получить бонус к скорости исследования всех наших проектов.
+UI.Science.Panel.ResearchTypeTooltip_NoOrgBonus2=Получите несколько организаций, предоставляющих дополнительные инженерные проекты, чтобы получить бонус к скорости исследования всех наших проектов. Наши хабы в данный момент обеспечивают бонус {0} к скорости исследования всех наших проектов.
+UI.Science.Panel.ResearchTypeTooltip_NoHabBonus2=Постройте несколько модулей хабов, предоставляющих инженерные проекты, чтобы получить бонус к скорости исследования всех наших проектов. Наши организации в данный момент обеспечивают бонус {0} к скорости исследования всех наших проектов.
+UI.Science.Panel.ResearchTypeTooltip_OrgsBonus=Наши советники имеют организации, предоставляющие {0} инженерных проектов. Эти организации и наши хабы дают бонус {1} к скорости исследования всех наших проектов.
+UI.Science.Panel.ResearchTypeTooltip_HabsBonus=Наши хабы имеют модули, предоставляющие {0} инженерных проектов. Эти модули и наши организации обеспечивают бонус {1} к скорости исследования всех наших проектов.
+UI.Science.Panel.TechCategoryTooltip_Bonus=Мы получаем бонус {0} к скорости исследования в области {1} от следующих источников:
+UI.Science.Panel.TechCategoryTooltip_Bonus_Other=Эта фракция получает бонус {0} к скорости исследования в области {1} от следующих источников:
+UI.Science.Panel.Habs=   {0} от модулей хабов
+UI.Science.Panel.Orgs=   {0} от организаций
+UI.Science.Panel.Councilors=   {0} от советников
+UI.Science.Panel.Investigations=   {0} от расследований активности инопланетян
+UI.Science.Panel.Fleets=   {0} от кораблей
+UI.Science.Panel.DiminishingReturns=Бонусы от модулей хабов, организаций, советников и флотов подвержены снижению эффективности, если совокупный бонус превышает 50%.
+UI.Science.Panel.TechCategoryTooltip_Malus=Наши исследования технологий в области {0} в настоящее время замедлены.
+UI.Science.Panel.BonusDistribution=Общий бонус был уменьшен с {0} до {1} из-за того, что несколько расследований проводятся с использованием этого бонуса категории.
+UI.Science.Panel.TechCategoryTooltip_NoBonus=Мы не получаем никаких бонусов к исследованиям в области {0}.
+UI.Science.Panel.TechCategoryTooltip_NoBonus_Other=Эта фракция не получает никаких бонусов к исследованиям в области {0}.
+UI.Science.Panel.SelectNewTech=Выберите новую технологию
+UI.Science.Panel.SelectNewProject=Выберите новый проект
 UI.Science.CategoryBonus= Текущий бонус категории: +{0}
 UI.Science.TechTreeHeader=Дерево технологий
-UI.Science.TechTreeSwapButton=<size=11>Посмотреть полное дерево</size>
-UI.Science.TechTreeSimpleButton=<size=11>Посмотреть дерево технологий</size>
-UI.Science.Search=Дерево поиска
-UI.Science.SearchFull=<size=11>Полный поиск</size>
+UI.Science.TechTreeSwapButton=Просмотреть полное дерево
+UI.Science.TechTreeSimpleButton=Просмотреть только дерево технологий
+UI.Science.Search=Поиск в дереве
+UI.Science.SearchFull=Полный поиск
 UI.Science.Or=Или
 UI.Science.Completed=Завершено
-UI.Science.CompletedRepeat=Завершено/Повторяется
-UI.Science.InProgress=Выполняется ({0}/{1})
+UI.Science.CompletedRepeat=Завершено/Повторяемое
+UI.Science.InProgress=({0}/{1})
 UI.Science.NotStarted=(0/{0})
 UI.Science.RequiredNation=Требуется {0}
-UI.Science.RequiredCPs=Требуется наличие контрольной точки в {0}
-UI.Science.CompletionUnlockedTech=Теперь можно исследовать следующие технологии:
-UI.Science.CompletionUnlockedProject=<color=#969696>Следующие проекты могут быть разблокированы для исследования в будущем:</color>
-UI.Science.CompletionWillUnlock=<color=#969696>Завершение откроет доступ к следующим технологиям и проектам для исследования:</color>
-UI.Science.PrereqFor.Or.Tech=<color=#969696>Это один из возможных путей разблокировки следующих глобальных технологий:</color>
-UI.Science.PrereqFor.And.Tech=<color=#969696>Это требование для следующих глобальных технологий:</color>
-UI.Science.PrereqFor.Or.Project=<color=#969696>Это один из возможных способов разблокировать проекты следующих фракций:</color>
-UI.Science.PrereqFor.And.Project=<color=#969696>Это требование для следующих фракционных проектов:</color>
-UI.Science.UniqueProject=Этот проект может быть завершен только один раз любой фракцией. Если другая фракция закончит ее первой, мы потеряем весь прогресс.
-UI.Science.Repeating=Это повторяемый проект. Необходимое исследование для его завершения увеличивается на {0} каждый раз, когда оно повторяется.
-UI.Science.UnlocksClaim={0} получает права на следующие регионы: {1}
-UI.Science.CapitalClaim=<sp>Столичным регионом страны {0} является {1}.
-UI.Science.UnlocksFriendlyAdjacency={0} регион теперь подключен к {1} для дружественного трафика
-UI.Science.UnlocksAllAdjacency={0} регион теперь подключен к {1} для всего трафика
-UI.Science.FulfillsObjective=Выполняет цель: {0}
-UI.Science.Spinoff=Выделение новой организации в фракционный пул
+UI.Science.RequiredCPs=Требуется контрольная точка в {0}
+UI.Science.CompletionUnlockedTech=Следующие технологии теперь доступны для исследования:
+UI.Science.CompletionUnlockedProject=Следующие проекты могут быть разблокированы для исследования в будущем. Также показан наш текущий шанс разблокировать проект после выполнения всех предварительных условий.
+UI.Science.CompletionWillUnlock=Завершение может разблокировать следующие технологии и проекты для исследования:
+UI.Science.PrereqFor.Or.Tech=Это один из возможных путей для разблокировки следующих глобальных технологий:
+UI.Science.PrereqFor.And.Tech=Это требование для следующих глобальных технологий:
+UI.Science.PrereqFor.Or.Project=Это один из возможных путей для разблокировки следующих проектов фракции:
+UI.Science.PrereqFor.And.Project=Это требование для следующих проектов фракции:
+UI.Science.UniqueProject=Этот проект может быть завершен только один раз любой фракцией. Если другая фракция завершит его первой, мы потеряем весь прогресс. Глобальные эффекты от проектов (например, новые претензии) будут доступны всем фракциям, и все фракции смогут исследовать связанные проекты, разблокированные этим проектом, если они соответствуют требованиям.
+UI.Science.Repeating=Это повторяемый проект. Необходимое исследование для его завершения увеличивается на {0}{2} каждый раз, когда он повторяется. Следующая попытка выполнения этого проекта будет стоить {1}{2}.
+UI.Science.UnlocksClaim={0} получает претензию на следующие регионы: {1}.
+UI.Science.CapitalClaim=<sp>Национальная столичная область {0} — {1}.
+UI.Science.UnlocksFriendlyAdjacency=-Район {0} теперь соединен с {1} для дружественного трафика.
+UI.Science.UnlocksAllAdjacency=-Район {0} теперь соединен с {1} для всего трафика.
+UI.Science.FulfillsObjective=Выполняет задачу: {0}
+UI.Science.Spinoff=Создает новую организацию в пуле фракции.
 UI.Science.GrantsResources=Предоставляет следующие ресурсы: {0}
-UI.Science.UnlocksHabModules=<color=#969696>Разрешает строительство следующих модулей хаба:</color>
-UI.Science.UnlocksShipComponents=<color=#969696>Разрешает строительство следующих компонентов корабля:</color>
-UI.Science.UnlocksCouncilorUpgrades=<color=#969696>Позволяет усиливать наших советников следующими кибернетическими имплантатами:</color>
-UI.Science.UnlocksCodexEntries=Обновлен Кодекс с новой информацией:
-UI.Science.UnlockDetails=Подробности о модулях, разблокированных этим проектом:
-UI.Science.SortAscend=<size=10>Сортировать по возрастанию</size>
-UI.Science.SortObsolete=Показать устаревшее
-UI.Science.ObsoleteTooltip=Отметить устаревшее
+UI.Science.UnlocksHabModules=Позволяет строить следующие модули хабов:
+UI.Science.UnlocksShipComponents=Позволяет строить следующие компоненты кораблей:
+UI.Science.UnlocksCouncilorUpgrades=Позволяет улучшать наших советников следующими кибернетическими имплантатами:
+UI.Science.UnlocksCodexEntries=Кодекс обновлен новой информацией:
+UI.Science.UnlockDetails=Детали модулей, разблокированных этим проектом:
+UI.Science.SortAscend=Сортировать по возрастанию
+UI.Science.SortObsolete=Показать устаревшие
+UI.Science.ObsoleteTooltip=Отметить как устаревшее
 UI.Science.FavoriteTooltip=Отметить как избранное
-UI.Science.ArrangeBy=<size=13>Упорядочить по:</size>
-UI.Science.Name=Имя
+UI.Science.ArrangeBy=Упорядочить по:
+UI.Science.Name=Название
 UI.Science.Category=Категория
 UI.Science.Cost=Стоимость
-UI.Science.LeaderTip=Ученые этой фракции внесли наибольший вклад в открытие этой новой технологии. Тот, кто вносит наибольший вклад в исследование данной глобальной технологии, выбирает следующую технологию для исследования.<br/><br/>Показанное значение представляет собой долю всех исследований, выполненных до сих пор этой фракцией.
+UI.Science.LeaderTip=Ученые этой фракции внесли наибольший вклад в разблокировку этой новой технологии. Фракция, которая вносит наибольший вклад в исследование глобальной технологии, выбирает следующую технологию для исследования, и все участники увеличивают свои шансы на разблокировку проектов, связанных с этой технологией.<br/><br/>Показанное значение — это доля всех исследований, выполненных этой фракцией.
 UI.Science.UnlockChance=<sp>({0})
 UI.Science.ProjectStatus1=Этот проект завершен.
 UI.Science.ProjectStatus2=Этот проект частично исследован.
 UI.Science.ProjectStatus3=Этот проект доступен для исследования.
 UI.Science.ProjectStatus4=Наши ученые готовят этот проект к исследованию.
 UI.Science.ProjectStatus5=Наши ученые отказались от этого проекта.
-UI.Science.ProjectStatus6=У этого проекта {0} шансов на разблокировку для исследования после выполнения всех необходимых условий.
-UI.Science.StationWeapon={0} будет развернут на модулях оборонительных станций уровня {1}.
+UI.Science.ProjectStatus6=Этот проект имеет шанс {0} быть разблокированным для нас после выполнения всех его предварительных условий.
+UI.Science.StationWeapon={0} будет развернуто на модулях оборонной станции уровня {1}.
+UI.Science.UnlocksOrgs=Эта технология разблокирует новые организации, доступные на рынке.
+UI.Science.EffectsTabText=Модификаторы фракции
+UI.Science.EffectsPanelHeader=Модификаторы исследований и событий
+UI.Science.EffectsPanelExplainer=Эта панель показывает все постоянные эффекты, которые наша фракция получила от исследований и различных событий в игре. Выберите категорию модификаторов в меню слева, чтобы увидеть все накопленные модификаторы и эффекты для этой категории. Если показано несколько эффектов, они все действуют, и значения суммируются, если только не указаны эффекты с зеленым и красным текстом, где зеленый эффект имеет приоритет.
+UI.Science.EffectTemporary=<sp> (Временный)
+UI.Science.Requires=Требования
+UI.Science.Unlocks=Разблокировки
+UI.Science.UnlockChanceFull=Шанс разблокировки {0}
