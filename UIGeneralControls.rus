@@ -1,4 +1,4 @@
-UI.GeneralControls.Objectives=Цели {0}																		  		// прилагательное для фракции
+UI.GeneralControls.Objectives=Цели {0}																			  		// прилагательное для фракции
 UI.GeneralControls.ResourcesGain={0}+{1}																				// значение + ежедневный прирост
 UI.GeneralControls.ResourcesLoss={0}{1}																					// значение, ежедневный прирост
 UI.GeneralControls.ResourcesSmallLoss={0}-{1}																			// значение, ежедневный прирост. Этот формат компенсирует удаление знака минуса для отрицательных значений, которые усечены форматом "N2".
