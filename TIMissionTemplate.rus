@@ -14,9 +14,9 @@ TIMissionTemplate.CriticalFailure.GainInfluence=Я столкнулся с се�
 
 TIMissionTemplate.displayName.Propaganda=Общественная кампания
 TIMissionTemplate.description.Propaganda=Увеличьте общественную поддержку нашей цели в нации.
-TIMissionTemplate.CriticalSuccess.Propaganda=Я увеличил популярную поддержку {myFactionName} {targetNationNameWithPrep}. {returnedValue}
-TIMissionTemplate.Success.Propaganda=Я увеличил популярную поддержку {myFactionName} {targetNationNameWithPrep}. {returnedValue}
-TIMissionTemplate.Failure.Propaganda=Моя миссия {missionName} {targetNationNameWithPrep} не смогла повлиять на популярную поддержку.
+TIMissionTemplate.CriticalSuccess.Propaganda=Я увеличил общественную поддержку {myFactionName} {targetNationNameWithPrep}. {returnedValue}
+TIMissionTemplate.Success.Propaganda=Я увеличил общественную поддержку {myFactionName} {targetNationNameWithPrep}. {returnedValue}
+TIMissionTemplate.Failure.Propaganda=Моя миссия {missionName} {targetNationNameWithPrep} не смогла повлиять на общественную поддержку.
 TIMissionTemplate.CriticalFailure.Propaganda=Моя миссия {missionName} {targetNationNameWithPrep} оказалась катастрофой! {returnedValue
 
 TIMissionTemplate.displayName.Purge=Чистка
@@ -99,7 +99,7 @@ TIMissionTemplate.BonusEffect.Detain=Мы также сорвали миссию
 TIMissionTemplate.DetentionEnd.Detain=Мы можем удерживать этого советника до {0}. Мы можем повторно задерживать его для продления срока содержания.
 TIMissionTemplate.Detain.DetainAlien=Наши допросы дадут значительный бонус к нашему ксенологическому исследованию.
 
-TIMissionTemplate.displayName.DetectCouncilActivity=Наблюдение за деятельностью совета
+TIMissionTemplate.displayName.DetectCouncilActivity=Обнаружение
 TIMissionTemplate.description.DetectCouncilActivity=Существенно увеличивает вероятность обнаружения вражеских советников и инопланетян в регионе советника и соседних регионах, либо на базе или флоте. Может также выявить скрытые инопланетные объекты в близлежащих регионах Земли.
 TIMissionTemplate.Success.DetectCouncilActivity=Я ищу наших врагов {targetDisplayNameSent}.
 
@@ -132,7 +132,7 @@ TIMissionTemplate.Success.EnthrallUnalignedElites=Наши человеческ�
 TIMissionTemplate.Failure.EnthrallUnalignedElites=Нам не удалось подчинить лидеров {targetNationNameWithPrep}.  
 TIMissionTemplate.CriticalFailure.EnthrallUnalignedElites=Нам не удалось подчинить лидеров {targetNationNameWithPrep}, и, возможно, наши действия были обнаружены.  
 
-TIMissionTemplate.displayName.Extract=Извлечь советника  
+TIMissionTemplate.displayName.Extract=Освободить советника  
 TIMissionTemplate.description.Extract=Освободите одного из наших задержанных советников из вражеского плена.  
 TIMissionTemplate.CriticalSuccess.Extract=Мы освободили {targetDisplayName} из вражеского плена. Во время операции мы получили тайник разведданных о их похитителях.  
 TIMissionTemplate.Success.Extract=Мы освободили {targetDisplayName} из вражеского плена.  
@@ -143,7 +143,7 @@ TIMissionTemplate.displayName.GoToGround=Уйти в подполье
 TIMissionTemplate.description.GoToGround=Скрыться в регионе Земли, чтобы избежать обнаружения и атак врага.  
 TIMissionTemplate.Success.GoToGround=Я скрываюсь в {targetRegionName}.  
 
-TIMissionTemplate.displayName.HostileTakeover=Враждебное поглощение  
+TIMissionTemplate.displayName.HostileTakeover=Захват организации
 TIMissionTemplate.description.HostileTakeover=Захватите организацию у вражеского советника для нашего использования. Также могут быть нацелены организации фракций, не назначенные советникам. Некоторые уникальные организации фракций недоступны.  
 TIMissionTemplate.CriticalSuccess.HostileTakeover=Наша попытка враждебного поглощения против {targetDisplayName} из {targetFactionName} оказалась чрезвычайно успешной. Помимо захвата одной из их организаций, мы также получили {returnedValue} в результате.  
 TIMissionTemplate.Success.HostileTakeover=Наша попытка враждебного поглощения против {targetDisplayName} из {targetFactionName} прошла успешно.  
