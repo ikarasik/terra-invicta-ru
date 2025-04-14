@@ -2,11 +2,11 @@ TIUtilityModuleTemplate.displayName.ISRUModule=Модуль ISRU
 TIUtilityModuleTemplate.description.ISRUModule=Модуль использования ресурсов на месте (ISRU) позволяет кораблям пополнять запасы топлива на неоснащённых обитаемых объектах, которые производят все необходимые для топлива корабля сырьевые материалы. Корабли, у которых в качестве топлива указано <h>что угодно</h>, могут пополнять запасы топлива в любых точках. Запрещено для кораблей, использующих антиматерию в качестве топлива.
 TIUtilityModuleTemplate.displayName.RemassScoop=Захват массы
 TIUtilityModuleTemplate.description.RemassScoop=Захват массы придаёт кораблю аэродинамические свойства, предотвращая повреждения от аэродинамического торможения, и позволяет пополнять запасы топлива из <color=#FFFFFFFF><sprite name="water"></color>, если в составе топлива указан <h>водород</h>, с орбит юпитерианских планет. Корабли, у которых в качестве топлива указано <h>что угодно</h>, также могут пополнять запасы топлива на орбитах юпитерианских планет.
-TIUtilityModuleTemplate.displayName.MuonSpiker=Мюонный ускоритель
+TIUtilityModuleTemplate.displayName.MuonSpiker=Мюонный катализатор
 TIUtilityModuleTemplate.description.MuonSpiker=Мюоны катализируют реакции термоядерного синтеза, давая {1} бонус к тяге для термоядерных двигателей.
-TIUtilityModuleTemplate.displayName.NeutroniumSpiker=Нейтрониевый ускоритель
+TIUtilityModuleTemplate.displayName.NeutroniumSpiker=Нейтрониевый катализатор
 TIUtilityModuleTemplate.description.NeutroniumSpiker=Генерируется небольшое количество свободных нейтронов, которые используются для катализа ядерных реакций, давая {1} бонус к тяге для двигателей на делении.
-TIUtilityModuleTemplate.displayName.AntimatterSpiker=Антиматериальный ускоритель
+TIUtilityModuleTemplate.displayName.AntimatterSpiker=Антиматериальный катализатор
 TIUtilityModuleTemplate.description.AntimatterSpiker=Малые количества антиматерии хранятся и используются для катализа ядерных реакций, давая {1} бонус к тяге для двигателей на делении и термоядерных двигателей.
 TIUtilityModuleTemplate.displayName.MobileSpaceScienceLab=Мобильная космическая научная лаборатория
 TIUtilityModuleTemplate.description.MobileSpaceScienceLab=Научная команда присоединяется к экипажу, предоставляя {5} бонус к исследованиям в области космических наук и позволяя кораблю проводить исследования космических тел для определения подходящих мест для баз с орбитального интерфейса.
