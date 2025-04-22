@@ -1,5 +1,5 @@
 UI.Army.Header=Армия
-UI.Army.Idle=На марше
+UI.Army.Idle=Ожидает
 UI.Army.InBattle=В бою
 UI.Army.Occupying=Оккупирует регион ({0})
 UI.Army.DeployDescription=Передвигается в {0} регион, прибытие через {1}
