@@ -960,7 +960,7 @@ TINarrativeEventTemplate.event_MethaneEruption.option1=Направить ком
 TINarrativeEventTemplate.event_MethaneEruption.optionDetail1=<skip/>
 TINarrativeEventTemplate.event_MethaneEruption.optionResult1={actorNameWithArticleCap} направил команду для изучения выброса метана {targetRegionNameSentIn}.
 
-TINarrativeEventTemplate.displayName.event_WetBulb=Катастрофа влажного термометра
+TINarrativeEventTemplate.displayName.event_WetBulb=Смертельная жара
 TINarrativeEventTemplate.event_WetBulb.summary=Продолжительная жара в сочетании с крайне высокой влажностью {targetRegionNameSentIn} вызывает значительное количество смертей.
 TINarrativeEventTemplate.event_WetBulb.query=Настолько жарко и влажно, что люди не могут охлаждаться с помощью потоотделения. Только те, кому повезло иметь кондиционеры, находятся в безопасности.
 TINarrativeEventTemplate.event_WetBulb.option0=Жертвы изменения климата.
