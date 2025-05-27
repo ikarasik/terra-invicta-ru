@@ -152,8 +152,6 @@ UI.StartScreen.CustomizeCampaign.AverageMonthlyEventsTooltip=Количеств�
 UI.StartScreen.CustomizeCampaign.CampaignPresetRapid=Быстрая кампания
 UI.StartScreen.CustomizeCampaign.CampaignPresetLong=Длинная кампания по умолчанию
 UI.StartScreen.Cancel=Отмена
-UI.StartScreen.FactionDifficult=(Сложно)
-UI.StartScreen.FactionEasy=(Легко)
 UI.StartScreen.FactionDescription={0}<br/>{1}
 UI.StartScreen.Wiki=Вики
 UI.StartScreen.Discord=Discord
@@ -266,6 +264,7 @@ UI.StartScreen.TICredits_101=Matthew Williams • Nick Aquilina • Kevin Spiess
 UI.StartScreen.TICredits_102=Perun • Jonathan T. Beard • Haruhi is Waifu<br/>
 UI.StartScreen.TICredits_103=KazaaakplethKilik • Mosslander Gamers • Sky Lo<br/>
 UI.StartScreen.TICredits_104=Mike Laidlaw • Jesus Millet • Michael Albert Huber<br/><br/>
+
 UI.StartScreen.TICredits_105=KICKSTARTER P
 
 UI.StartScreen.TICredits_106=PLAYTESTERS<br/>
