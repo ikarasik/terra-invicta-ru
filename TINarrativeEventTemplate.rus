@@ -433,7 +433,7 @@ TINarrativeEventTemplate.event_GlobalCropFailures.optionResult0={summary}
 
 TINarrativeEventTemplate.displayName.event_SelectManagementTeam=Выбрать управленческую команду
 TINarrativeEventTemplate.event_SelectManagementTeam.summary=Теперь мы можем нанять управленческую команду для нашей фракции.
-TINarrativeEventTemplate.event_SelectManagementTeam.query=В процессе создания {actingFactionAdjective} операций мы формируем управленческую команду для наблюдения за нашей деятельностью. Хотя мы набираем сотрудников из различных областей, по вашему указанию мы будем делать упор на одну из них.
+TINarrativeEventTemplate.event_SelectManagementTeam.query=В процессе становления операций {actingFactionAdjective} мы формируем управленческую команду для наблюдения за нашей деятельностью. Хотя мы набираем сотрудников из различных областей, по вашему указанию мы будем делать упор на одну из них.
 TINarrativeEventTemplate.event_SelectManagementTeam.option0=Лоббисты и инфлюенсеры.
 TINarrativeEventTemplate.event_SelectManagementTeam.optionDetail0=<skip/>
 TINarrativeEventTemplate.event_SelectManagementTeam.optionResult0={actorNameWithArticleCap} сформировал свою управленческую команду с акцентом на политическое влияние.
@@ -2203,7 +2203,7 @@ TINarrativeEventTemplate.event_SpeakingOut.optionResult3={actorNameWithArticleCa
 
 TINarrativeEventTemplate.displayName.event_CriminalFavors=Услуги криминального мира  
 TINarrativeEventTemplate.event_CriminalFavors.summary={targetCouncilorFullName} должен был покончить с такой жизнью.  
-TINarrativeEventTemplate.event_CriminalFavors.query=Однако, как спокойно объясняет вежливый человек с эспаньолкой, сидящий напротив {targetCouncilorObjectivePronoun}, всё не так просто. {targetCouncilorFullName} накопил определённые долги и обязательства в криминальном мире, и простая работа на {actorNameWithArticle} теперь этого не изменит.<br/><br/>Тем не менее, это будет совсем несложно. Не о чем беспокоиться. Просто небольшая услуга в память о старых временах.  
+TINarrativeEventTemplate.event_CriminalFavors.query=Однако, как спокойно объясняет вежливый человек с эспаньолкой, сидящий напротив, всё не так просто. {targetCouncilorFullName} накопил определённые долги и обязательства в криминальном мире, и простая работа на {actorNameWithArticle} теперь этого не изменит.<br/><br/>Тем не менее, это будет совсем несложно. Не о чем беспокоиться. Просто небольшая услуга в память о старых временах.  
 TINarrativeEventTemplate.event_CriminalFavors.option0={targetCouncilorFullName} больше не занимается таким.  
 TINarrativeEventTemplate.event_CriminalFavors.optionDetail0=<skip/>  
 TINarrativeEventTemplate.event_CriminalFavors.option0.outcome0=Ничего не произошло.  
@@ -2440,7 +2440,7 @@ TINarrativeEventTemplate.event_Superfood.optionResult2={summary}
 
 TINarrativeEventTemplate.displayName.event_PersonalLegacy=Личное наследие
 TINarrativeEventTemplate.event_PersonalLegacy.summary=Крайне состоятельный личный друг {targetCouncilorFullName} приближается к концу своей жизни.
-TINarrativeEventTemplate.event_PersonalLegacy.query=Они являются давними филантропами и решили обеспечить продолжение своей работы, сосредоточив большую часть своих активов в одном из основанных ими благотворительных организаций. Они попросили {targetCouncilorFullName} войти в его совет директоров и хотят узнать, какое из благотворительных направлений, по мнению {targetCouncilorPossessivePronoun}, больше всего заслуживает дополнительного финансирования.
+TINarrativeEventTemplate.event_PersonalLegacy.query=Он давно занимается благотворительностью и решил обеспечить продолжение своей работы, сосредоточив большую часть своих активов в одном из основанных им благотворительных организаций. Он попросил {targetCouncilorFullName} войти в его совет директоров и хочет узнать, какое из благотворительных направлений, по {targetCouncilorPossessivePronoun} мнению, больше всего заслуживает дополнительного финансирования.
 TINarrativeEventTemplate.event_PersonalLegacy.option0=Некоммерческая организация, занимающаяся предоставлением продовольственной помощи в развивающихся странах.
 TINarrativeEventTemplate.event_PersonalLegacy.optionDetail0=<skip/>
 TINarrativeEventTemplate.event_PersonalLegacy.optionResult0=Состоятельный друг {targetCouncilorFullName} посвятил свое наследие их продовольственной благотворительной организации.
@@ -3098,7 +3098,7 @@ TINarrativeEventTemplate.event_Marked_Combat_III.option0.outcome1.Summary={targe
 TINarrativeEventTemplate.event_Marked_Combat_III.option0.outcome1.Detail={targetCouncilorFullName} предпринял дерзкую попытку устранить криминального авторитета на его праздничном ужине, но погиб в ходе боя.
 
 TINarrativeEventTemplate.displayName.event_InformationLeak=Утечка информации
-TINarrativeEventTemplate.event_InformationLeak.summary=Чувствительные военные секреты были утекли из {secondaryTargetNationName}.
+TINarrativeEventTemplate.event_InformationLeak.summary=Чувствительные военные секреты утекли из {secondaryTargetNationName}.
 TINarrativeEventTemplate.event_InformationLeak.query=Утечки показывают, что {secondaryTargetNationName} шпионили за своими ближайшими союзниками, факт, который многим известен, но никто не хочет признавать публично. Что еще хуже, эти утечки раскрывают ключевые детали военных планов, уровня поставок и другие секреты их союзников. Утечки, похоже, произошли в каком-то онлайн-чатруме.<br/><br/>Из-за нашего влияния на {secondaryTargetNationName} это плохо отражается на {targetFactionName}. Придется принять меры.
 TINarrativeEventTemplate.event_InformationLeak.option0=Сделать стандартное извинение.
 TINarrativeEventTemplate.event_InformationLeak.optionDetail0=Это неубедительно, но ожидаемо.
