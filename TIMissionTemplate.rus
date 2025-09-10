@@ -17,7 +17,7 @@ TIMissionTemplate.description.Propaganda=Увеличьте общественн
 TIMissionTemplate.CriticalSuccess.Propaganda=Я увеличил общественную поддержку {myFactionName} {targetNationNameWithPrep}. {returnedValue}
 TIMissionTemplate.Success.Propaganda=Я увеличил общественную поддержку {myFactionName} {targetNationNameWithPrep}. {returnedValue}
 TIMissionTemplate.Failure.Propaganda=Моя миссия {missionName} {targetNationNameWithPrep} не смогла повлиять на общественную поддержку.
-TIMissionTemplate.CriticalFailure.Propaganda=Моя миссия {missionName} {targetNationNameWithPrep} оказалась катастрофой! {returnedValue
+TIMissionTemplate.CriticalFailure.Propaganda=Моя миссия {missionName} {targetNationNameWithPrep} оказалась катастрофой! {returnedValue}
 
 TIMissionTemplate.displayName.Purge=Чистка
 TIMissionTemplate.description.Purge=Захватите контрольную точку у вражеской фракции.
