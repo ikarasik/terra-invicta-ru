@@ -9,11 +9,11 @@ TINationTemplate.displayNameWithArticlePrep.AGO=в Анголе
 TINationTemplate.displayName.AKA=Аляска
 TINationTemplate.displayNameWithArticle.AKA=Аляска
 TINationTemplate.nationAdjective.AKA=Аляскинский
-TINationTemplate.displayNameWithArticlePrep.AKA=на Аляске
-TINationTemplate.displayName.ALN=Администрация пришельцев
-TINationTemplate.displayNameWithArticle.ALN=Администрация пришельцев
-TINationTemplate.nationAdjective.ALN=Пришельческий
-TINationTemplate.displayNameWithArticlePrep.ALN=в Администрации пришельцев
+TINationTemplate.displayNameWithArticlePrep.AKA=в Аляске
+TINationTemplate.displayName.ALN=Инопланетная администрация
+TINationTemplate.displayNameWithArticle.ALN=инопланетная администрация
+TINationTemplate.nationAdjective.ALN=Инопланетный
+TINationTemplate.displayNameWithArticlePrep.ALN=в инопланетной нации
 TINationTemplate.displayName.ALP=Австрия
 TINationTemplate.displayNameWithArticle.ALP=Австрия
 TINationTemplate.nationAdjective.ALP=Австрийский
@@ -28,40 +28,37 @@ TINationTemplate.nationAdjective.ASM=Ассамский
 TINationTemplate.displayNameWithArticlePrep.ASM=в Ассаме
 TINationTemplate.displayName.ATZ=Ацтлан
 TINationTemplate.displayNameWithArticle.ATZ=Ацтлан
-TINationTemplate.nationAdjective.ATZ=Ацтланский
+TINationTemplate.nationAdjective.ATZ=Ацтлан
 TINationTemplate.displayNameWithArticlePrep.ATZ=в Ацтлане
 TINationTemplate.displayName.AUS=Австралия
 TINationTemplate.displayNameWithArticle.AUS=Австралия
 TINationTemplate.nationAdjective.AUS=Австралийский
 TINationTemplate.displayNameWithArticlePrep.AUS=в Австралии
-TINationTemplate.displayName.BAS=Балтийские страны
-TINationTemplate.displayNameWithArticle.BAS=Балтийские страны
-TINationTemplate.nationAdjective.BAS=Балтийский
-TINationTemplate.displayNameWithArticlePrep.BAS=в Балтийских странах
-TINationTemplate.displayName.BCH=Белуджистан
-TINationTemplate.displayNameWithArticle.BCH=Белуджистан
-TINationTemplate.nationAdjective.BCH=Белуджский
-TINationTemplate.displayNameWithArticlePrep.BCH=в Белуджистане
+
+TINationTemplate.displayName.BCH=Балохистан
+TINationTemplate.displayNameWithArticle.BCH=Балохистан
+TINationTemplate.nationAdjective.BCH=Балохи
+TINationTemplate.displayNameWithArticlePrep.BCH=в Балохистане
 TINationTemplate.displayName.BGD=Бангладеш
 TINationTemplate.displayNameWithArticle.BGD=Бангладеш
 TINationTemplate.nationAdjective.BGD=Бангладешский
 TINationTemplate.displayNameWithArticlePrep.BGD=в Бангладеш
 TINationTemplate.displayName.BIA=Биафра
 TINationTemplate.displayNameWithArticle.BIA=Биафра
-TINationTemplate.nationAdjective.BIA=Биафрийский
+TINationTemplate.nationAdjective.BIA=Биафранский
 TINationTemplate.displayNameWithArticlePrep.BIA=в Биафре
 TINationTemplate.displayName.BLR=Беларусь
 TINationTemplate.displayNameWithArticle.BLR=Беларусь
 TINationTemplate.nationAdjective.BLR=Белорусский
-TINationTemplate.displayNameWithArticlePrep.BLR=в Белорусии
+TINationTemplate.displayNameWithArticlePrep.BLR=в Беларуси
 TINationTemplate.displayName.BOL=Боливия
 TINationTemplate.displayNameWithArticle.BOL=Боливия
 TINationTemplate.nationAdjective.BOL=Боливийский
 TINationTemplate.displayNameWithArticlePrep.BOL=в Боливии
-TINationTemplate.displayName.BOR=Борнео
-TINationTemplate.displayNameWithArticle.BOR=Борнео
-TINationTemplate.nationAdjective.BOR=Борнейский
-TINationTemplate.displayNameWithArticlePrep.BOR=на Борнео
+TINationTemplate.displayName.BOR=Бирма
+TINationTemplate.displayNameWithArticle.BOR=Бирма
+TINationTemplate.nationAdjective.BOR=Бирманский
+TINationTemplate.displayNameWithArticlePrep.BOR=в Бирме
 TINationTemplate.displayName.BRA=Бразилия
 TINationTemplate.displayNameWithArticle.BRA=Бразилия
 TINationTemplate.nationAdjective.BRA=Бразильский
@@ -94,18 +91,11 @@ TINationTemplate.displayName.CAT=Каталония
 TINationTemplate.displayNameWithArticle.CAT=Каталония
 TINationTemplate.nationAdjective.CAT=Каталонский
 TINationTemplate.displayNameWithArticlePrep.CAT=в Каталонии
-TINationTemplate.displayName.CAB=Карибские государства
-TINationTemplate.displayNameWithArticle.CAB=Карибские государства
+TINationTemplate.displayName.CAB=Меньшие Антильские Штаты
+TINationTemplate.displayNameWithArticle.CAB=Меньшие Антильские Штаты
 TINationTemplate.nationAdjective.CAB=Карибский
-TINationTemplate.displayNameWithArticlePrep.CAB=в Карибских государствах
-TINationTemplate.displayName.CCS=Кавказские государства
-TINationTemplate.displayNameWithArticle.CCS=Кавказские государства
-TINationTemplate.nationAdjective.CCS=Кавказские государства
-TINationTemplate.displayNameWithArticlePrep.CCS=в Кавказских государствах
-TINationTemplate.displayName.CEU=Центральноевропейские государства
-TINationTemplate.displayNameWithArticle.CEU=Центральноевропейские государства
-TINationTemplate.nationAdjective.CEU=Центральноевропейский
-TINationTemplate.displayNameWithArticlePrep.CEU=в Центральноевропейских государствах
+TINationTemplate.displayNameWithArticlePrep.CAB=в Меньших Антильских
+
 TINationTemplate.displayName.CHL=Чили
 TINationTemplate.displayNameWithArticle.CHL=Чили
 TINationTemplate.nationAdjective.CHL=Чилийский
@@ -116,35 +106,35 @@ TINationTemplate.nationAdjective.CHN=Китайский
 TINationTemplate.displayNameWithArticlePrep.CHN=в Китае
 TINationTemplate.displayName.COD=Конго
 TINationTemplate.displayNameWithArticle.COD=Конго
-TINationTemplate.nationAdjective.COD=Конголезский
+TINationTemplate.nationAdjective.COD=Конголезец
 TINationTemplate.displayNameWithArticlePrep.COD=в Конго
 TINationTemplate.displayName.COL=Колумбия
 TINationTemplate.displayNameWithArticle.COL=Колумбия
 TINationTemplate.nationAdjective.COL=Колумбийский
 TINationTemplate.displayNameWithArticlePrep.COL=в Колумбии
-TINationTemplate.displayName.CPH=Халифат
-TINationTemplate.displayNameWithArticle.CPH=Халифат
-TINationTemplate.nationAdjective.CPH=Халифатский
-TINationTemplate.displayNameWithArticlePrep.CPH=в Халифате
+TINationTemplate.displayName.CPH=Калифат
+TINationTemplate.displayNameWithArticle.CPH=Калифат
+TINationTemplate.nationAdjective.CPH=Калифат
+TINationTemplate.displayNameWithArticlePrep.CPH=в Калифате
 TINationTemplate.displayName.CSA=Доминион Америки
 TINationTemplate.displayNameWithArticle.CSA=Доминион Америки
-TINationTemplate.nationAdjective.CSA=Доминионский
+TINationTemplate.nationAdjective.CSA=Доминион
 TINationTemplate.displayNameWithArticlePrep.CSA=в Доминионе Америки
 TINationTemplate.displayName.CSD=Каскадия
 TINationTemplate.displayNameWithArticle.CSD=Каскадия
-TINationTemplate.nationAdjective.CSD=Каскадский
+TINationTemplate.nationAdjective.CSD=Каскадийский
 TINationTemplate.displayNameWithArticlePrep.CSD=в Каскадии
 TINationTemplate.displayName.CUB=Куба
 TINationTemplate.displayNameWithArticle.CUB=Куба
-TINationTemplate.nationAdjective.CUB=Кубинский
-TINationTemplate.displayNameWithArticlePrep.CUB=на Кубе
+TINationTemplate.nationAdjective.CUB=Кубинец
+TINationTemplate.displayNameWithArticlePrep.CUB=в Кубе
 TINationTemplate.displayName.DEN=Дания
 TINationTemplate.displayNameWithArticle.DEN=Дания
 TINationTemplate.nationAdjective.DEN=Датский
 TINationTemplate.displayNameWithArticlePrep.DEN=в Дании
 TINationTemplate.displayName.DEU=Восточная Германия
 TINationTemplate.displayNameWithArticle.DEU=Восточная Германия
-TINationTemplate.nationAdjective.DEU=Восточногерманский
+TINationTemplate.nationAdjective.DEU=Восточно-германский
 TINationTemplate.displayNameWithArticlePrep.DEU=в Восточной Германии
 TINationTemplate.displayName.DVD=Дравида Наду
 TINationTemplate.displayNameWithArticle.DVD=Дравида Наду
@@ -152,19 +142,19 @@ TINationTemplate.nationAdjective.DVD=Дравида Наду
 TINationTemplate.displayNameWithArticlePrep.DVD=в Дравида Наду
 TINationTemplate.displayName.DZA=Алжир
 TINationTemplate.displayNameWithArticle.DZA=Алжир
-TINationTemplate.nationAdjective.DZA=Алжирский
+TINationTemplate.nationAdjective.DZA=Алжирец
 TINationTemplate.displayNameWithArticlePrep.DZA=в Алжире
 TINationTemplate.displayName.EBK=Восточные Балканские государства
 TINationTemplate.displayNameWithArticle.EBK=Восточные Балканы
-TINationTemplate.nationAdjective.EBK=Восточно-Балканский
+TINationTemplate.nationAdjective.EBK=Восточно-балканский
 TINationTemplate.displayNameWithArticlePrep.EBK=в Восточных Балканах
 TINationTemplate.displayName.ECU=Эквадор
 TINationTemplate.displayNameWithArticle.ECU=Эквадор
-TINationTemplate.nationAdjective.ECU=Эквадорский
+TINationTemplate.nationAdjective.ECU=Эквадорец
 TINationTemplate.displayNameWithArticlePrep.ECU=в Эквадоре
 TINationTemplate.displayName.EGY=Египет
 TINationTemplate.displayNameWithArticle.EGY=Египет
-TINationTemplate.nationAdjective.EGY=Египетский
+TINationTemplate.nationAdjective.EGY=Египтянин
 TINationTemplate.displayNameWithArticlePrep.EGY=в Египте
 TINationTemplate.displayName.ESP=Испания
 TINationTemplate.displayNameWithArticle.ESP=Испания
@@ -180,52 +170,48 @@ TINationTemplate.nationAdjective.ETH=Эфиопский
 TINationTemplate.displayNameWithArticlePrep.ETH=в Эфиопии
 TINationTemplate.displayName.ETK=Восточный Туркестан
 TINationTemplate.displayNameWithArticle.ETK=Восточный Туркестан
-TINationTemplate.nationAdjective.ETK=Восточно-Туркестанский
+TINationTemplate.nationAdjective.ETK=Восточно-туркестанский
 TINationTemplate.displayNameWithArticlePrep.ETK=в Восточном Туркестане
 TINationTemplate.displayName.EUA=Франция
 TINationTemplate.displayNameWithArticle.EUA=Франция
 TINationTemplate.nationAdjective.EUA=Французский
-TINationTemplate.displayNameWithArticlePrep.EUA=во Франции
-TINationTemplate.displayName.FAM=Свободный Амазонас
-TINationTemplate.displayNameWithArticle.FAM=Свободный Амазонас
+TINationTemplate.displayNameWithArticlePrep.EUA=в Франции
+TINationTemplate.displayName.FAM=Свободные Амазоны
+TINationTemplate.displayNameWithArticle.FAM=Свободные Амазоны
 TINationTemplate.nationAdjective.FAM=Амазонский
-TINationTemplate.displayNameWithArticlePrep.FAM=в Свободном Амазонасе
+TINationTemplate.displayNameWithArticlePrep.FAM=в Свободных Амазонах
 TINationTemplate.displayName.FIN=Финляндия
 TINationTemplate.displayNameWithArticle.FIN=Финляндия
 TINationTemplate.nationAdjective.FIN=Финский
 TINationTemplate.displayNameWithArticlePrep.FIN=в Финляндии
-TINationTemplate.displayName.FNT=Первая Нация
-TINationTemplate.displayNameWithArticle.FNT=Первая Нация
-TINationTemplate.nationAdjective.FNT=Первонациональный
-TINationTemplate.displayNameWithArticlePrep.FNT=в Первой Нации
+TINationTemplate.displayName.FNT=Первая нация
+TINationTemplate.displayNameWithArticle.FNT=Первая нация
+TINationTemplate.nationAdjective.FNT=Первая нация
+TINationTemplate.displayNameWithArticlePrep.FNT=в Первой нации
 TINationTemplate.displayName.GBR=Англия
 TINationTemplate.displayNameWithArticle.GBR=Англия
 TINationTemplate.nationAdjective.GBR=Английский
 TINationTemplate.displayNameWithArticlePrep.GBR=в Англии
-TINationTemplate.displayName.GRC=Южные Балканские государства
-TINationTemplate.displayNameWithArticle.GRC=Южные Балканы
-TINationTemplate.nationAdjective.GRC=Греческий
-TINationTemplate.displayNameWithArticlePrep.GRC=в Южных Балканах
 TINationTemplate.displayName.GRL=Гренландия
 TINationTemplate.displayNameWithArticle.GRL=Гренландия
 TINationTemplate.nationAdjective.GRL=Гренландский
 TINationTemplate.displayNameWithArticlePrep.GRL=в Гренландии
 TINationTemplate.displayName.GUA=Лянгуан
 TINationTemplate.displayNameWithArticle.GUA=Лянгуан
-TINationTemplate.nationAdjective.GUA=Лянгуанский
+TINationTemplate.nationAdjective.GUA=Лянгуан
 TINationTemplate.displayNameWithArticlePrep.GUA=в Лянгуане
-TINationTemplate.displayName.GUS=Государства Персидского залива
-TINationTemplate.displayNameWithArticle.GUS=Государства Персидского залива
-TINationTemplate.nationAdjective.GUS=Персидско-заливский
-TINationTemplate.displayNameWithArticlePrep.GUS=в Государствах Персидского залива
-TINationTemplate.displayName.HYS=Непал-Бутан
-TINationTemplate.displayNameWithArticle.HYS=Непал-Бутан
+TINationTemplate.displayName.GUS=Катар-Бахрейн
+TINationTemplate.displayNameWithArticle.GUS=Катар-Бахрейн
+TINationTemplate.nationAdjective.GUS=Катарский
+TINationTemplate.displayNameWithArticlePrep.GUS=в Катаре-Бахрейне
+TINationTemplate.displayName.HYS=Непал
+TINationTemplate.displayNameWithArticle.HYS=Непал
 TINationTemplate.nationAdjective.HYS=Непальский
-TINationTemplate.displayNameWithArticlePrep.HYS=в Непале-Бутане
+TINationTemplate.displayNameWithArticlePrep.HYS=в Непале
 TINationTemplate.displayName.IDN=Ява
 TINationTemplate.displayNameWithArticle.IDN=Ява
 TINationTemplate.nationAdjective.IDN=Яванский
-TINationTemplate.displayNameWithArticlePrep.IDN=на Яве
+TINationTemplate.displayNameWithArticlePrep.IDN=в Яве
 TINationTemplate.displayName.IND=Индия
 TINationTemplate.displayNameWithArticle.IND=Индия
 TINationTemplate.nationAdjective.IND=Индийский
@@ -264,20 +250,20 @@ TINationTemplate.nationAdjective.JPN=Японский
 TINationTemplate.displayNameWithArticlePrep.JPN=в Японии
 TINationTemplate.displayName.KAT=Катанга
 TINationTemplate.displayNameWithArticle.KAT=Катанга
-TINationTemplate.nationAdjective.KAT=Катанга
+TINationTemplate.nationAdjective.KAT=Катангский
 TINationTemplate.displayNameWithArticlePrep.KAT=в Катанге
 TINationTemplate.displayName.KAZ=Казахстан
 TINationTemplate.displayNameWithArticle.KAZ=Казахстан
-TINationTemplate.nationAdjective.KAZ=Казахстанский
+TINationTemplate.nationAdjective.KAZ=Казахский
 TINationTemplate.displayNameWithArticlePrep.KAZ=в Казахстане
 TINationTemplate.displayName.KEN=Кения
 TINationTemplate.displayNameWithArticle.KEN=Кения
 TINationTemplate.nationAdjective.KEN=Кенийский
 TINationTemplate.displayNameWithArticlePrep.KEN=в Кении
-TINationTemplate.displayName.KGZ=Киргизия
-TINationTemplate.displayNameWithArticle.KGZ=Киргизия
-TINationTemplate.nationAdjective.KGZ=Киргизский
-TINationTemplate.displayNameWithArticlePrep.KGZ=в Киргизии
+TINationTemplate.displayName.KGZ=Кыргызстан
+TINationTemplate.displayNameWithArticle.KGZ=Кыргызстан
+TINationTemplate.nationAdjective.KGZ=Кыргызский
+TINationTemplate.displayNameWithArticlePrep.KGZ=в Кыргызстане
 TINationTemplate.displayName.KHA=Халистан
 TINationTemplate.displayNameWithArticle.KHA=Халистан
 TINationTemplate.nationAdjective.KHA=Халистанский
@@ -306,14 +292,14 @@ TINationTemplate.displayName.LBY=Ливия
 TINationTemplate.displayNameWithArticle.LBY=Ливия
 TINationTemplate.nationAdjective.LBY=Ливийский
 TINationTemplate.displayNameWithArticlePrep.LBY=в Ливии
-TINationTemplate.displayName.LWG=Нижние Гвинейские Государства
-TINationTemplate.displayNameWithArticle.LWG=Нижние Гвинейские Государства
-TINationTemplate.nationAdjective.LWG=Нижнегвинейский
-TINationTemplate.displayNameWithArticlePrep.LWG=в Нижней Гвинее
+TINationTemplate.displayName.LWG=Габон
+TINationTemplate.displayNameWithArticle.LWG=Габон
+TINationTemplate.nationAdjective.LWG=Габонский
+TINationTemplate.displayNameWithArticlePrep.LWG=в Габоне
 TINationTemplate.displayName.LKA=Шри-Ланка
 TINationTemplate.displayNameWithArticle.LKA=Шри-Ланка
-TINationTemplate.nationAdjective.LKA=Шри-ланкийский
-TINationTemplate.displayNameWithArticlePrep.LKA=на Шри-Ланке
+TINationTemplate.nationAdjective.LKA=Шриланкийский
+TINationTemplate.displayNameWithArticlePrep.LKA=в Шри-Ланке
 TINationTemplate.displayName.MAR=Марокко
 TINationTemplate.displayNameWithArticle.MAR=Марокко
 TINationTemplate.nationAdjective.MAR=Марокканский
@@ -321,7 +307,7 @@ TINationTemplate.displayNameWithArticlePrep.MAR=в Марокко
 TINationTemplate.displayName.MDG=Мадагаскар
 TINationTemplate.displayNameWithArticle.MDG=Мадагаскар
 TINationTemplate.nationAdjective.MDG=Малагасийский
-TINationTemplate.displayNameWithArticlePrep.MDG=на Мадагаскаре
+TINationTemplate.displayNameWithArticlePrep.MDG=в Мадагаскаре
 TINationTemplate.displayName.MEX=Мексика
 TINationTemplate.displayNameWithArticle.MEX=Мексика
 TINationTemplate.nationAdjective.MEX=Мексиканский
@@ -360,7 +346,7 @@ TINationTemplate.nationAdjective.MYS=Малайзийский
 TINationTemplate.displayNameWithArticlePrep.MYS=в Малайзии
 TINationTemplate.displayName.NER=Нигер
 TINationTemplate.displayNameWithArticle.NER=Нигер
-TINationTemplate.nationAdjective.NER=Нигерский
+TINationTemplate.nationAdjective.NER=Нигерийский
 TINationTemplate.displayNameWithArticlePrep.NER=в Нигере
 TINationTemplate.displayName.NET=Нидерланды
 TINationTemplate.displayNameWithArticle.NET=Нидерланды
@@ -376,7 +362,7 @@ TINationTemplate.nationAdjective.NOR=Норвежский
 TINationTemplate.displayNameWithArticlePrep.NOR=в Норвегии
 TINationTemplate.displayName.NZL=Новая Зеландия
 TINationTemplate.displayNameWithArticle.NZL=Новая Зеландия
-TINationTemplate.nationAdjective.NZL=Новозеландский
+TINationTemplate.nationAdjective.NZL=Новая Зеландия
 TINationTemplate.displayNameWithArticlePrep.NZL=в Новой Зеландии
 TINationTemplate.displayName.OCT=Окситания
 TINationTemplate.displayNameWithArticle.OCT=Окситания
@@ -386,10 +372,12 @@ TINationTemplate.displayName.OMN=Оман
 TINationTemplate.displayNameWithArticle.OMN=Оман
 TINationTemplate.nationAdjective.OMN=Оманский
 TINationTemplate.displayNameWithArticlePrep.OMN=в Омане
-TINationTemplate.displayName.PAK=Пакистан
-TINationTemplate.displayNameWithArticle.PAK=Пакистан
-TINationTemplate.nationAdjective.PAK=Пакистанский
-TINationTemplate.displayNameWithArticlePrep.PAK=в Пакистане
+
+TINationTemplate.displayName.PAK=Пенджаб
+TINationTemplate.displayNameWithArticle.PAK=Пенджаб
+TINationTemplate.nationAdjective.PAK=Пенджабский
+TINationTemplate.displayNameWithArticlePrep.PAK=в Пенджабе
+
 TINationTemplate.displayName.PAL=Палестина
 TINationTemplate.displayNameWithArticle.PAL=Палестина
 TINationTemplate.nationAdjective.PAL=Палестинский
@@ -405,7 +393,7 @@ TINationTemplate.displayNameWithArticlePrep.PER=в Перу
 TINationTemplate.displayName.PHL=Филиппины
 TINationTemplate.displayNameWithArticle.PHL=Филиппины
 TINationTemplate.nationAdjective.PHL=Филиппинский
-TINationTemplate.displayNameWithArticlePrep.PHL=на Филиппинах
+TINationTemplate.displayNameWithArticlePrep.PHL=в Филиппинах
 TINationTemplate.displayName.POL=Польша
 TINationTemplate.displayNameWithArticle.POL=Польша
 TINationTemplate.nationAdjective.POL=Польский
@@ -430,34 +418,34 @@ TINationTemplate.displayName.RLK=Республика Лакота
 TINationTemplate.displayNameWithArticle.RLK=Республика Лакота
 TINationTemplate.nationAdjective.RLK=Лакотский
 TINationTemplate.displayNameWithArticlePrep.RLK=в Республике Лакота
-TINationTemplate.displayName.RMO=Республика Молукки
-TINationTemplate.displayNameWithArticle.RMO=Республика Молукки
+TINationTemplate.displayName.RMO=Республика Молуккские
+TINationTemplate.displayNameWithArticle.RMO=Республика Молуккские
 TINationTemplate.nationAdjective.RMO=Молуккский
-TINationTemplate.displayNameWithArticlePrep.RMO=в Республике Молукки
-TINationTemplate.displayName.RNE=Республика Новая Англия
-TINationTemplate.displayNameWithArticle.RNE=Республика Новая Англия
-TINationTemplate.nationAdjective.RNE=Новоанглийский
-TINationTemplate.displayNameWithArticlePrep.RNE=в Республике Новая Англия
+TINationTemplate.displayNameWithArticlePrep.RMO=в Республике Молуккские
+TINationTemplate.displayName.RNE=Республика Новой Англии
+TINationTemplate.displayNameWithArticle.RNE=Республика Новой Англии
+TINationTemplate.nationAdjective.RNE=Новая Англия
+TINationTemplate.displayNameWithArticlePrep.RNE=в Республике Новой Англии
 TINationTemplate.displayName.ROA=Республика Айну
 TINationTemplate.displayNameWithArticle.ROA=Республика Айну
-TINationTemplate.nationAdjective.ROA=Айнский
+TINationTemplate.nationAdjective.ROA=Айну
 TINationTemplate.displayNameWithArticlePrep.ROA=в Республике Айну
-TINationTemplate.displayName.RTK=Ратнакаранские государства
-TINationTemplate.displayNameWithArticle.RTK=Ратнакаранские государства
-TINationTemplate.nationAdjective.RTK=Ратнакаранский
-TINationTemplate.displayNameWithArticlePrep.RTK=в Ратнакаранских государствах
+TINationTemplate.displayName.RTK=Коморы
+TINationTemplate.displayNameWithArticle.RTK=Коморы
+TINationTemplate.nationAdjective.RTK=Коморский
+TINationTemplate.displayNameWithArticlePrep.RTK=в Коморах
 TINationTemplate.displayName.RUS=Россия
 TINationTemplate.displayNameWithArticle.RUS=Россия
-TINationTemplate.nationAdjective.RUS=Российский
+TINationTemplate.nationAdjective.RUS=Русский
 TINationTemplate.displayNameWithArticlePrep.RUS=в России
 TINationTemplate.displayName.RWP=Республика Западное Папуа
 TINationTemplate.displayNameWithArticle.RWP=Республика Западное Папуа
-TINationTemplate.nationAdjective.RWP=Западно-Папуанский
+TINationTemplate.nationAdjective.RWP=Западнопапуасский
 TINationTemplate.displayNameWithArticlePrep.RWP=в Республике Западное Папуа
 TINationTemplate.displayName.SIC=Сицилия
 TINationTemplate.displayNameWithArticle.SIC=Сицилия
 TINationTemplate.nationAdjective.SIC=Сицилийский
-TINationTemplate.displayNameWithArticlePrep.SIC=на Сицилии
+TINationTemplate.displayNameWithArticlePrep.SIC=в Сицилии
 TINationTemplate.displayName.SCH=Сычуань
 TINationTemplate.displayNameWithArticle.SCH=Сычуань
 TINationTemplate.nationAdjective.SCH=Сычуаньский
@@ -488,7 +476,7 @@ TINationTemplate.nationAdjective.SIB=Сибирский
 TINationTemplate.displayNameWithArticlePrep.SIB=в Сибири
 TINationTemplate.displayName.SIN=Синд
 TINationTemplate.displayNameWithArticle.SIN=Синд
-TINationTemplate.nationAdjective.SIN=Синдский
+TINationTemplate.nationAdjective.SIN=Синдхи
 TINationTemplate.displayNameWithArticlePrep.SIN=в Синде
 TINationTemplate.displayName.SOM=Сомали
 TINationTemplate.displayNameWithArticle.SOM=Сомали
@@ -498,14 +486,14 @@ TINationTemplate.displayName.SSD=Южный Судан
 TINationTemplate.displayNameWithArticle.SSD=Южный Судан
 TINationTemplate.nationAdjective.SSD=Южносуданский
 TINationTemplate.displayNameWithArticlePrep.SSD=в Южном Судане
-TINationTemplate.displayName.SUB=Сул Бразил
-TINationTemplate.displayNameWithArticle.SUB=Сул Бразил
-TINationTemplate.nationAdjective.SUB=Сул-бразильский
-TINationTemplate.displayNameWithArticlePrep.SUB=в Сул Бразиле
+TINationTemplate.displayName.SUB=Сул Бразилия
+TINationTemplate.displayNameWithArticle.SUB=Сул Бразилия
+TINationTemplate.nationAdjective.SUB=Сул бразильский
+TINationTemplate.displayNameWithArticlePrep.SUB=в Сул Бразилии
 TINationTemplate.displayName.SUM=Суматра
 TINationTemplate.displayNameWithArticle.SUM=Суматра
 TINationTemplate.nationAdjective.SUM=Суматранский
-TINationTemplate.displayNameWithArticlePrep.SUM=на Суматре
+TINationTemplate.displayNameWithArticlePrep.SUM=в Суматре
 TINationTemplate.displayName.SVN=Республика Вьетнам
 TINationTemplate.displayNameWithArticle.SVN=Республика Вьетнам
 TINationTemplate.nationAdjective.SVN=Южновьетнамский
@@ -520,457 +508,462 @@ TINationTemplate.nationAdjective.SYR=Сирийский
 TINationTemplate.displayNameWithArticlePrep.SYR=в Сирии
 TINationTemplate.displayName.TBT=Тибет
 TINationTemplate.displayNameWithArticle.TBT=Тибет
-TINationTemplate.nationAdjective.TBT=тибетский
+TINationTemplate.nationAdjective.TBT=Тибетский
 TINationTemplate.displayNameWithArticlePrep.TBT=в Тибете
 TINationTemplate.displayName.TCD=Чад
 TINationTemplate.displayNameWithArticle.TCD=Чад
-TINationTemplate.nationAdjective.TCD=чадский
+TINationTemplate.nationAdjective.TCD=Чадец
 TINationTemplate.displayNameWithArticlePrep.TCD=в Чаде
 TINationTemplate.displayName.TEX=Республика Техас
 TINationTemplate.displayNameWithArticle.TEX=Республика Техас
-TINationTemplate.nationAdjective.TEX=техасский
+TINationTemplate.nationAdjective.TEX=Техасец
 TINationTemplate.displayNameWithArticlePrep.TEX=в Республике Техас
 TINationTemplate.displayName.THA=Таиланд
 TINationTemplate.displayNameWithArticle.THA=Таиланд
-TINationTemplate.nationAdjective.THA=тайский
+TINationTemplate.nationAdjective.THA=Тайский
 TINationTemplate.displayNameWithArticlePrep.THA=в Таиланде
-TINationTemplate.displayName.TIG=Тыграй
-TINationTemplate.displayNameWithArticle.TIG=Тыграй
-TINationTemplate.nationAdjective.TIG=тыграйский
-TINationTemplate.displayNameWithArticlePrep.TIG=в Тыграе
+TINationTemplate.displayName.TIG=Тиграй
+TINationTemplate.displayNameWithArticle.TIG=Тиграй
+TINationTemplate.nationAdjective.TIG=Тиграй
+TINationTemplate.displayNameWithArticlePrep.TIG=в Тиграе
 TINationTemplate.displayName.TJK=Таджикистан
 TINationTemplate.displayNameWithArticle.TJK=Таджикистан
-TINationTemplate.nationAdjective.TJK=таджикский
+TINationTemplate.nationAdjective.TJK=Таджик
 TINationTemplate.displayNameWithArticlePrep.TJK=в Таджикистане
 TINationTemplate.displayName.TKM=Туркменистан
 TINationTemplate.displayNameWithArticle.TKM=Туркменистан
-TINationTemplate.nationAdjective.TKM=туркменский
+TINationTemplate.nationAdjective.TKM=Туркмен
 TINationTemplate.displayNameWithArticlePrep.TKM=в Туркменистане
 TINationTemplate.displayName.TUN=Тунис
 TINationTemplate.displayNameWithArticle.TUN=Тунис
-TINationTemplate.nationAdjective.TUN=тунисский
+TINationTemplate.nationAdjective.TUN=Тунисец
 TINationTemplate.displayNameWithArticlePrep.TUN=в Тунисе
 TINationTemplate.displayName.TUR=Турция
 TINationTemplate.displayNameWithArticle.TUR=Турция
-TINationTemplate.nationAdjective.TUR=турецкий
+TINationTemplate.nationAdjective.TUR=Турецкий
 TINationTemplate.displayNameWithArticlePrep.TUR=в Турции
 TINationTemplate.displayName.TWN=Тайвань
 TINationTemplate.displayNameWithArticle.TWN=Тайвань
-TINationTemplate.nationAdjective.TWN=тайваньский
-TINationTemplate.displayNameWithArticlePrep.TWN=на Тайване
+TINationTemplate.nationAdjective.TWN=Тайвань
+TINationTemplate.displayNameWithArticlePrep.TWN=в Тайване
 TINationTemplate.displayName.TZA=Танзания
 TINationTemplate.displayNameWithArticle.TZA=Танзания
-TINationTemplate.nationAdjective.TZA=танзанийский
+TINationTemplate.nationAdjective.TZA=Танзанийский
 TINationTemplate.displayNameWithArticlePrep.TZA=в Танзании
 TINationTemplate.displayName.UGA=Уганда
 TINationTemplate.displayNameWithArticle.UGA=Уганда
-TINationTemplate.nationAdjective.UGA=угандийский
+TINationTemplate.nationAdjective.UGA=Угандиец
 TINationTemplate.displayNameWithArticlePrep.UGA=в Уганде
 TINationTemplate.displayName.UPG=Верхняя Гвинея
 TINationTemplate.displayNameWithArticle.UPG=Верхняя Гвинея
-TINationTemplate.nationAdjective.UPG=верхнегвинейский
+TINationTemplate.nationAdjective.UPG=Верхнегвинейский
 TINationTemplate.displayNameWithArticlePrep.UPG=в Верхней Гвинее
 TINationTemplate.displayName.UKR=Украина
 TINationTemplate.displayNameWithArticle.UKR=Украина
-TINationTemplate.nationAdjective.UKR=украинский
+TINationTemplate.nationAdjective.UKR=Украинский
 TINationTemplate.displayNameWithArticlePrep.UKR=в Украине
-TINationTemplate.displayName.UNB=Объединённый Северо-Восточная Бразилия
-TINationTemplate.displayNameWithArticle.UNB=Объединённый Северо-Восточная Бразилия
-TINationTemplate.nationAdjective.UNB=северо-восточный бразильский
-TINationTemplate.displayNameWithArticlePrep.UNB=в Объединённом Северо-Восточной Бразилии
+TINationTemplate.displayName.UNB=Объединенный Северо-восток Бразилии
+TINationTemplate.displayNameWithArticle.UNB=Объединенный Северо-восток Бразилии
+TINationTemplate.nationAdjective.UNB=Северо-восточный бразилец
+TINationTemplate.displayNameWithArticlePrep.UNB=в Объединенном Северо-востоке Бразилии
 TINationTemplate.displayName.URY=Уругвай
 TINationTemplate.displayNameWithArticle.URY=Уругвай
-TINationTemplate.nationAdjective.URY=уругвайский
+TINationTemplate.nationAdjective.URY=Уругваец
 TINationTemplate.displayNameWithArticlePrep.URY=в Уругвае
-TINationTemplate.displayName.USA=Соединённые Штаты Америки
-TINationTemplate.displayNameWithArticle.USA=Соединённые Штаты Америки
-TINationTemplate.nationAdjective.USA=американский
-TINationTemplate.displayNameWithArticlePrep.USA=в Соединённых Штатах Америки
+TINationTemplate.displayName.USA=Соединенные Штаты Америки
+TINationTemplate.displayNameWithArticle.USA=Соединенные Штаты Америки
+TINationTemplate.nationAdjective.USA=Американец
+TINationTemplate.displayNameWithArticlePrep.USA=в Соединенных Штатах Америки
 TINationTemplate.displayName.UZB=Узбекистан
 TINationTemplate.displayNameWithArticle.UZB=Узбекистан
-TINationTemplate.nationAdjective.UZB=узбекистанский
+TINationTemplate.nationAdjective.UZB=Узбек
 TINationTemplate.displayNameWithArticlePrep.UZB=в Узбекистане
 TINationTemplate.displayName.VEN=Венесуэла
 TINationTemplate.displayNameWithArticle.VEN=Венесуэла
-TINationTemplate.nationAdjective.VEN=венесуэльский
+TINationTemplate.nationAdjective.VEN=Венесуэлец
 TINationTemplate.displayNameWithArticlePrep.VEN=в Венесуэле
 TINationTemplate.displayName.VNM=Вьетнам
 TINationTemplate.displayNameWithArticle.VNM=Вьетнам
-TINationTemplate.nationAdjective.VNM=вьетнамский
-TINationTemplate.displayNameWithArticlePrep.VNM=во Вьетнаме
+TINationTemplate.nationAdjective.VNM=Вьетнамец
+TINationTemplate.displayNameWithArticlePrep.VNM=в Вьетнаме
 TINationTemplate.displayName.WAZ=Вазиристан
 TINationTemplate.displayNameWithArticle.WAZ=Вазиристан
-TINationTemplate.nationAdjective.WAZ=вазиристанский
+TINationTemplate.nationAdjective.WAZ=Вазирий
 TINationTemplate.displayNameWithArticlePrep.WAZ=в Вазиристане
-TINationTemplate.displayName.WBK=Западные Балканы
+TINationTemplate.displayName.WBK=Западные Балканские государства
 TINationTemplate.displayNameWithArticle.WBK=Западные Балканы
-TINationTemplate.nationAdjective.WBK=западнобалканский
-TINationTemplate.displayNameWithArticlePrep.WBK=на Западных Балканах
+TINationTemplate.nationAdjective.WBK=Западнобалканский
+TINationTemplate.displayNameWithArticlePrep.WBK=в Западных Балканах
 TINationTemplate.displayName.WES=Западная Австралия
 TINationTemplate.displayNameWithArticle.WES=Западная Австралия
-TINationTemplate.nationAdjective.WES=западноавстралийский
+TINationTemplate.nationAdjective.WES=Западноавстралийский
 TINationTemplate.displayNameWithArticlePrep.WES=в Западной Австралии
 TINationTemplate.displayName.WGA=Западная Германия
 TINationTemplate.displayNameWithArticle.WGA=Западная Германия
-TINationTemplate.nationAdjective.WGA=западногерманский
+TINationTemplate.nationAdjective.WGA=Западногерманский
 TINationTemplate.displayNameWithArticlePrep.WGA=в Западной Германии
-TINationTemplate.displayName.WUR=Хуаньнань
-TINationTemplate.displayNameWithArticle.WUR=Хуаньнань
-TINationTemplate.nationAdjective.WUR=хуаньнаньский
-TINationTemplate.displayNameWithArticlePrep.WUR=в Хуаньнани
+TINationTemplate.displayName.WUR=Хуанань
+TINationTemplate.displayNameWithArticle.WUR=Хуанань
+TINationTemplate.nationAdjective.WUR=Хуанань
+TINationTemplate.displayNameWithArticlePrep.WUR=в Хуанане
 TINationTemplate.displayName.YEM=Йемен
 TINationTemplate.displayNameWithArticle.YEM=Йемен
-TINationTemplate.nationAdjective.YEM=йеменский
+TINationTemplate.nationAdjective.YEM=Йеменский
 TINationTemplate.displayNameWithArticlePrep.YEM=в Йемене
-TINationTemplate.displayName.YUN=Юньгуй
-TINationTemplate.displayNameWithArticle.YUN=Юньгуй
-TINationTemplate.nationAdjective.YUN=юньгуский
-TINationTemplate.displayNameWithArticlePrep.YUN=в Юньгуе
-TINationTemplate.displayName.ZAF=Южная Африка
-TINationTemplate.displayNameWithArticle.ZAF=Южная Африка
-TINationTemplate.nationAdjective.ZAF=южноафриканский
-TINationTemplate.displayNameWithArticlePrep.ZAF=в Южной Африке
+TINationTemplate.displayName.YUN=Юнгуй
+TINationTemplate.displayNameWithArticle.YUN=Юнгуй
+TINationTemplate.nationAdjective.YUN=Юнгуй
+TINationTemplate.displayNameWithArticlePrep.YUN=в Юнгуе
+TINationTemplate.displayName.ZAF=Южноафриканская Республика
+TINationTemplate.displayNameWithArticle.ZAF=Южноафриканская Республика
+TINationTemplate.nationAdjective.ZAF=Южноафриканский
+TINationTemplate.displayNameWithArticlePrep.ZAF=в Южноафриканской Республике
 TINationTemplate.displayName.ZMB=Замбия
 TINationTemplate.displayNameWithArticle.ZMB=Замбия
-TINationTemplate.nationAdjective.ZMB=замбийский
+TINationTemplate.nationAdjective.ZMB=Замбийский
 TINationTemplate.displayNameWithArticlePrep.ZMB=в Замбии
 TINationTemplate.displayName.ZWE=Зимбабве
 TINationTemplate.displayNameWithArticle.ZWE=Зимбабве
-TINationTemplate.nationAdjective.ZWE=зимбабвийский
+TINationTemplate.nationAdjective.ZWE=Зимбабвийский
 TINationTemplate.displayNameWithArticlePrep.ZWE=в Зимбабве
 
-TINationTemplate.unionDisplayName.AGO=Великое Свободное Государство Бантусов  
-TINationTemplate.unionDisplayNameWithArticle.AGO=Великое Свободное Государство Бантусов  
-TINationTemplate.unionAdjective.AGO=бантусский  
-TINationTemplate.unionDisplayNameWithArticlePrep.AGO=в Великом Свободном Государстве Бантусов  
+TINationTemplate.unionDisplayName.AGO=Великая Бантуская Свободная Государство
+TINationTemplate.unionDisplayNameWithArticle.AGO=Великое Бантусское Свободное Государство
+TINationTemplate.unionAdjective.AGO=Бантуский
+TINationTemplate.unionDisplayNameWithArticlePrep.AGO=в Великом Бантусском Свободном Государстве
 
-TINationTemplate.unionDisplayName.ALN=Федерация Инопланетян  
-TINationTemplate.unionDisplayNameWithArticle.ALN=Федерация Инопланетян  
-TINationTemplate.unionAdjective.ALN=инопланетный  
-TINationTemplate.unionDisplayNameWithArticlePrep.ALN=во Федерации Инопланетян  
+TINationTemplate.unionDisplayName.ALN=Инопланетная Федерация
+TINationTemplate.unionDisplayNameWithArticle.ALN=Инопланетная Федерация
+TINationTemplate.unionAdjective.ALN=Инопланетный
+TINationTemplate.unionDisplayNameWithArticlePrep.ALN=в Инопланетной Федерации
 
-TINationTemplate.unionDisplayName.AUS=Республика Южного Креста  
-TINationTemplate.unionDisplayNameWithArticle.AUS=Республика Южного Креста  
-TINationTemplate.unionAdjective.AUS=южнокрестский  
-TINationTemplate.unionDisplayNameWithArticlePrep.AUS=в Республике Южного Креста  
+TINationTemplate.unionDisplayName.AUS=Республика Южного Креста
+TINationTemplate.unionDisplayNameWithArticle.AUS=Республика Южного Креста
+TINationTemplate.unionAdjective.AUS=Южнокрестный
+TINationTemplate.unionDisplayNameWithArticlePrep.AUS=в Республике Южного Креста
 
-TINationTemplate.unionDisplayName.DZA=Тамазга  
-TINationTemplate.unionDisplayNameWithArticle.DZA=Тамазга  
-TINationTemplate.unionAdjective.DZA=тамазигтский  
-TINationTemplate.unionDisplayNameWithArticlePrep.DZA=в Тамазге  
+TINationTemplate.unionDisplayName.MAR=Тамазга
+TINationTemplate.unionDisplayNameWithArticle.MAR=Тамазга
+TINationTemplate.unionAdjective.MAR=Тамазигт
+TINationTemplate.unionDisplayNameWithArticlePrep.MAR=в Тамазге
 
-TINationTemplate.unionDisplayName.BOL=Южноамериканский Союз  
-TINationTemplate.unionDisplayNameWithArticle.BOL=Южноамериканский Союз  
-TINationTemplate.unionAdjective.BOL=южноамериканский  
-TINationTemplate.unionDisplayNameWithArticlePrep.BOL=в Южноамериканском Союзе  
+TINationTemplate.unionDisplayName.BOL=Южноамериканский Союз
+TINationTemplate.unionDisplayNameWithArticle.BOL=Южноамериканский Союз
+TINationTemplate.unionAdjective.BOL=Южноамериканский
+TINationTemplate.unionDisplayNameWithArticlePrep.BOL=в Южноамериканском Союзе
 
-TINationTemplate.unionDisplayName.CHN=Паназиатский Союз  
-TINationTemplate.unionDisplayNameWithArticle.CHN=Паназиатский Союз  
-TINationTemplate.unionAdjective.CHN=паназиатский  
-TINationTemplate.unionDisplayNameWithArticlePrep.CHN=в Паназиатском Союзе  
+TINationTemplate.unionDisplayName.CHN=Паназиатский Союз
+TINationTemplate.unionDisplayNameWithArticle.CHN=Паназиатский Союз
+TINationTemplate.unionAdjective.CHN=Паназиатский
+TINationTemplate.unionDisplayNameWithArticlePrep.CHN=в Паназиатском Союзе
 
-TINationTemplate.unionDisplayName.COL=Великая Колумбия  
-TINationTemplate.unionDisplayNameWithArticle.COL=Великая Колумбия  
-TINationTemplate.unionAdjective.COL=колумбийский  
-TINationTemplate.unionDisplayNameWithArticlePrep.COL=в Великой Колумбии  
+TINationTemplate.unionDisplayName.COL=Великая Колумбия
+TINationTemplate.unionDisplayNameWithArticle.COL=Великая Колумбия
+TINationTemplate.unionAdjective.COL=Колумбийский
+TINationTemplate.unionDisplayNameWithArticlePrep.COL=в Великой Колумбии
 
-TINationTemplate.unionDisplayName.DEU=Германия  
-TINationTemplate.unionDisplayNameWithArticle.DEU=Германия  
-TINationTemplate.unionAdjective.DEU=немецкий  
-TINationTemplate.unionDisplayNameWithArticlePrep.DEU=в Германии  
+TINationTemplate.unionDisplayName.DEU=Германия
+TINationTemplate.unionDisplayNameWithArticle.DEU=Германия
+TINationTemplate.unionAdjective.DEU=Немецкий
+TINationTemplate.unionDisplayNameWithArticlePrep.DEU=в Германии
 
-TINationTemplate.unionDisplayName.EGY=Объединённая Арабская Лига  
-TINationTemplate.unionDisplayNameWithArticle.EGY=Объединённая Арабская Лига  
-TINationTemplate.unionAdjective.EGY=арабский  
-TINationTemplate.unionDisplayNameWithArticlePrep.EGY=в Объединённой Арабской Лиге  
+TINationTemplate.unionDisplayName.EGY=Лига арабских государств
+TINationTemplate.unionDisplayNameWithArticle.EGY=Лига арабских государств
+TINationTemplate.unionAdjective.EGY=Арабский
+TINationTemplate.unionDisplayNameWithArticlePrep.EGY=в Лиге арабских государств
 
-TINationTemplate.unionDisplayName.ETH=Африканский Союз  
-TINationTemplate.unionDisplayNameWithArticle.ETH=Африканский Союз  
-TINationTemplate.unionAdjective.ETH=африканский  
-TINationTemplate.unionDisplayNameWithArticlePrep.ETH=в Африканском Союзе  
+TINationTemplate.unionDisplayName.ETH=Африканский Союз
+TINationTemplate.unionDisplayNameWithArticle.ETH=Африканский Союз
+TINationTemplate.unionAdjective.ETH=Африканский
+TINationTemplate.unionDisplayNameWithArticlePrep.ETH=в Африканском Союзе
 
-TINationTemplate.unionDisplayName.EUA=Европейский Союз  
-TINationTemplate.unionDisplayNameWithArticle.EUA=Европейский Союз  
-TINationTemplate.unionAdjective.EUA=европейский  
-TINationTemplate.unionDisplayNameWithArticlePrep.EUA=в Европейском Союзе  
+TINationTemplate.unionDisplayName.EUA=Европейский Союз
+TINationTemplate.unionDisplayNameWithArticle.EUA=Европейский Союз
+TINationTemplate.unionAdjective.EUA=Европейский
+TINationTemplate.unionDisplayNameWithArticlePrep.EUA=в Европейском Союзе
 
-TINationTemplate.unionDisplayName.MYS=Объединённая Малайская Нация  
-TINationTemplate.unionDisplayNameWithArticle.MYS=Объединённая Малайская Нация  
-TINationTemplate.unionAdjective.MYS=малайзийский  
-TINationTemplate.unionDisplayNameWithArticlePrep.MYS=в Объединённой Малайской Нации  
+TINationTemplate.unionDisplayName.MYS=Объединенная Малайская Нация
+TINationTemplate.unionDisplayNameWithArticle.MYS=Объединенная Малайская Нация
+TINationTemplate.unionAdjective.MYS=Малайзийский
+TINationTemplate.unionDisplayNameWithArticlePrep.MYS=в Объединенной Малайской Нации
 
-TINationTemplate.unionDisplayName.NGA=Западноафриканское Сообщество  
-TINationTemplate.unionDisplayNameWithArticle.NGA=Западноафриканское Сообщество  
-TINationTemplate.unionAdjective.NGA=западноафриканский  
-TINationTemplate.unionDisplayNameWithArticlePrep.NGA=в Западноафриканском Сообществе  
+TINationTemplate.unionDisplayName.NGA=Западноафриканское Сообщество
+TINationTemplate.unionDisplayNameWithArticle.NGA=Западноафриканское Сообщество
+TINationTemplate.unionAdjective.NGA=Западноафриканский
+TINationTemplate.unionDisplayNameWithArticlePrep.NGA=в Западноафриканском Сообществе
 
-TINationTemplate.unionDisplayName.PER=Перуанская Конфедерация  
-TINationTemplate.unionDisplayNameWithArticle.PER=Перуанская Конфедерация  
-TINationTemplate.unionAdjective.PER=перуанский  
-TINationTemplate.unionDisplayNameWithArticlePrep.PER=в Перуанской Конфедерации  
+TINationTemplate.unionDisplayName.PER=Перуанская Конфедерация
+TINationTemplate.unionDisplayNameWithArticle.PER=Перуанская Конфедерация
+TINationTemplate.unionAdjective.PER=Перуанский
+TINationTemplate.unionDisplayNameWithArticlePrep.PER=в Перуанской Конфедерации
 
-TINationTemplate.unionDisplayName.PRK=Народная Республика Кореи  
-TINationTemplate.unionDisplayNameWithArticle.PRK=Народная Республика Кореи  
-TINationTemplate.unionAdjective.PRK=корейский  
-TINationTemplate.unionDisplayNameWithArticlePrep.PRK=в Народной Республике Кореи  
+TINationTemplate.unionDisplayName.PRK=Народная Республика Корея
+TINationTemplate.unionDisplayNameWithArticle.PRK=Народная Республика Корея
+TINationTemplate.unionAdjective.PRK=Корейский
+TINationTemplate.unionDisplayNameWithArticlePrep.PRK=в Народной Республике Корее
 
-TINationTemplate.unionDisplayName.JPN=Лига Тихоокеанской Обороны  
-TINationTemplate.unionDisplayNameWithArticle.JPN=Лига Тихоокеанской Обороны  
-TINationTemplate.unionAdjective.JPN=тихоокеанский защитник  
-TINationTemplate.unionDisplayNameWithArticlePrep.JPN=в Лиге Тихоокеанской Обороны  
+TINationTemplate.unionDisplayName.JPN=Тихоокеанский Оборонительный Альянс
+TINationTemplate.unionDisplayNameWithArticle.JPN=Тихоокеанский Оборонительный Альянс
+TINationTemplate.unionAdjective.JPN=Тихоокеанский Защитник
+TINationTemplate.unionDisplayNameWithArticlePrep.JPN=в Тихоокеанском Оборонительном Альянсе
 
-TINationTemplate.unionDisplayName.KAZ=Центральноазиатский Союз  
-TINationTemplate.unionDisplayNameWithArticle.KAZ=Центральноазиатский Союз  
-TINationTemplate.unionAdjective.KAZ=центральноазиатский  
-TINationTemplate.unionDisplayNameWithArticlePrep.KAZ=в Центральноазиатском Союзе  
+TINationTemplate.unionDisplayName.KAZ=Центральноазиатский Союз
+TINationTemplate.unionDisplayNameWithArticle.KAZ=Центральноазиатский Союз
+TINationTemplate.unionAdjective.KAZ=Центральноазиатский
+TINationTemplate.unionDisplayNameWithArticlePrep.KAZ=в Центральноазиатском Союзе
 
-TINationTemplate.unionDisplayName.KOR=Республика Корея  
-TINationTemplate.unionDisplayNameWithArticle.KOR=Республика Корея  
-TINationTemplate.unionAdjective.KOR=корейский  
-TINationTemplate.unionDisplayNameWithArticlePrep.KOR=в Республике Корея  
+TINationTemplate.unionDisplayName.KOR=Республика Корея
+TINationTemplate.unionDisplayNameWithArticle.KOR=Республика Корея
+TINationTemplate.unionAdjective.KOR=Корейский
+TINationTemplate.unionDisplayNameWithArticlePrep.KOR=в Республике Корее
 
-TINationTemplate.unionDisplayName.TWN=Республика Китай  
-TINationTemplate.unionDisplayNameWithArticle.TWN=Республика Китай  
-TINationTemplate.unionAdjective.TWN=китайский республиканский  
-TINationTemplate.unionDisplayNameWithArticlePrep.TWN=в Республике Китай  
+TINationTemplate.unionDisplayName.TWN=Республика Китай
+TINationTemplate.unionDisplayNameWithArticle.TWN=Республика Китай
+TINationTemplate.unionAdjective.TWN=Республиканский китайский
+TINationTemplate.unionDisplayNameWithArticlePrep.TWN=в Республике Китай
 
-TINationTemplate.unionDisplayName.TZA=Восточноафриканская Федерация  
-TINationTemplate.unionDisplayNameWithArticle.TZA=Восточноафриканская Федерация  
-TINationTemplate.unionAdjective.TZA=восточноафриканский  
-TINationTemplate.unionDisplayNameWithArticlePrep.TZA=в Восточноафриканской Федерации  
+TINationTemplate.unionDisplayName.TZA=Восточноафриканская Федерация
+TINationTemplate.unionDisplayNameWithArticle.TZA=восточноафриканская Федерация
+TINationTemplate.unionAdjective.TZA=восточноафриканский
+TINationTemplate.unionDisplayNameWithArticlePrep.TZA=в восточноафриканской Федерации
 
-TINationTemplate.unionDisplayName.THA=Юго-Восточный Азиатский Альянс  
-TINationTemplate.unionDisplayNameWithArticle.THA=Юго-Восточный Азиатский Альянс  
-TINationTemplate.unionAdjective.THA=юго-восточноазиатский  
-TINationTemplate.unionDisplayNameWithArticlePrep.THA=в Юго-Восточном Азиатском Альянсе  
+TINationTemplate.unionDisplayName.THA=Юго-восточная Азиатская Альянс
+TINationTemplate.unionDisplayNameWithArticle.THA=юго-восточная Азиатская Альянс
+TINationTemplate.unionAdjective.THA=юго-восточноазиатский
+TINationTemplate.unionDisplayNameWithArticlePrep.THA=в юго-восточной Азиатской Альянсе
 
-TINationTemplate.unionDisplayName.TUR=Туркестан  
-TINationTemplate.unionDisplayNameWithArticle.TUR=Туркестан  
-TINationTemplate.unionAdjective.TUR=туркестанский  
-TINationTemplate.unionDisplayNameWithArticlePrep.TUR=в Туркестане  
+TINationTemplate.unionDisplayName.TUR=Туркестан
+TINationTemplate.unionDisplayNameWithArticle.TUR=Туркестан
+TINationTemplate.unionAdjective.TUR=туркестанский
+TINationTemplate.unionDisplayNameWithArticlePrep.TUR=в Туркестане
 
-TINationTemplate.unionDisplayName.GBR=Соединённое Королевство  
-TINationTemplate.unionDisplayNameWithArticle.GBR=Соединённое Королевство  
-TINationTemplate.unionAdjective.GBR=британский  
-TINationTemplate.unionDisplayNameWithArticlePrep.GBR=в Соединённом Королевстве  
+TINationTemplate.unionDisplayName.GBR=Соединенное Королевство
+TINationTemplate.unionDisplayNameWithArticle.GBR=Соединенное Королевство
+TINationTemplate.unionAdjective.GBR=британский
+TINationTemplate.unionDisplayNameWithArticlePrep.GBR=в Соединенном Королевстве
 
-TINationTemplate.unionDisplayName.IDN=Индонезия  
-TINationTemplate.unionDisplayNameWithArticle.IDN=Индонезия  
-TINationTemplate.unionAdjective.IDN=индонезийский  
-TINationTemplate.unionDisplayNameWithArticlePrep.IDN=в Индонезии  
+TINationTemplate.unionDisplayName.IDN=Индонезия
+TINationTemplate.unionDisplayNameWithArticle.IDN=Индонезия
+TINationTemplate.unionAdjective.IDN=индонезийский
+TINationTemplate.unionDisplayNameWithArticlePrep.IDN=в Индонезии
 
-TINationTemplate.unionDisplayName.RUS=Евразийский Союз  
-TINationTemplate.unionDisplayNameWithArticle.RUS=Евразийский Союз  
-TINationTemplate.unionAdjective.RUS=евразийский  
-TINationTemplate.unionDisplayNameWithArticlePrep.RUS=в Евразийском Союзе  
+TINationTemplate.unionDisplayName.RUS=Евразийский Союз
+TINationTemplate.unionDisplayNameWithArticle.RUS=евразийский Союз
+TINationTemplate.unionAdjective.RUS=евразийский
+TINationTemplate.unionDisplayNameWithArticlePrep.RUS=в евразийском Союзе
 
-TINationTemplate.unionDisplayName.SCA=Северный Союз  
-TINationTemplate.unionDisplayNameWithArticle.SCA=Северный Союз  
-TINationTemplate.unionAdjective.SCA=северный  
-TINationTemplate.unionDisplayNameWithArticlePrep.SCA=в Северном Союзе  
+TINationTemplate.unionDisplayName.SCA=Скандинавская Федерация
+TINationTemplate.unionDisplayNameWithArticle.SCA=скандинавская Федерация
+TINationTemplate.unionAdjective.SCA=скандинавский
+TINationTemplate.unionDisplayNameWithArticlePrep.SCA=в скандинавской Федерации
 
-TINationTemplate.unionDisplayName.USA=Соединённые Штаты Северной Америки
-TINationTemplate.unionDisplayNameWithArticle.USA=Соединённые Штаты Северной Америки
-TINationTemplate.unionAdjective.USA=Североамериканский
-TINationTemplate.unionDisplayNameWithArticlePrep.USA=в Соединённых Штатах Северной Америки
+TINationTemplate.unionDisplayName.USA=Соединенные Штаты Северной Америки
+TINationTemplate.unionDisplayNameWithArticle.USA=Соединенные Штаты Северной Америки
+TINationTemplate.unionAdjective.USA=североамериканский
+TINationTemplate.unionDisplayNameWithArticlePrep.USA=в Соединенных Штатах Северной Америки
 
-TINationTemplate.GenericFederationDisplayName={0} Федерация												// национальный прилагательный
-TINationTemplate.GenericFederationDisplayNameWithArticle={0} Федерация
-TINationTemplate.GenericFederationAdjective={0} Федерация
+TINationTemplate.GenericFederationDisplayName=Федерация {0}												// национальный прилагательное
+TINationTemplate.GenericFederationDisplayNameWithArticle=федерация {0}
+TINationTemplate.GenericFederationAdjective=федерация {0}
 
 TINationTemplate.displayName.ARM=Армения
 TINationTemplate.displayNameWithArticle.ARM=Армения
-TINationTemplate.nationAdjective.ARM=Армянский
+TINationTemplate.nationAdjective.ARM=армянский
 TINationTemplate.displayNameWithArticlePrep.ARM=в Армении
 
 TINationTemplate.displayName.AZE=Азербайджан
 TINationTemplate.displayNameWithArticle.AZE=Азербайджан
-TINationTemplate.nationAdjective.AZE=Азербайджанский
+TINationTemplate.nationAdjective.AZE=азербайджанский
 TINationTemplate.displayNameWithArticlePrep.AZE=в Азербайджане
 
 TINationTemplate.displayName.BEL=Белиз
 TINationTemplate.displayNameWithArticle.BEL=Белиз
-TINationTemplate.nationAdjective.BEL=Белизский
+TINationTemplate.nationAdjective.BEL=белизский
 TINationTemplate.displayNameWithArticlePrep.BEL=в Белизе
 
 TINationTemplate.displayName.BUL=Болгария
 TINationTemplate.displayNameWithArticle.BUL=Болгария
-TINationTemplate.nationAdjective.BUL=Болгарский
+TINationTemplate.nationAdjective.BUL=болгарский
 TINationTemplate.displayNameWithArticlePrep.BUL=в Болгарии
 
 TINationTemplate.displayName.BKF=Буркина-Фасо
 TINationTemplate.displayNameWithArticle.BKF=Буркина-Фасо
-TINationTemplate.nationAdjective.BKF=Буркинабè
+TINationTemplate.nationAdjective.BKF=буркиний
 TINationTemplate.displayNameWithArticlePrep.BKF=в Буркина-Фасо
 
 TINationTemplate.displayName.CMR=Камерун
 TINationTemplate.displayNameWithArticle.CMR=Камерун
-TINationTemplate.nationAdjective.CMR=Камерунский
+TINationTemplate.nationAdjective.CMR=кампунский
 TINationTemplate.displayNameWithArticlePrep.CMR=в Камеруне
 
 TINationTemplate.displayName.COS=Коста-Рика
 TINationTemplate.displayNameWithArticle.COS=Коста-Рика
-TINationTemplate.nationAdjective.COS=Костариканский
+TINationTemplate.nationAdjective.COS=костариканский
 TINationTemplate.displayNameWithArticlePrep.COS=в Коста-Рике
 
 TINationTemplate.displayName.CRI=Крым
 TINationTemplate.displayNameWithArticle.CRI=Крым
-TINationTemplate.nationAdjective.CRI=Крымский
+TINationTemplate.nationAdjective.CRI=крымский
 TINationTemplate.displayNameWithArticlePrep.CRI=в Крыму
 
-TINationTemplate.displayName.CZE=Чешская Республика
-TINationTemplate.displayNameWithArticle.CZE=Чешская Республика
-TINationTemplate.nationAdjective.CZE=Чешский
-TINationTemplate.displayNameWithArticlePrep.CZE=в Чешской Республике
+TINationTemplate.displayName.CZE=Чехия
+TINationTemplate.displayNameWithArticle.CZE=Чехия
+TINationTemplate.nationAdjective.CZE=чешский
+TINationTemplate.displayNameWithArticlePrep.CZE=в Чехии
 
 TINationTemplate.unionDisplayName.CZE=Чехословакия
 TINationTemplate.unionDisplayNameWithArticle.CZE=Чехословакия
-TINationTemplate.unionAdjective.CZE=Чехословацкий
+TINationTemplate.unionAdjective.CZE=чехословацкий
 TINationTemplate.unionDisplayNameWithArticlePrep.CZE=в Чехословакии
 
 TINationTemplate.displayName.ELS=Сальвадор
 TINationTemplate.displayNameWithArticle.ELS=Сальвадор
-TINationTemplate.nationAdjective.ELS=Сальвадорский
+TINationTemplate.nationAdjective.ELS=сальвадорский
 TINationTemplate.displayNameWithArticlePrep.ELS=в Сальвадоре
 
 TINationTemplate.displayName.GEO=Грузия
 TINationTemplate.displayNameWithArticle.GEO=Грузия
-TINationTemplate.nationAdjective.GEO=Грузинский
+TINationTemplate.nationAdjective.GEO=грузинский
 TINationTemplate.displayNameWithArticlePrep.GEO=в Грузии
 
 TINationTemplate.displayName.GRE=Греция
 TINationTemplate.displayNameWithArticle.GRE=Греция
-TINationTemplate.nationAdjective.GRE=Греческий
+TINationTemplate.nationAdjective.GRE=греческий
 TINationTemplate.displayNameWithArticlePrep.GRE=в Греции
 
-TINationTemplate.displayName.GTM=Гватемала
-TINationTemplate.displayNameWithArticle.GTM=Гватемала
-TINationTemplate.nationAdjective.GTM=Гватемальский
-TINationTemplate.displayNameWithArticlePrep.GTM=в Гватемале
+TINationTemplate.displayName.GTM=Гренада
+TINationTemplate.displayNameWithArticle.GTM=Гренада
+TINationTemplate.nationAdjective.GTM=гренадый
+TINationTemplate.displayNameWithArticlePrep.GTM=в Гренаде
 
 TINationTemplate.unionDisplayName.GTM=Центральноамериканская Конфедерация
-TINationTemplate.unionDisplayNameWithArticle.GTM=Центральноамериканская Конфедерация
-TINationTemplate.unionAdjective.GTM=Центральноамериканский
-TINationTemplate.unionDisplayNameWithArticlePrep.GTM=в Центральноамериканской Конфедерации
+TINationTemplate.unionDisplayNameWithArticle.GTM=центральноамериканская Конфедерация
+TINationTemplate.unionAdjective.GTM=центральноамериканский
+TINationTemplate.unionDisplayNameWithArticlePrep.GTM=в центральноамериканской Конфедерации
 
 TINationTemplate.displayName.GUY=Гайана
 TINationTemplate.displayNameWithArticle.GUY=Гайана
-TINationTemplate.nationAdjective.GUY=Гайанский
+TINationTemplate.nationAdjective.GUY=гайанский
 TINationTemplate.displayNameWithArticlePrep.GUY=в Гайане
 
 TINationTemplate.displayName.HON=Гондурас
 TINationTemplate.displayNameWithArticle.HON=Гондурас
-TINationTemplate.nationAdjective.HON=Гондурасский
+TINationTemplate.nationAdjective.HON=гондурасский
 TINationTemplate.displayNameWithArticlePrep.HON=в Гондурасе
 
 TINationTemplate.displayName.HUN=Венгрия
 TINationTemplate.displayNameWithArticle.HUN=Венгрия
-TINationTemplate.nationAdjective.HUN=Венгерский
+TINationTemplate.nationAdjective.HUN=венгерский
 TINationTemplate.displayNameWithArticlePrep.HUN=в Венгрии
 
-TINationTemplate.displayName.ING=Петербургская Республика
-TINationTemplate.displayNameWithArticle.ING=Петербургская Республика
-TINationTemplate.nationAdjective.ING=Петербургский
-TINationTemplate.displayNameWithArticlePrep.ING=в Петербургской Республике
+TINationTemplate.displayName.ING=Республика Петербург
+TINationTemplate.displayNameWithArticle.ING=Республика Петербург
+TINationTemplate.nationAdjective.ING=петербургский
+TINationTemplate.displayNameWithArticlePrep.ING=в Республике Петербург
 
-TINationTemplate.displayName.IVO=Берег Слоновой Кости
-TINationTemplate.displayNameWithArticle.IVO=Берег Слоновой Кости
-TINationTemplate.nationAdjective.IVO=Ивуарийский
-TINationTemplate.displayNameWithArticlePrep.IVO=на Береге Слоновой Кости
+TINationTemplate.displayName.IVO=Кот-д'Ивуар
+TINationTemplate.displayNameWithArticle.IVO=Кот-д'Ивуар
+TINationTemplate.nationAdjective.IVO=ивуарийский
+TINationTemplate.displayNameWithArticlePrep.IVO=в Кот-д'Ивуаре
 
 TINationTemplate.displayName.KAR=Карелия
 TINationTemplate.displayNameWithArticle.KAR=Карелия
-TINationTemplate.nationAdjective.KAR=Карельский
+TINationTemplate.nationAdjective.KAR=карельский
 TINationTemplate.displayNameWithArticlePrep.KAR=в Карелии
 
 TINationTemplate.displayName.NIC=Никарагуа
 TINationTemplate.displayNameWithArticle.NIC=Никарагуа
-TINationTemplate.nationAdjective.NIC=Никарагуанский
+TINationTemplate.nationAdjective.NIC=никарагуанский
 TINationTemplate.displayNameWithArticlePrep.NIC=в Никарагуа
 
 TINationTemplate.displayName.NBK=Северные Балканские государства
 TINationTemplate.displayNameWithArticle.NBK=Северные Балканские государства
-TINationTemplate.nationAdjective.NBK=Северобалканский
+TINationTemplate.nationAdjective.NBK=севернобалканский
 TINationTemplate.displayNameWithArticlePrep.NBK=в Северных Балканских государствах
 
 TINationTemplate.displayName.PAN=Панама
 TINationTemplate.displayNameWithArticle.PAN=Панама
-TINationTemplate.nationAdjective.PAN=Панамский
+TINationTemplate.nationAdjective.PAN=панамский
 TINationTemplate.displayNameWithArticlePrep.PAN=в Панаме
 
 TINationTemplate.displayName.ROM=Румыния
 TINationTemplate.displayNameWithArticle.ROM=Румыния
-TINationTemplate.nationAdjective.ROM=Румынский
+TINationTemplate.nationAdjective.ROM=румынский
 TINationTemplate.displayNameWithArticlePrep.ROM=в Румынии
 
 TINationTemplate.displayName.ROS=Донское Казачье Войско
 TINationTemplate.displayNameWithArticle.ROS=Донское Казачье Войско
-TINationTemplate.nationAdjective.ROS=Казачий
+TINationTemplate.nationAdjective.ROS=казачий
 TINationTemplate.displayNameWithArticlePrep.ROS=в Донском Казачьем Войске
 
-TINationTemplate.displayName.SAH=Сахарави
-TINationTemplate.displayNameWithArticle.SAH=Сахарави
-TINationTemplate.nationAdjective.SAH=Сахаравийский
-TINationTemplate.displayNameWithArticlePrep.SAH=в Сахарави
+TINationTemplate.displayName.SAH=Сахрави
+TINationTemplate.displayNameWithArticle.SAH=Сахрави
+TINationTemplate.nationAdjective.SAH=Сахрави
+TINationTemplate.displayNameWithArticlePrep.SAH=в Сахрави
 
-TINationTemplate.displayName.SEG=Сенегамбия
-TINationTemplate.displayNameWithArticle.SEG=Сенегамбия
-TINationTemplate.nationAdjective.SEG=Сенегамбийский
-TINationTemplate.displayNameWithArticlePrep.SEG=в Сенегамбии
+TINationTemplate.displayName.SEG=Сенегал
+TINationTemplate.displayNameWithArticle.SEG=Сенегал
+TINationTemplate.nationAdjective.SEG=сенегальский
+TINationTemplate.displayNameWithArticlePrep.SEG=в Сенегале
+
+TINationTemplate.unionDisplayName.SEG=Сенегамбия
+TINationTemplate.unionDisplayNameWithArticle.SEG=Сенегамбия
+TINationTemplate.unionAdjective.SEG=сенегамбийский
+TINationTemplate.unionDisplayNameWithArticlePrep.SEG=в Сенегамбии
 
 TINationTemplate.displayName.SLO=Словакия
 TINationTemplate.displayNameWithArticle.SLO=Словакия
-TINationTemplate.nationAdjective.SLO=Словацкий
+TINationTemplate.nationAdjective.SLO=словацкий
 TINationTemplate.displayNameWithArticlePrep.SLO=в Словакии
 
 TINationTemplate.displayName.SBK=Албания
 TINationTemplate.displayNameWithArticle.SBK=Албания
-TINationTemplate.nationAdjective.SBK=Албанский
+TINationTemplate.nationAdjective.SBK=албанский
 TINationTemplate.displayNameWithArticlePrep.SBK=в Албании
 
 TINationTemplate.unionDisplayName.SER=Югославия
 TINationTemplate.unionDisplayNameWithArticle.SER=Югославия
-TINationTemplate.unionAdjective.SER=Югославский
+TINationTemplate.unionAdjective.SER=югославский
 TINationTemplate.unionDisplayNameWithArticlePrep.SER=в Югославии
 
 TINationTemplate.displayName.SUR=Суринам
 TINationTemplate.displayNameWithArticle.SUR=Суринам
-TINationTemplate.nationAdjective.SUR=Суринамский
+TINationTemplate.nationAdjective.SUR=суринамский
 TINationTemplate.displayNameWithArticlePrep.SUR=в Суринаме
 
 TINationTemplate.displayName.TAR=Татарстан
 TINationTemplate.displayNameWithArticle.TAR=Татарстан
-TINationTemplate.nationAdjective.TAR=Татарский
+TINationTemplate.nationAdjective.TAR=татарский
 TINationTemplate.displayNameWithArticlePrep.TAR=в Татарстане
 
 TINationTemplate.displayName.URL=Уральская Республика
 TINationTemplate.displayNameWithArticle.URL=Уральская Республика
-TINationTemplate.nationAdjective.URL=Уральский
+TINationTemplate.nationAdjective.URL=уральский
 TINationTemplate.displayNameWithArticlePrep.URL=в Уральской Республике
 
 TINationTemplate.unionDisplayName.POL=Интермариум
 TINationTemplate.unionDisplayNameWithArticle.POL=Интермариум
-TINationTemplate.unionAdjective.POL=Интермариумский
+TINationTemplate.unionAdjective.POL=интермариумский
 TINationTemplate.unionDisplayNameWithArticlePrep.POL=в Интермариуме
 
 TINationTemplate.displayName.PAT=Патагония
 TINationTemplate.displayNameWithArticle.PAT=Патагония
-TINationTemplate.nationAdjective.PAT=Патагонский
+TINationTemplate.nationAdjective.PAT=патагонианский
 TINationTemplate.displayNameWithArticlePrep.PAT=в Патагонии
 
 TINationTemplate.displayName.PGN=Пейи Гвиана
 TINationTemplate.displayNameWithArticle.PGN=Пейи Гвиана
-TINationTemplate.nationAdjective.PGN=Пейи-гвианский
-TINationTemplate.displayNameWithArticlePrep.PGN=в Пейи Гвиане
+TINationTemplate.nationAdjective.PGN=гвианский
+TINationTemplate.displayNameWithArticlePrep.PGN=в Пейи Гвиана
 
-TINationTemplate.displayName.PNG=Папуа — Новая Гвинея
-TINationTemplate.displayNameWithArticle.PNG=Папуа — Новая Гвинея
-TINationTemplate.nationAdjective.PNG=Папуасский
-TINationTemplate.displayNameWithArticlePrep.PNG=в Папуа — Новой Гвинее
+TINationTemplate.displayName.PNG=Папуа-Новая Гвинея
+TINationTemplate.displayNameWithArticle.PNG=Папуа-Новая Гвинея
+TINationTemplate.nationAdjective.PNG=папуаский
+TINationTemplate.displayNameWithArticlePrep.PNG=в Папуа-Новой Гвинее
 
 TINationTemplate.displayName.YUC=Юкатан
 TINationTemplate.displayNameWithArticle.YUC=Юкатан
-TINationTemplate.nationAdjective.YUC=Юкатанский
+TINationTemplate.nationAdjective.YUC=юкатанский
 TINationTemplate.displayNameWithArticlePrep.YUC=в Юкатане
 
 TINationTemplate.displayName.RIO=Рио-Браво
@@ -979,264 +972,264 @@ TINationTemplate.nationAdjective.RIO=Рио-Браво
 TINationTemplate.displayNameWithArticlePrep.RIO=в Рио-Браво
 
 TINationTemplate.displayName.MCS=Микронезийские государства
-TINationTemplate.displayNameWithArticle.MCS=Микронезийские государства
-TINationTemplate.nationAdjective.MCS=Микронезийский
-TINationTemplate.displayNameWithArticlePrep.MCS=в Микронезийских государствах
+TINationTemplate.displayNameWithArticle.MCS=микронезийские штаты
+TINationTemplate.nationAdjective.MCS=микронезийский
+TINationTemplate.displayNameWithArticlePrep.MCS=в микронезийских штатах
 
-TINationTemplate.displayName.PLS=Полинезийские государства
-TINationTemplate.displayNameWithArticle.PLS=Полинезийские государства
-TINationTemplate.nationAdjective.PLS=Полинезийский
-TINationTemplate.displayNameWithArticlePrep.PLS=в Полинезийских государствах
+TINationTemplate.displayName.PLS=полинезийские штаты
+TINationTemplate.displayNameWithArticle.PLS=полинезийские штаты
+TINationTemplate.nationAdjective.PLS=полинезийский
+TINationTemplate.displayNameWithArticlePrep.PLS=в полинезийских штатах
 
-TINationTemplate.displayName.SER=Сербия-Косово
-TINationTemplate.displayNameWithArticle.SER=Сербия-Косово
-TINationTemplate.nationAdjective.SER=Сербский
-TINationTemplate.displayNameWithArticlePrep.SER=в Сербии-Косово
+TINationTemplate.displayName.SER=Сербия
+TINationTemplate.displayNameWithArticle.SER=Сербия
+TINationTemplate.nationAdjective.SER=сербский
+TINationTemplate.displayNameWithArticlePrep.SER=в Сербии
 
 TINationTemplate.displayName.ATL=Атлантический Союз
 TINationTemplate.displayNameWithArticle.ATL=Атлантический Союз
-TINationTemplate.nationAdjective.ATL=Атлантический
+TINationTemplate.nationAdjective.ATL=атлантический
 TINationTemplate.displayNameWithArticlePrep.ATL=в Атлантическом Союзе
 
 TINationTemplate.displayName.BRT=Бретань
 TINationTemplate.displayNameWithArticle.BRT=Бретань
-TINationTemplate.nationAdjective.BRT=Бретонский
+TINationTemplate.nationAdjective.BRT=бретонский
 TINationTemplate.displayNameWithArticlePrep.BRT=в Бретани
 
 TINationTemplate.displayName.NUB=Нубия
 TINationTemplate.displayNameWithArticle.NUB=Нубия
-TINationTemplate.nationAdjective.NUB=Нубийский
+TINationTemplate.nationAdjective.NUB=нубийский
 TINationTemplate.displayNameWithArticlePrep.NUB=в Нубии
 
 TINationTemplate.displayName.JEF=Свободное государство Джефферсон
 TINationTemplate.displayNameWithArticle.JEF=Свободное государство Джефферсон
-TINationTemplate.nationAdjective.JEF=Джефферсонский
+TINationTemplate.nationAdjective.JEF=джефферсонский
 TINationTemplate.displayNameWithArticlePrep.JEF=в Свободном государстве Джефферсон
 
 TINationTemplate.displayName.SWI=Швейцария
 TINationTemplate.displayNameWithArticle.SWI=Швейцария
-TINationTemplate.nationAdjective.SWI=Швейцарский
+TINationTemplate.nationAdjective.SWI=швейцарский
 TINationTemplate.displayNameWithArticlePrep.SWI=в Швейцарии
 
 TINationTemplate.displayName.KOM=Республика Коми
 TINationTemplate.displayNameWithArticle.KOM=Республика Коми
-TINationTemplate.nationAdjective.KOM=Коми
+TINationTemplate.nationAdjective.KOM=коми
 TINationTemplate.displayNameWithArticlePrep.KOM=в Республике Коми
 
 TINationTemplate.displayName.MIN=Минданао
 TINationTemplate.displayNameWithArticle.MIN=Минданао
-TINationTemplate.nationAdjective.MIN=Минданаоский
+TINationTemplate.nationAdjective.MIN=минданаоский
 TINationTemplate.displayNameWithArticlePrep.MIN=в Минданао
 
 TINationTemplate.displayName.KHU=Хузестан
 TINationTemplate.displayNameWithArticle.KHU=Хузестан
-TINationTemplate.nationAdjective.KHU=Хузестанский
+TINationTemplate.nationAdjective.KHU=хузестанский
 TINationTemplate.displayNameWithArticlePrep.KHU=в Хузестане
 
 TINationTemplate.displayName.BAV=Бавария
 TINationTemplate.displayNameWithArticle.BAV=Бавария
-TINationTemplate.nationAdjective.BAV=Баварский
+TINationTemplate.nationAdjective.BAV=баварский
 TINationTemplate.displayNameWithArticlePrep.BAV=в Баварии
 
-TINationTemplate.displayName.BEN=Бенин-Того
-TINationTemplate.displayNameWithArticle.BEN=Бенин-Того
-TINationTemplate.nationAdjective.BEN=Бенин-Того
-TINationTemplate.displayNameWithArticlePrep.BEN=в Бенине-Того
+TINationTemplate.displayName.BEN=Бенин
+TINationTemplate.displayNameWithArticle.BEN=Бенин
+TINationTemplate.nationAdjective.BEN=бенинский
+TINationTemplate.displayNameWithArticlePrep.BEN=в Бенине
 
 TINationTemplate.displayName.BGM=Бельгия-Люксембург
 TINationTemplate.displayNameWithArticle.BGM=Бельгия-Люксембург
-TINationTemplate.nationAdjective.BGM=Бельгийский
+TINationTemplate.nationAdjective.BGM=бельгийский
 TINationTemplate.displayNameWithArticlePrep.BGM=в Бельгии-Люксембурге
 
 TINationTemplate.displayName.COR=Республика Конго
 TINationTemplate.displayNameWithArticle.COR=Республика Конго
-TINationTemplate.nationAdjective.COR=Конголезский
+TINationTemplate.nationAdjective.COR=конголезский
 TINationTemplate.displayNameWithArticlePrep.COR=в Республике Конго
 
 TINationTemplate.displayName.CRY=Свободные Канары
 TINationTemplate.displayNameWithArticle.CRY=Свободные Канары
-TINationTemplate.nationAdjective.CRY=Канарский
+TINationTemplate.nationAdjective.CRY=канарский
 TINationTemplate.displayNameWithArticlePrep.CRY=в Свободных Канарах
 
 TINationTemplate.displayName.FUJ=Фуцзянь
 TINationTemplate.displayNameWithArticle.FUJ=Фуцзянь
-TINationTemplate.nationAdjective.FUJ=Фуцзяньский
+TINationTemplate.nationAdjective.FUJ=фуцзяньский
 TINationTemplate.displayNameWithArticlePrep.FUJ=в Фуцзяне
 
 TINationTemplate.displayName.GUJ=Гуджарат
 TINationTemplate.displayNameWithArticle.GUJ=Гуджарат
-TINationTemplate.nationAdjective.GUJ=Гуджаратский
+TINationTemplate.nationAdjective.GUJ=гуджаратский
 TINationTemplate.displayNameWithArticlePrep.GUJ=в Гуджарате
 
 TINationTemplate.displayName.GWA=Гвалиор
 TINationTemplate.displayNameWithArticle.GWA=Гвалиор
-TINationTemplate.nationAdjective.GWA=Гвалиорский
+TINationTemplate.nationAdjective.GWA=гвалиорский
 TINationTemplate.displayNameWithArticlePrep.GWA=в Гвалиоре
 
 TINationTemplate.displayName.HYD=Хайдарабад
 TINationTemplate.displayNameWithArticle.HYD=Хайдарабад
-TINationTemplate.nationAdjective.HYD=Хайдарабадский
+TINationTemplate.nationAdjective.HYD=хайдарабадский
 TINationTemplate.displayNameWithArticlePrep.HYD=в Хайдарабаде
 
 TINationTemplate.displayName.JAI=Джайпур
 TINationTemplate.displayNameWithArticle.JAI=Джайпур
-TINationTemplate.nationAdjective.JAI=Джайпурский
+TINationTemplate.nationAdjective.JAI=джайпурский
 TINationTemplate.displayNameWithArticlePrep.JAI=в Джайпуре
 
 TINationTemplate.displayName.MAH=Махараштра
 TINationTemplate.displayNameWithArticle.MAH=Махараштра
-TINationTemplate.nationAdjective.MAH=Махараштрийский
+TINationTemplate.nationAdjective.MAH=махараштранский
 TINationTemplate.displayNameWithArticlePrep.MAH=в Махараштре
 
 TINationTemplate.displayName.MOL=Молдова
 TINationTemplate.displayNameWithArticle.MOL=Молдова
-TINationTemplate.nationAdjective.MOL=Молдавский
+TINationTemplate.nationAdjective.MOL=молдавский
 TINationTemplate.displayNameWithArticlePrep.MOL=в Молдове
 
-TINationTemplate.displayName.NCF=Конфедерация Северного Кавказа
-TINationTemplate.displayNameWithArticle.NCF=Конфедерация Северного Кавказа
-TINationTemplate.nationAdjective.NCF=Кавказский
-TINationTemplate.displayNameWithArticlePrep.NCF=в Конфедерации Северного Кавказа
+TINationTemplate.displayName.NCF=Северокавказская конфедерация
+TINationTemplate.displayNameWithArticle.NCF=Северокавказская конфедерация
+TINationTemplate.nationAdjective.NCF=кавказский
+TINationTemplate.displayNameWithArticlePrep.NCF=в Северокавказской конфедерации
 
 TINationTemplate.displayName.RNA=Новая Африка
 TINationTemplate.displayNameWithArticle.RNA=Новая Африка
-TINationTemplate.nationAdjective.RNA=Новоафриканский
+TINationTemplate.nationAdjective.RNA=новоафриканский
 TINationTemplate.displayNameWithArticlePrep.RNA=в Новой Африке
 
 TINationTemplate.displayName.RYU=Республика Рюкю
 TINationTemplate.displayNameWithArticle.RYU=Республика Рюкю
-TINationTemplate.nationAdjective.RYU=Рюкюский
+TINationTemplate.nationAdjective.RYU=Рюкю
 TINationTemplate.displayNameWithArticlePrep.RYU=в Республике Рюкю
 
 TINationTemplate.displayName.SAO=Сан-Паулу
 TINationTemplate.displayNameWithArticle.SAO=Сан-Паулу
-TINationTemplate.nationAdjective.SAO=Сан-Паулуский
+TINationTemplate.nationAdjective.SAO=сан-пауло
 TINationTemplate.displayNameWithArticlePrep.SAO=в Сан-Паулу
 
 TINationTemplate.displayName.SHG=Шаанган
 TINationTemplate.displayNameWithArticle.SHG=Шаанган
-TINationTemplate.nationAdjective.SHG=Шаанганский
+TINationTemplate.nationAdjective.SHG=шаанган
 TINationTemplate.displayNameWithArticlePrep.SHG=в Шаангане
 
 TINationTemplate.displayName.SOL=Сомалиленд
 TINationTemplate.displayNameWithArticle.SOL=Сомалиленд
-TINationTemplate.nationAdjective.SOL=Сомалилендский
+TINationTemplate.nationAdjective.SOL=сомалилендский
 TINationTemplate.displayNameWithArticlePrep.SOL=в Сомалиленде
 
 TINationTemplate.displayName.YMS=Южный Йемен
 TINationTemplate.displayNameWithArticle.YMS=Южный Йемен
-TINationTemplate.nationAdjective.YMS=Южнойеменский
+TINationTemplate.nationAdjective.YMS=южно-йеменский
 TINationTemplate.displayNameWithArticlePrep.YMS=в Южном Йемене
 
 TINationTemplate.displayName.WCA=Западная Канада
 TINationTemplate.displayNameWithArticle.WCA=Западная Канада
-TINationTemplate.nationAdjective.WCA=Западноканадский
+TINationTemplate.nationAdjective.WCA=западно-канадский
 TINationTemplate.displayNameWithArticlePrep.WCA=в Западной Канаде
 
 TINationTemplate.displayName.HKO=Гонконг
 TINationTemplate.displayNameWithArticle.HKO=Гонконг
-TINationTemplate.nationAdjective.HKO=Гонконгский
+TINationTemplate.nationAdjective.HKO=гонконгский
 TINationTemplate.displayNameWithArticlePrep.HKO=в Гонконге
 
 TINationTemplate.displayName.MAL=Малави
 TINationTemplate.displayNameWithArticle.MAL=Малави
-TINationTemplate.nationAdjective.MAL=Малавийский
+TINationTemplate.nationAdjective.MAL=малавийский
 TINationTemplate.displayNameWithArticlePrep.MAL=в Малави
 
 TINationTemplate.displayName.CPV=Кабо-Верде
 TINationTemplate.displayNameWithArticle.CPV=Кабо-Верде
-TINationTemplate.nationAdjective.CPV=Кабо-вердианский
+TINationTemplate.nationAdjective.CPV=кабо-вердианский
 TINationTemplate.displayNameWithArticlePrep.CPV=в Кабо-Верде
 
 TINationTemplate.displayName.SPE=Куллана Сую Марка
 TINationTemplate.displayNameWithArticle.SPE=Куллана Сую Марка
-TINationTemplate.nationAdjective.SPE=Кулланский
-TINationTemplate.displayNameWithArticlePrep.SPE=в Куллана Сую Марке
+TINationTemplate.nationAdjective.SPE=кулланан
+TINationTemplate.displayNameWithArticlePrep.SPE=в Куллана Сую Марка
 
 TINationTemplate.displayName.RWB=Руанда-Бурунди
 TINationTemplate.displayNameWithArticle.RWB=Руанда-Бурунди
-TINationTemplate.nationAdjective.RWB=Руандийский
-TINationTemplate.displayNameWithArticlePrep.RWB=в Руанде-Бурунди
+TINationTemplate.nationAdjective.RWB=руандийский
+TINationTemplate.displayNameWithArticlePrep.RWB=в Руанда-Бурунди
 
 TINationTemplate.displayName.GHA=Гана
 TINationTemplate.displayNameWithArticle.GHA=Гана
-TINationTemplate.nationAdjective.GHA=Ганский
+TINationTemplate.nationAdjective.GHA=ганский
 TINationTemplate.displayNameWithArticlePrep.GHA=в Гане
 
 TINationTemplate.displayName.LEB=Ливан
 TINationTemplate.displayNameWithArticle.LEB=Ливан
-TINationTemplate.nationAdjective.LEB=Ливанский
+TINationTemplate.nationAdjective.LEB=ливанский
 TINationTemplate.displayNameWithArticlePrep.LEB=в Ливане
 
-TINationTemplate.displayName.GIN=Гвинея-Гвинея-Бисау
-TINationTemplate.displayNameWithArticle.GIN=Гвинея-Гвинея-Бисау
-TINationTemplate.nationAdjective.GIN=Гвинейский
-TINationTemplate.displayNameWithArticlePrep.GIN=в Гвинее-Гвинее-Бисау
+TINationTemplate.displayName.GIN=Гвинея
+TINationTemplate.displayNameWithArticle.GIN=Гвинея
+TINationTemplate.nationAdjective.GIN=гвинейский
+TINationTemplate.displayNameWithArticlePrep.GIN=в Гвинее
 
 TINationTemplate.displayName.LBR=Либерия
 TINationTemplate.displayNameWithArticle.LBR=Либерия
-TINationTemplate.nationAdjective.LBR=Либерийский
+TINationTemplate.nationAdjective.LBR=либерианский
 TINationTemplate.displayNameWithArticlePrep.LBR=в Либерии
 
 TINationTemplate.displayName.SLE=Сьерра-Леоне
 TINationTemplate.displayNameWithArticle.SLE=Сьерра-Леоне
-TINationTemplate.nationAdjective.SLE=Сьерра-леонский
+TINationTemplate.nationAdjective.SLE=сьерра-леонский
 TINationTemplate.displayNameWithArticlePrep.SLE=в Сьерра-Леоне
 
 TINationTemplate.displayName.UAE=Объединенные Арабские Эмираты
 TINationTemplate.displayNameWithArticle.UAE=Объединенные Арабские Эмираты
-TINationTemplate.nationAdjective.UAE=Эмиратский
+TINationTemplate.nationAdjective.UAE=эмиратский
 TINationTemplate.displayNameWithArticlePrep.UAE=в Объединенных Арабских Эмиратах
 
 TINationTemplate.displayName.LTU=Литва
 TINationTemplate.displayNameWithArticle.LTU=Литва
-TINationTemplate.nationAdjective.LTU=Литовский
+TINationTemplate.nationAdjective.LTU=литовский
 TINationTemplate.displayNameWithArticlePrep.LTU=в Литве
 
 TINationTemplate.displayName.LVA=Латвия
 TINationTemplate.displayNameWithArticle.LVA=Латвия
-TINationTemplate.nationAdjective.LVA=Латвийский
+TINationTemplate.nationAdjective.LVA=латвийский
 TINationTemplate.displayNameWithArticlePrep.LVA=в Латвии
 
 TINationTemplate.displayName.EST=Эстония
 TINationTemplate.displayNameWithArticle.EST=Эстония
-TINationTemplate.nationAdjective.EST=Эстонский
+TINationTemplate.nationAdjective.EST=эстонский
 TINationTemplate.displayNameWithArticlePrep.EST=в Эстонии
 
-TINationTemplate.displayName.CRS=Хорватия-Словения
-TINationTemplate.displayNameWithArticle.CRS=Хорватия-Словения
-TINationTemplate.nationAdjective.CRS=Хорватский
-TINationTemplate.displayNameWithArticlePrep.CRS=в Хорватии-Словении
+TINationTemplate.displayName.CRS=Хорватия
+TINationTemplate.displayNameWithArticle.CRS=Хорватия
+TINationTemplate.nationAdjective.CRS=хорватский
+TINationTemplate.displayNameWithArticlePrep.CRS=в Хорватии
 
-TINationTemplate.displayName.BSM=Босния-Герцеговина-Черногория
-TINationTemplate.displayNameWithArticle.BSM=Босния-Герцеговина-Черногория
-TINationTemplate.nationAdjective.BSM=Боснийский
-TINationTemplate.displayNameWithArticlePrep.BSM=в Боснии-Герцеговине-Черногории
+TINationTemplate.displayName.BSM=Босния и Герцеговина
+TINationTemplate.displayNameWithArticle.BSM=Босния и Герцеговина
+TINationTemplate.nationAdjective.BSM=боснийский
+TINationTemplate.displayNameWithArticlePrep.BSM=в Боснии и Герцеговине
 
 TINationTemplate.displayName.CYE=Киренаика
 TINationTemplate.displayNameWithArticle.CYE=Киренаика
-TINationTemplate.nationAdjective.CYE=Киренаикский
+TINationTemplate.nationAdjective.CYE=киренаиканский
 TINationTemplate.displayNameWithArticlePrep.CYE=в Киренаике
 
 TINationTemplate.displayName.DJI=Джибути
 TINationTemplate.displayNameWithArticle.DJI=Джибути
-TINationTemplate.nationAdjective.DJI=Джибутийский
+TINationTemplate.nationAdjective.DJI=джибутийский
 TINationTemplate.displayNameWithArticlePrep.DJI=в Джибути
 
 TINationTemplate.displayName.DAR=Дарфур
 TINationTemplate.displayNameWithArticle.DAR=Дарфур
-TINationTemplate.nationAdjective.DAR=Дарфурский
+TINationTemplate.nationAdjective.DAR=дарфурский
 TINationTemplate.displayNameWithArticlePrep.DAR=в Дарфуре
 
 TINationTemplate.displayName.DOM=Доминиканская Республика
 TINationTemplate.displayNameWithArticle.DOM=Доминиканская Республика
-TINationTemplate.nationAdjective.DOM=Доминиканский
+TINationTemplate.nationAdjective.DOM=Доминиканская Республика
 TINationTemplate.displayNameWithArticlePrep.DOM=в Доминиканской Республике
 
 TINationTemplate.displayName.HTI=Гаити
 TINationTemplate.displayNameWithArticle.HTI=Гаити
 TINationTemplate.nationAdjective.HTI=Гаитянский
-TINationTemplate.displayNameWithArticlePrep.HTI=на Гаити
+TINationTemplate.displayNameWithArticlePrep.HTI=в Гаити
 
 TINationTemplate.displayName.MKD=Северная Македония
 TINationTemplate.displayNameWithArticle.MKD=Северная Македония
@@ -1248,12 +1241,322 @@ TINationTemplate.displayNameWithArticle.AZA=Азавад
 TINationTemplate.nationAdjective.AZA=Азавадский
 TINationTemplate.displayNameWithArticlePrep.AZA=в Азаваде
 
-TINationTemplate.displayName.PAD=Падания
-TINationTemplate.displayNameWithArticle.PAD=Падания
+TINationTemplate.displayName.PAD=Паданья
+TINationTemplate.displayNameWithArticle.PAD=Паданья
 TINationTemplate.nationAdjective.PAD=Паданский
-TINationTemplate.displayNameWithArticlePrep.PAD=в Падании
+TINationTemplate.displayNameWithArticlePrep.PAD=в Паданье
 
-TINationTemplate.displayName.KAC=Качин-Аракан
-TINationTemplate.displayNameWithArticle.KAC=Качин-Аракан
-TINationTemplate.nationAdjective.KAC=Качинский
-TINationTemplate.displayNameWithArticlePrep.KAC=в Качин-Аракане
+TINationTemplate.displayName.KAC=Качин-Аркан
+TINationTemplate.displayNameWithArticle.KAC=Качин-Аркан
+TINationTemplate.nationAdjective.KAC=Качин
+TINationTemplate.displayNameWithArticlePrep.KAC=в Качин-Аркан
+
+TINationTemplate.displayName.BRU=Бруней-Даруссалам
+TINationTemplate.displayNameWithArticle.BRU=Бруней-Даруссалам
+TINationTemplate.nationAdjective.BRU=Брунейский
+TINationTemplate.displayNameWithArticlePrep.BRU=в Бруней-Даруссалам
+
+TINationTemplate.displayName.EQG=Экваториальная Гвинея
+TINationTemplate.displayNameWithArticle.EQG=Экваториальная Гвинея
+TINationTemplate.nationAdjective.EQG=Экватогвинейский
+TINationTemplate.displayNameWithArticlePrep.EQG=в Экваториальной Гвинее
+
+TINationTemplate.displayName.MLD=Мальдивы
+TINationTemplate.displayNameWithArticle.MLD=Мальдивы
+TINationTemplate.nationAdjective.MLD=Мальдивский
+TINationTemplate.displayNameWithArticlePrep.MLD=на Мальдивах
+
+TINationTemplate.displayName.ACE=Ачех
+TINationTemplate.displayNameWithArticle.ACE=Ачех
+TINationTemplate.nationAdjective.ACE=Ачехский
+TINationTemplate.displayNameWithArticlePrep.ACE=в Ачехе
+
+TINationTemplate.displayName.NEN=Северное Собрание
+TINationTemplate.displayNameWithArticle.NEN=Северное Собрание
+TINationTemplate.nationAdjective.NEN=Северный
+TINationTemplate.displayNameWithArticlePrep.NEN=в Северном Собрании
+
+TINationTemplate.displayName.GNB=Гвинея-Бисау
+TINationTemplate.displayNameWithArticle.GNB=Гвинея-Бисау
+TINationTemplate.nationAdjective.GNB=Бисау-гвинейский
+TINationTemplate.displayNameWithArticlePrep.GNB=в Гвинее-Бисау
+
+TINationTemplate.displayName.STP=Сан-Томе и Принсипи
+TINationTemplate.displayNameWithArticle.STP=Сан-Томе и Принсипи
+TINationTemplate.nationAdjective.STP=Сантомейский
+TINationTemplate.displayNameWithArticlePrep.STP=в Сан-Томе и Принсипи
+
+TINationTemplate.displayName.TLS=Тимор-Лешти
+TINationTemplate.displayNameWithArticle.TLS=Тимор-Лешти
+TINationTemplate.nationAdjective.TLS=Тиморский
+TINationTemplate.displayNameWithArticlePrep.TLS=в Тимор-Лешти
+
+TINationTemplate.displayName.TGO=Того
+TINationTemplate.displayNameWithArticle.TGO=Того
+TINationTemplate.nationAdjective.TGO=Тоголез
+TINationTemplate.displayNameWithArticlePrep.TGO=в Того
+
+TINationTemplate.displayName.WAL=Уэльс
+TINationTemplate.displayNameWithArticle.WAL=Уэльс
+TINationTemplate.nationAdjective.WAL=Уэльсский
+TINationTemplate.displayNameWithArticlePrep.WAL=в Уэльсе
+
+TINationTemplate.unionDisplayName.IRL=Кельтская лига
+TINationTemplate.unionDisplayNameWithArticle.IRL=Кельтская лига
+TINationTemplate.unionAdjective.IRL=Кельтский
+TINationTemplate.unionDisplayNameWithArticlePrep.IRL=в Кельтской лиге
+
+TINationTemplate.displayName.KRK=Каракалпакстан
+TINationTemplate.displayNameWithArticle.KRK=Каракалпакстан
+TINationTemplate.nationAdjective.KRK=Каракалпакский
+TINationTemplate.displayNameWithArticlePrep.KRK=в Каракалпакстане
+
+TINationTemplate.displayName.KOS=Косово
+TINationTemplate.displayNameWithArticle.KOS=Косово
+TINationTemplate.nationAdjective.KOS=Косовар
+TINationTemplate.displayNameWithArticlePrep.KOS=в Косово
+
+TINationTemplate.displayName.KUW=Кувейт
+TINationTemplate.displayNameWithArticle.KUW=Кувейт
+TINationTemplate.nationAdjective.KUW=Кувейтский
+TINationTemplate.displayNameWithArticlePrep.KUW=в Кувейте
+
+TINationTemplate.displayName.LOG=Дар Эль-Кути
+TINationTemplate.displayNameWithArticle.LOG=Дар Эль-Кути
+TINationTemplate.nationAdjective.LOG=Дар Эль-Кути
+TINationTemplate.displayNameWithArticlePrep.LOG=в Дар Эль-Кути
+
+TINationTemplate.displayName.MRS=Маврикий
+TINationTemplate.displayNameWithArticle.MRS=Маврикий
+TINationTemplate.nationAdjective.MRS=Маврикийский
+TINationTemplate.displayNameWithArticlePrep.MRS=в Маврикии
+
+TINationTemplate.displayName.MNE=Черногория
+TINationTemplate.displayNameWithArticle.MNE=Черногория
+TINationTemplate.nationAdjective.MNE=Черногорский
+TINationTemplate.displayNameWithArticlePrep.MNE=в Черногории
+
+TINationTemplate.displayName.SYC=Сейшелы
+TINationTemplate.displayNameWithArticle.SYC=Сейшелы
+TINationTemplate.nationAdjective.SYC=Сейшельский
+TINationTemplate.displayNameWithArticlePrep.SYC=на Сейшелах
+
+TINationTemplate.displayName.SLV=Словения
+TINationTemplate.displayNameWithArticle.SLV=Словения
+TINationTemplate.nationAdjective.SLV=Словенский
+TINationTemplate.displayNameWithArticlePrep.SLV=в Словении
+
+TINationTemplate.displayName.ZAN=Занзибар
+TINationTemplate.displayNameWithArticle.ZAN=Занзибар
+TINationTemplate.nationAdjective.ZAN=Занзибарец
+TINationTemplate.displayNameWithArticlePrep.ZAN=в Занзибаре
+
+TINationTemplate.displayName.DON=Донецкая Республика
+TINationTemplate.displayNameWithArticle.DON=Донецкая Республика
+TINationTemplate.nationAdjective.DON=Донецкий
+TINationTemplate.displayNameWithArticlePrep.DON=в Донецкой Республике
+
+TINationTemplate.displayName.MOM=Республика Момбаса
+TINationTemplate.displayNameWithArticle.MOM=Республика Момбаса
+TINationTemplate.nationAdjective.MOM=Момбасан
+TINationTemplate.displayNameWithArticlePrep.MOM=в Республике Момбаса
+
+TINationTemplate.displayName.ARE=Арева
+TINationTemplate.displayNameWithArticle.ARE=Арева
+TINationTemplate.nationAdjective.ARE=Ареван
+TINationTemplate.displayNameWithArticlePrep.ARE=в Ареве
+
+TINationTemplate.displayName.LNT=Лунда-Тчоквэ
+TINationTemplate.displayNameWithArticle.LNT=Лунда-Тчоквэ
+TINationTemplate.nationAdjective.LNT=Лунда-Тчоквэан
+TINationTemplate.displayNameWithArticlePrep.LNT=в Лунда-Тчоквэ
+
+TINationTemplate.displayName.KAL=Балтийская Республика
+TINationTemplate.displayNameWithArticle.KAL=Балтийская Республика
+TINationTemplate.nationAdjective.KAL=Балтийский
+TINationTemplate.displayNameWithArticlePrep.KAL=в Балтийской Республике
+
+TINationTemplate.displayName.TRA=Трансильвания
+TINationTemplate.displayNameWithArticle.TRA=Трансильвания
+TINationTemplate.nationAdjective.TRA=Трансильванский
+TINationTemplate.displayNameWithArticlePrep.TRA=в Трансильвании
+
+TINationTemplate.displayName.BHU=Бутан
+TINationTemplate.displayNameWithArticle.BHU=Бутан
+TINationTemplate.nationAdjective.BHU=Бутанец
+TINationTemplate.displayNameWithArticlePrep.BHU=в Бутане
+
+TINationTemplate.displayName.BEJ=Конгресс Беджа
+TINationTemplate.displayNameWithArticle.BEJ=Конгресс Беджа
+TINationTemplate.nationAdjective.BEJ=Беджа
+TINationTemplate.displayNameWithArticlePrep.BEJ=в Бедже
+
+TINationTemplate.displayName.MSO=Майсур
+TINationTemplate.displayNameWithArticle.MSO=Майсур
+TINationTemplate.nationAdjective.MSO=Майсурский
+TINationTemplate.displayNameWithArticlePrep.MSO=в Майсуре
+
+TINationTemplate.displayName.OGA=Огаден
+TINationTemplate.displayNameWithArticle.OGA=Огаден
+TINationTemplate.nationAdjective.OGA=Огаденец
+TINationTemplate.displayNameWithArticlePrep.OGA=в Огадене
+
+TINationTemplate.displayName.TEW=Те Вайпоунаму
+TINationTemplate.displayNameWithArticle.TEW=Те Вайпоунаму
+TINationTemplate.nationAdjective.TEW=Те Вайпоунаму
+TINationTemplate.displayNameWithArticlePrep.TEW=в Те Вайпоунаму
+
+TINationTemplate.displayName.ODI=Одиша
+TINationTemplate.displayNameWithArticle.ODI=Одиша
+TINationTemplate.nationAdjective.ODI=Одишан
+TINationTemplate.displayNameWithArticlePrep.ODI=в Одише
+
+TINationTemplate.displayName.CHA=Чхаттисгарх
+TINationTemplate.displayNameWithArticle.CHA=Чхаттисгарх
+TINationTemplate.nationAdjective.CHA=Чхаттисгарх
+TINationTemplate.displayNameWithArticlePrep.CHA=в Чхаттисгархе
+
+TINationTemplate.displayName.BGL=Бенгал
+TINationTemplate.displayNameWithArticle.BGL=Бенгал
+TINationTemplate.nationAdjective.BGL=Бенгальский
+TINationTemplate.displayNameWithArticlePrep.BGL=в Бенгале
+
+TINationTemplate.displayName.PRO=Пуэрто-Рико
+TINationTemplate.displayNameWithArticle.PRO=Пуэрто-Рико
+TINationTemplate.nationAdjective.PRO=Пуэрто-риканец
+TINationTemplate.displayNameWithArticlePrep.PRO=в Пуэрто-Рико
+
+TINationTemplate.displayName.HAW=Гавайи
+TINationTemplate.displayNameWithArticle.HAW=Гавайи
+TINationTemplate.nationAdjective.HAW=Гавайский
+TINationTemplate.displayNameWithArticlePrep.HAW=в Гавайях
+
+TINationTemplate.displayName.GAX=Гуанси
+TINationTemplate.displayNameWithArticle.GAX=Гуанси
+TINationTemplate.nationAdjective.GAX=Гуансийский
+TINationTemplate.displayNameWithArticlePrep.GAX=в Гуанси
+
+TINationTemplate.displayName.HNN=Хунань
+TINationTemplate.displayNameWithArticle.HNN=Хунань
+TINationTemplate.nationAdjective.HNN=Хунанец
+TINationTemplate.displayNameWithArticlePrep.HNN=в Хунане
+
+TINationTemplate.displayName.SAK=Якутия
+TINationTemplate.displayNameWithArticle.SAK=Якутия
+TINationTemplate.nationAdjective.SAK=Якутский
+TINationTemplate.displayNameWithArticlePrep.SAK=в Якутии
+
+TINationTemplate.displayName.MDV=Мордовия
+TINationTemplate.displayNameWithArticle.MDV=Мордовия
+TINationTemplate.nationAdjective.MDV=Мордовец
+TINationTemplate.displayNameWithArticlePrep.MDV=в Мордовии
+
+TINationTemplate.displayName.BUR=Бурятия
+TINationTemplate.displayNameWithArticle.BUR=Бурятия
+TINationTemplate.nationAdjective.BUR=Бурятский
+TINationTemplate.displayNameWithArticlePrep.BUR=в Бурятии
+
+TINationTemplate.displayName.PCF=Дальневосточная Федерация
+TINationTemplate.displayNameWithArticle.PCF=Дальневосточная Федерация
+TINationTemplate.nationAdjective.PCF=Дальневосточная Федерация
+TINationTemplate.displayNameWithArticlePrep.PCF=в Дальневосточной Федерации
+
+TINationTemplate.unionDisplayName.SAU=Гulf Union
+TINationTemplate.unionDisplayNameWithArticle.SAU=Гulf Union
+TINationTemplate.unionAdjective.SAU=Гulf Union
+TINationTemplate.unionDisplayNameWithArticlePrep.SAU=в Гulf Union
+
+TINationTemplate.displayName.JAM=Ямайка
+TINationTemplate.displayNameWithArticle.JAM=Ямайка
+TINationTemplate.nationAdjective.JAM=Ямайский
+TINationTemplate.displayNameWithArticlePrep.JAM=в Ямайке
+
+TINationTemplate.displayName.BAH=Багамы
+TINationTemplate.displayNameWithArticle.BAH=Багамы
+TINationTemplate.nationAdjective.BAH=Багамский
+TINationTemplate.displayNameWithArticlePrep.BAH=на Багамах
+
+TINationTemplate.displayName.AZO=Азоры-Мадейра
+TINationTemplate.displayNameWithArticle.AZO=Азоры-Мадейра
+TINationTemplate.nationAdjective.AZO=Азорский
+TINationTemplate.displayNameWithArticlePrep.AZO=в Азорах-Мадейра
+
+TINationTemplate.unionDisplayName.JAM=Карибское сообщество
+TINationTemplate.unionDisplayNameWithArticle.JAM=Карибское сообщество
+TINationTemplate.unionAdjective.JAM=Карибский
+TINationTemplate.unionDisplayNameWithArticlePrep.JAM=в Карибском сообществе
+
+TINationTemplate.displayName.AMB=Амбазония
+TINationTemplate.displayNameWithArticle.AMB=Амбазония
+TINationTemplate.nationAdjective.AMB=Амбазонский
+TINationTemplate.displayNameWithArticlePrep.AMB=в Амбазонии
+
+TINationTemplate.displayName.ESW=Эсватини
+TINationTemplate.displayNameWithArticle.ESW=Эсватини
+TINationTemplate.nationAdjective.ESW=Свазийский
+TINationTemplate.displayNameWithArticlePrep.ESW=в Эсватини
+
+TINationTemplate.displayName.LES=Лесото
+TINationTemplate.displayNameWithArticle.LES=Лесото
+TINationTemplate.nationAdjective.LES=Басото
+TINationTemplate.displayNameWithArticlePrep.LES=в Лесото
+
+TINationTemplate.displayName.GAM=Гамбия
+TINationTemplate.displayNameWithArticle.GAM=Гамбия
+TINationTemplate.nationAdjective.GAM=Гамбийский
+TINationTemplate.displayNameWithArticlePrep.GAM=в Гамбии
+
+TINationTemplate.displayName.BAS=Эускаль Эррия
+TINationTemplate.displayNameWithArticle.BAS=Эускаль Эррия
+TINationTemplate.nationAdjective.BAS=Баскский
+TINationTemplate.displayNameWithArticlePrep.BAS=в Эускаль Эррии
+
+TINationTemplate.unionDisplayName.ZAF=Федерация Южной Африки
+TINationTemplate.unionDisplayNameWithArticle.ZAF=Федерация Южной Африки
+TINationTemplate.unionAdjective.ZAF=Южноафриканский
+TINationTemplate.unionDisplayNameWithArticlePrep.ZAF=в Федерации Южной Африки
+
+TINationTemplate.displayName.KEO=Кео Деудаи
+TINationTemplate.displayNameWithArticle.KEO=Кео Деудаи
+TINationTemplate.nationAdjective.KEO=Кео
+TINationTemplate.displayNameWithArticlePrep.KEO=в Кео Деудаи
+
+TINationTemplate.displayName.NCL=Новая Каледония
+TINationTemplate.displayNameWithArticle.NCL=Новая Каледония
+TINationTemplate.nationAdjective.NCL=Новая Каледонец
+TINationTemplate.displayNameWithArticlePrep.NCL=в Новой Каледонии
+
+TINationTemplate.unionDisplayName.PAK=Пакистан
+TINationTemplate.unionDisplayNameWithArticle.PAK=Пакистан
+TINationTemplate.unionAdjective.PAK=Пакистанский
+TINationTemplate.unionDisplayNameWithArticlePrep.PAK=в Пакистане
+
+TINationTemplate.displayName.SIL=Силезия
+TINationTemplate.displayNameWithArticle.SIL=Силезия
+TINationTemplate.nationAdjective.SIL=Силезский
+TINationTemplate.displayNameWithArticlePrep.SIL=в Силезии
+
+TINationTemplate.displayName.PRA=Организация Объединенных Наций
+TINationTemplate.displayNameWithArticle.PRA=Организация Объединенных Наций
+TINationTemplate.nationAdjective.PRA=ООН
+TINationTemplate.displayNameWithArticlePrep.PRA=в ООН
+
+TINationTemplate.unionDisplayName.MLI=Сахельская конфедерация
+TINationTemplate.unionDisplayNameWithArticle.MLI=Сахельская конфедерация
+TINationTemplate.unionAdjective.MLI=Сахельский
+TINationTemplate.unionDisplayNameWithArticlePrep.MLI=в Сахельской конфедерации
+
+TINationTemplate.unionDisplayName.CMR=Центральноафриканская кооперация
+TINationTemplate.unionDisplayNameWithArticle.CMR=Центральноафриканская кооперация
+TINationTemplate.unionAdjective.CMR=Центральноафриканский
+TINationTemplate.unionDisplayNameWithArticlePrep.CMR=в Центральноафриканской кооперации
+
+TINationTemplate.unionDisplayName.DZA=Союз Магриба
+TINationTemplate.unionDisplayNameWithArticle.DZA=Союз Магриба
+TINationTemplate.unionAdjective.DZA=Магрибский
+TINationTemplate.unionDisplayNameWithArticlePrep.DZA=в Союзе Магриба
+
+TINationTemplate.unionDisplayName.IND=Акханд Бхарат
+TINationTemplate.unionDisplayNameWithArticle.IND=Акханд Бхарат
+TINationTemplate.unionAdjective.IND=Бхарат
+TINationTemplate.unionDisplayNameWithArticlePrep.IND=в Акханд Бхарате

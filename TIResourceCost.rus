@@ -1,5 +1,5 @@
 TIResourceCost.Cost=Стоимость: {0}
-TIResourceCost.NoCost=Бесплатно
+TIResourceCost.NoCost=Нет стоимости
 TIResourceCost.CostWithCompletionTime=Стоимость: {0} ({1} дней)
 TIResourceCost.CostWithCompletionTime_Hours=Стоимость: {0} ({1} часов)
 TIResourceCost.WithCompletionTime={0} ({1} дней)
