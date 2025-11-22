@@ -429,6 +429,7 @@ UI.Notifications.AlienNationConqueredHed={0} захватывает столиц
 UI.Notifications.AlienNationConqueredSummary=Человеческие армии победили {0} на Земле.
 UI.Notifications.AlienNationConqueredDetail=Армии под командованием {0} вошли в комплекс столичной площади {1} и захватили его после тяжелых боев. {2} пал!
 UI.Notifications.FleetSightedHeadline_1={0} Обнаружен флот
+UI.Notifications.FleetSightedHeadline_1=Обнаружен флот {0}
 UI.Notifications.FleetSightedHeadline=Обнаружен флот {0}
 UI.Notifications.FleetSightedSummary=Мы обнаружили новый флот {0} {1}.								// прилагательное фракции, описание местоположения флота
 UI.Notifications.FleetSightedDetail=С помощью телескопов наблюдения был обнаружен новый флот {0} {1}.			// прилагательное фракции, описание местоположения флота				

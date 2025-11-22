@@ -925,7 +925,7 @@ TINarrativeEventTemplate.event_ReligiousDecree_Evangelical.optionResult0={summar
 
 TINarrativeEventTemplate.displayName.event_NotInPeace=Они пришли не с миром
 TINarrativeEventTemplate.event_NotInPeace.summary=Изображения очевидно военных кораблей и сооружений пришельцев на дальних рубежах Солнечной системы разрушили надежды на мирный контакт.
-TINarrativeEventTemplate.event_NotInPeace.query=Многие, кто хотел искать пути сотрудничества с пришельцами, меняют свои взгляды в свете первых фактов об их прибытии.
+TINarrativeEventTemplate.event_NotInPeace.query=Многие, кто хотел искать пути сотрудничества с пришельцами, меняют свои взгляды в свете новых фактов об их прибытии.
 TINarrativeEventTemplate.event_NotInPeace.option0=Путь вперед будет трудным.
 TINarrativeEventTemplate.event_NotInPeace.optionDetail0=<skip/>
 TINarrativeEventTemplate.event_NotInPeace.optionResult0={summary}
